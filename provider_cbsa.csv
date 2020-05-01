@@ -1,0 +1,1103 @@
+,provider_type,cbsa,benefic_d_cnt,pop2017,state,region,cnt_per_1kcapita
+0,Addiction Medicine,28940,152,853645.0,TN,Knoxville,0.17805996637946686
+1,Addiction Medicine,32820,23,1338582.0,TN-MS-AR,Memphis,0.017182361633430003
+2,Addiction Medicine,34980,1283,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.6844437094395083
+3,All Other Suppliers,16860,22,555953.0,TN-GA,Chattanooga,0.039571690412678766
+4,All Other Suppliers,18260,293,,,,
+5,All Other Suppliers,18900,293,,,,
+6,All Other Suppliers,19420,151,32671.0,TN,Dayton,4.6218358789140215
+7,All Other Suppliers,27180,3557,178336.0,TN,Jackson,19.94549614211376
+8,All Other Suppliers,28940,1191,853645.0,TN,Knoxville,1.3951935523549017
+9,All Other Suppliers,34100,136,140898.0,TN,Morristown,0.9652372638362503
+10,All Other Suppliers,34980,3086,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.6462925076619819
+11,All Other Suppliers,42940,136,97307.0,TN,Sevierville,1.3976384021704502
+12,Allergy/ Immunology,16860,32656,555953.0,TN-GA,Chattanooga,58.73877827801991
+13,Allergy/ Immunology,17300,635,,,,
+14,Allergy/ Immunology,18260,10719,,,,
+15,Allergy/ Immunology,27180,1748,178336.0,TN,Jackson,9.80172259106406
+16,Allergy/ Immunology,27740,1450,201909.0,TN,Johnson City,7.1814530308208155
+17,Allergy/ Immunology,28700,5071,306496.0,TN-VA,Kingsport-Bristol,16.54507726038839
+18,Allergy/ Immunology,28940,46006,853645.0,TN,Knoxville,53.8935974556168
+19,Allergy/ Immunology,30280,728,33020.0,TN,Lewisburg,22.04724409448819
+20,Allergy/ Immunology,32820,18433,1338582.0,TN-MS-AR,Memphis,13.770542260391966
+21,Allergy/ Immunology,34980,28794,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.360773320032115
+22,Allergy/ Immunology,42940,1413,97307.0,TN,Sevierville,14.521051928432692
+23,Allergy/ Immunology,46100,4255,,,,
+24,Anesthesiology,16860,7744,555953.0,TN-GA,Chattanooga,13.929235025262926
+25,Anesthesiology,17300,7407,,,,
+26,Anesthesiology,17420,7540,122180.0,TN,Cleveland,61.71222786053364
+27,Anesthesiology,18260,7201,,,,
+28,Anesthesiology,18900,364,,,,
+29,Anesthesiology,27180,7383,178336.0,TN,Jackson,41.399380943836356
+30,Anesthesiology,28700,56,306496.0,TN-VA,Kingsport-Bristol,0.18271037794946754
+31,Anesthesiology,28940,8568,853645.0,TN,Knoxville,10.036959157495211
+32,Anesthesiology,30280,1347,33020.0,TN,Lewisburg,40.79345850999394
+33,Anesthesiology,32280,2345,33325.0,TN,Martin,70.36759189797449
+34,Anesthesiology,32820,24057,1338582.0,TN-MS-AR,Memphis,17.97200320936633
+35,Anesthesiology,34980,160290,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,85.51011861734902
+36,Anesthesiology,42940,1065,97307.0,TN,Sevierville,10.94474189934948
+37,Anesthesiology,43180,428,48211.0,TN,Shelbyville,8.877642031901432
+38,Anesthesiology,46100,5584,,,,
+39,Anesthesiology,46460,2345,30375.0,TN,Union City,77.20164609053498
+40,Audiologist,11940,538,52931.0,TN,Athens,10.164176002720522
+41,Audiologist,15140,3095,17607.0,TN,Brownsville,175.7823592889192
+42,Audiologist,16860,3578,555953.0,TN-GA,Chattanooga,6.43579583166203
+43,Audiologist,17300,1223,,,,
+44,Audiologist,17420,161,122180.0,TN,Cleveland,1.317727942380095
+45,Audiologist,18260,391,,,,
+46,Audiologist,18900,215,,,,
+47,Audiologist,24620,158,,,,
+48,Audiologist,27180,3163,178336.0,TN,Jackson,17.736183384173696
+49,Audiologist,27740,134,201909.0,TN,Johnson City,0.6636653145724063
+50,Audiologist,28700,688,306496.0,TN-VA,Kingsport-Bristol,2.2447275005220297
+51,Audiologist,28940,7106,853645.0,TN,Knoxville,8.324303428240077
+52,Audiologist,29980,28,43388.0,TN,Lawrenceburg,0.6453397252696599
+53,Audiologist,30280,212,33020.0,TN,Lewisburg,6.420351302241066
+54,Audiologist,32660,261,,,,
+55,Audiologist,32820,15669,1338582.0,TN-MS-AR,Memphis,11.705670627574552
+56,Audiologist,34980,13325,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.108505400063484
+57,Audiologist,42940,523,97307.0,TN,Sevierville,5.374741796581952
+58,Audiologist,43180,861,48211.0,TN,Shelbyville,17.858994835203582
+59,Audiologist,46100,861,,,,
+60,Cardiac Surgery,16860,654,555953.0,TN-GA,Chattanooga,1.1763584331769052
+61,Cardiac Surgery,17300,485,,,,
+62,Cardiac Surgery,18260,1401,,,,
+63,Cardiac Surgery,28700,183,306496.0,TN-VA,Kingsport-Bristol,0.5970714136562957
+64,Cardiac Surgery,28940,260,853645.0,TN,Knoxville,0.30457625828066703
+65,Cardiac Surgery,32820,11239,1338582.0,TN-MS-AR,Memphis,8.396198365135643
+66,Cardiac Surgery,34980,2186,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.166168315537619
+67,Cardiac Surgery,42940,205,97307.0,TN,Sevierville,2.1067343562128107
+68,Cardiology,15140,30883,17607.0,TN,Brownsville,1754.0182881808373
+69,Cardiology,16860,113317,555953.0,TN-GA,Chattanooga,203.82478374970546
+70,Cardiology,17300,10277,,,,
+71,Cardiology,17420,16380,122180.0,TN,Cleveland,134.06449500736616
+72,Cardiology,18260,22196,,,,
+73,Cardiology,18900,6457,,,,
+74,Cardiology,24620,1669,,,,
+75,Cardiology,27180,90422,178336.0,TN,Jackson,507.03167055445897
+76,Cardiology,27740,18598,201909.0,TN,Johnson City,92.11080239117622
+77,Cardiology,28700,39566,306496.0,TN-VA,Kingsport-Bristol,129.09140739193987
+78,Cardiology,28940,129731,853645.0,TN,Knoxville,151.97300985772773
+79,Cardiology,30280,5434,33020.0,TN,Lewisburg,164.56692913385825
+80,Cardiology,32280,4865,33325.0,TN,Martin,145.98649662415602
+81,Cardiology,32820,346464,1338582.0,TN-MS-AR,Memphis,258.82911917237794
+82,Cardiology,34100,14644,140898.0,TN,Morristown,103.93334185013272
+83,Cardiology,34980,145083,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,77.39762018442103
+84,Cardiology,35460,32,35528.0,TN,Newport,0.9006980409817609
+85,Cardiology,42940,41723,97307.0,TN,Sevierville,428.7769636305713
+86,Cardiology,43180,9693,48211.0,TN,Shelbyville,201.0537014374313
+87,Cardiology,46100,18913,,,,
+88,Cardiology,46460,4865,30375.0,TN,Union City,160.16460905349794
+89,Centralized Flu,11940,2363,52931.0,TN,Athens,44.64302582607545
+90,Centralized Flu,15140,1358,17607.0,TN,Brownsville,77.1284148350088
+91,Centralized Flu,16860,13448,555953.0,TN-GA,Chattanooga,24.18909512135019
+92,Centralized Flu,17300,3098,,,,
+93,Centralized Flu,17420,2648,122180.0,TN,Cleveland,21.67294156163038
+94,Centralized Flu,18260,3426,,,,
+95,Centralized Flu,18900,3592,,,,
+96,Centralized Flu,19420,761,32671.0,TN,Dayton,23.29282850234153
+97,Centralized Flu,20540,580,,,,
+98,Centralized Flu,24620,1771,,,,
+99,Centralized Flu,27180,3068,178336.0,TN,Jackson,17.203481069441953
+100,Centralized Flu,27740,3091,201909.0,TN,Johnson City,15.308876771218719
+101,Centralized Flu,28700,4898,306496.0,TN-VA,Kingsport-Bristol,15.980632699937356
+102,Centralized Flu,28940,13430,853645.0,TN,Knoxville,15.732535187343684
+103,Centralized Flu,29980,581,43388.0,TN,Lawrenceburg,13.39079929934544
+104,Centralized Flu,30280,2459,33020.0,TN,Lewisburg,74.47001817080557
+105,Centralized Flu,32280,2943,33325.0,TN,Martin,88.31207801950487
+106,Centralized Flu,32660,1122,,,,
+107,Centralized Flu,32820,23143,1338582.0,TN-MS-AR,Memphis,17.28919109923785
+108,Centralized Flu,34100,2779,140898.0,TN,Morristown,19.723487913242202
+109,Centralized Flu,34980,33530,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,17.88729351325543
+110,Centralized Flu,35460,1073,35528.0,TN,Newport,30.20153118666967
+111,Centralized Flu,37540,2030,,,,
+112,Centralized Flu,42940,3265,97307.0,TN,Sevierville,33.55359840504794
+113,Centralized Flu,43180,2381,48211.0,TN,Shelbyville,49.38706934102176
+114,Centralized Flu,46100,3629,,,,
+115,Centralized Flu,46460,913,30375.0,TN,Union City,30.05761316872428
+116,Certified Clinical Nurse Specialist,16860,1040,555953.0,TN-GA,Chattanooga,1.87066172859936
+117,Certified Clinical Nurse Specialist,17300,979,,,,
+118,Certified Clinical Nurse Specialist,18260,1057,,,,
+119,Certified Clinical Nurse Specialist,27740,3453,201909.0,TN,Johnson City,17.101763665809845
+120,Certified Clinical Nurse Specialist,28700,3575,306496.0,TN-VA,Kingsport-Bristol,11.664100020881186
+121,Certified Clinical Nurse Specialist,28940,2703,853645.0,TN,Knoxville,3.1664216389717037
+122,Certified Clinical Nurse Specialist,30280,331,33020.0,TN,Lewisburg,10.024227740763173
+123,Certified Clinical Nurse Specialist,34980,3050,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.6270875399770075
+124,Certified Nurse Midwife,16860,23,555953.0,TN-GA,Chattanooga,0.04137040361325508
+125,Certified Nurse Midwife,18260,70,,,,
+126,Certified Nurse Midwife,28700,493,306496.0,TN-VA,Kingsport-Bristol,1.6085038630194195
+127,Certified Nurse Midwife,28940,209,853645.0,TN,Knoxville,0.24483245377176696
+128,Certified Nurse Midwife,30280,85,33020.0,TN,Lewisburg,2.57419745608722
+129,Certified Nurse Midwife,34980,341,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.18191372168267525
+130,Certified Registered Nurse Anesthetist (CRNA),16860,1769,555953.0,TN-GA,Chattanooga,3.1819236518194884
+131,Certified Registered Nurse Anesthetist (CRNA),19100,123,14674194.0,TX,Dallas-Fort Worth-Arlington,0.008382061733680227
+132,Certified Registered Nurse Anesthetist (CRNA),27180,558,178336.0,TN,Jackson,3.128925174950655
+133,Certified Registered Nurse Anesthetist (CRNA),27740,161,201909.0,TN,Johnson City,0.7973889227325182
+134,Certified Registered Nurse Anesthetist (CRNA),28700,2390,306496.0,TN-VA,Kingsport-Bristol,7.797817916057632
+135,Certified Registered Nurse Anesthetist (CRNA),28940,1486,853645.0,TN,Knoxville,1.7407704607887353
+136,Certified Registered Nurse Anesthetist (CRNA),30280,34,33020.0,TN,Lewisburg,1.029678982434888
+137,Certified Registered Nurse Anesthetist (CRNA),32820,1170,1338582.0,TN-MS-AR,Memphis,0.8740592657005697
+138,Certified Registered Nurse Anesthetist (CRNA),34100,1768,140898.0,TN,Morristown,12.548084429871254
+139,Certified Registered Nurse Anesthetist (CRNA),34980,1241,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.662037913807038
+140,Certified Registered Nurse Anesthetist (CRNA),42940,398,97307.0,TN,Sevierville,4.090147676939994
+141,Certified Registered Nurse Anesthetist (CRNA),43180,21,48211.0,TN,Shelbyville,0.4355852398830143
+142,Certified Registered Nurse Anesthetist (CRNA),46100,21,,,,
+143,Chiropractic,11940,5864,52931.0,TN,Athens,110.78573992556346
+144,Chiropractic,15140,1626,17607.0,TN,Brownsville,92.34963366842733
+145,Chiropractic,16860,31826,555953.0,TN-GA,Chattanooga,57.24584632154157
+146,Chiropractic,17300,10935,,,,
+147,Chiropractic,17420,9367,122180.0,TN,Cleveland,76.66557538058602
+148,Chiropractic,18260,7000,,,,
+149,Chiropractic,18900,14692,,,,
+150,Chiropractic,19420,1417,32671.0,TN,Dayton,43.37179761868323
+151,Chiropractic,20540,4486,,,,
+152,Chiropractic,24620,3970,,,,
+153,Chiropractic,27180,16123,178336.0,TN,Jackson,90.40799389915665
+154,Chiropractic,27740,10935,201909.0,TN,Johnson City,54.158061304845255
+155,Chiropractic,28700,13494,306496.0,TN-VA,Kingsport-Bristol,44.02667571518062
+156,Chiropractic,28940,45560,853645.0,TN,Knoxville,53.37113202795073
+157,Chiropractic,29980,4225,43388.0,TN,Lawrenceburg,97.37715497372545
+158,Chiropractic,30280,7044,33020.0,TN,Lewisburg,213.3252574197456
+159,Chiropractic,32280,13273,33325.0,TN,Martin,398.28957239309824
+160,Chiropractic,32660,6416,,,,
+161,Chiropractic,32820,39706,1338582.0,TN-MS-AR,Memphis,29.662732652911814
+162,Chiropractic,34100,5783,140898.0,TN,Morristown,41.04387571150762
+163,Chiropractic,34980,75113,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,40.07063160337474
+164,Chiropractic,35460,1605,35528.0,TN,Newport,45.17563611799144
+165,Chiropractic,37540,6708,,,,
+166,Chiropractic,42940,8297,97307.0,TN,Sevierville,85.26621928535461
+167,Chiropractic,43180,7704,48211.0,TN,Shelbyville,159.79755657422578
+168,Chiropractic,46100,10890,,,,
+169,Chiropractic,46460,6603,30375.0,TN,Union City,217.38271604938274
+170,Clinic or Group Practice,15140,102,17607.0,TN,Brownsville,5.793150451524962
+171,Clinic or Group Practice,16860,40,555953.0,TN-GA,Chattanooga,0.07194852802305231
+172,Clinic or Group Practice,17300,99,,,,
+173,Clinic or Group Practice,18900,40,,,,
+174,Clinic or Group Practice,19420,40,32671.0,TN,Dayton,1.2243273851427872
+175,Clinic or Group Practice,27180,54,178336.0,TN,Jackson,0.30279921047909564
+176,Clinic or Group Practice,27740,906,201909.0,TN,Johnson City,4.487169962705972
+177,Clinic or Group Practice,28700,79,306496.0,TN-VA,Kingsport-Bristol,0.2577521403215703
+178,Clinic or Group Practice,30280,68,33020.0,TN,Lewisburg,2.059357964869776
+179,Clinic or Group Practice,32820,4342,1338582.0,TN-MS-AR,Memphis,3.243731052711003
+180,Clinic or Group Practice,34100,878,140898.0,TN,Morristown,6.231458218001675
+181,Clinic or Group Practice,34980,2439,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.3011365606570233
+182,Clinical Cardiac Electrophysiology,15140,385,17607.0,TN,Brownsville,21.86630317487363
+183,Clinical Cardiac Electrophysiology,16860,8869,555953.0,TN-GA,Chattanooga,15.952787375911274
+184,Clinical Cardiac Electrophysiology,18260,7349,,,,
+185,Clinical Cardiac Electrophysiology,27180,3644,178336.0,TN,Jackson,20.433339314552306
+186,Clinical Cardiac Electrophysiology,27740,1791,201909.0,TN,Johnson City,8.870332674620744
+187,Clinical Cardiac Electrophysiology,28700,11082,306496.0,TN-VA,Kingsport-Bristol,36.15707872207141
+188,Clinical Cardiac Electrophysiology,28940,8960,853645.0,TN,Knoxville,10.496166439210679
+189,Clinical Cardiac Electrophysiology,30280,81,33020.0,TN,Lewisburg,2.453058752271351
+190,Clinical Cardiac Electrophysiology,32820,5287,1338582.0,TN-MS-AR,Memphis,3.9497019980845405
+191,Clinical Cardiac Electrophysiology,34980,38914,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,20.759503124808283
+192,Clinical Laboratory,16860,7288,555953.0,TN-GA,Chattanooga,13.109021805800129
+193,Clinical Laboratory,27180,1163,178336.0,TN,Jackson,6.5213978108738555
+194,Clinical Laboratory,27740,38179,201909.0,TN,Johnson City,189.09013466462616
+195,Clinical Laboratory,28700,69940,306496.0,TN-VA,Kingsport-Bristol,228.19221131760284
+196,Clinical Laboratory,28940,512743,853645.0,TN,Knoxville,600.6513246138617
+197,Clinical Laboratory,30280,29575,33020.0,TN,Lewisburg,895.6692913385826
+198,Clinical Laboratory,32280,18759,33325.0,TN,Martin,562.9107276819205
+199,Clinical Laboratory,32820,1774994,1338582.0,TN-MS-AR,Memphis,1326.0256002247154
+200,Clinical Laboratory,34980,1917009,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1022.6693304668141
+201,Clinical Laboratory,37540,9903,,,,
+202,Clinical Laboratory,42940,464923,97307.0,TN,Sevierville,4777.898815090384
+203,Clinical Laboratory,46460,8856,30375.0,TN,Union City,291.55555555555554
+204,Colorectal Surgery (Proctology),16860,2047,555953.0,TN-GA,Chattanooga,3.681965921579702
+205,Colorectal Surgery (Proctology),19420,312,32671.0,TN,Dayton,9.54975360411374
+206,Colorectal Surgery (Proctology),27740,471,201909.0,TN,Johnson City,2.332734053459727
+207,Colorectal Surgery (Proctology),28940,2529,853645.0,TN,Knoxville,2.9625898353531035
+208,Colorectal Surgery (Proctology),32820,435,1338582.0,TN-MS-AR,Memphis,0.3249707526322631
+209,Colorectal Surgery (Proctology),34980,1556,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.8300813810505651
+210,Colorectal Surgery (Proctology),42940,365,97307.0,TN,Sevierville,3.751014829354517
+211,Critical Care (Intensivists),16860,542,555953.0,TN-GA,Chattanooga,0.9749025547123588
+212,Critical Care (Intensivists),28940,1251,853645.0,TN,Knoxville,1.4654803811889017
+213,Critical Care (Intensivists),32820,1879,1338582.0,TN-MS-AR,Memphis,1.4037242395310858
+214,Critical Care (Intensivists),34980,565,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.30141129838918335
+215,Critical Care (Intensivists),42940,39,97307.0,TN,Sevierville,0.40079336532829085
+216,Dermatology,16860,27481,555953.0,TN-GA,Chattanooga,49.43043746503751
+217,Dermatology,17300,3240,,,,
+218,Dermatology,18260,7369,,,,
+219,Dermatology,18900,789,,,,
+220,Dermatology,24620,4238,,,,
+221,Dermatology,27180,39443,178336.0,TN,Jackson,221.17239368383275
+222,Dermatology,27740,18684,201909.0,TN,Johnson City,92.53673684679733
+223,Dermatology,28700,40123,306496.0,TN-VA,Kingsport-Bristol,130.90872311547298
+224,Dermatology,28940,116067,853645.0,TN,Knoxville,135.96635603793143
+225,Dermatology,29980,6851,43388.0,TN,Lawrenceburg,157.9008020650871
+226,Dermatology,30280,11911,33020.0,TN,Lewisburg,360.7207752877044
+227,Dermatology,32280,718,33325.0,TN,Martin,21.545386346586646
+228,Dermatology,32820,100360,1338582.0,TN-MS-AR,Memphis,74.97486145787109
+229,Dermatology,34100,7895,140898.0,TN,Morristown,56.0334426322588
+230,Dermatology,34980,195334,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,104.20508771602255
+231,Dermatology,37540,718,,,,
+232,Dermatology,43180,6943,48211.0,TN,Shelbyville,144.01277716703655
+233,Dermatology,46100,6943,,,,
+234,Diagnostic Radiology,15140,25114,17607.0,TN,Brownsville,1426.3645141137047
+235,Diagnostic Radiology,16860,40331,555953.0,TN-GA,Chattanooga,72.54390209244306
+236,Diagnostic Radiology,17300,6904,,,,
+237,Diagnostic Radiology,17420,3725,122180.0,TN,Cleveland,30.48780487804878
+238,Diagnostic Radiology,18260,13714,,,,
+239,Diagnostic Radiology,27180,30614,178336.0,TN,Jackson,171.66472277050062
+240,Diagnostic Radiology,27740,408,201909.0,TN,Johnson City,2.020712301086133
+241,Diagnostic Radiology,28700,964,306496.0,TN-VA,Kingsport-Bristol,3.145228648987262
+242,Diagnostic Radiology,28940,54863,853645.0,TN,Knoxville,64.26910483866244
+243,Diagnostic Radiology,29980,367,43388.0,TN,Lawrenceburg,8.458559970498754
+244,Diagnostic Radiology,30280,2470,33020.0,TN,Lewisburg,74.80314960629921
+245,Diagnostic Radiology,32280,1011,33325.0,TN,Martin,30.337584396099025
+246,Diagnostic Radiology,32660,375,,,,
+247,Diagnostic Radiology,32820,64763,1338582.0,TN-MS-AR,Memphis,48.38179506373162
+248,Diagnostic Radiology,34980,159538,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,85.10894818126289
+249,Diagnostic Radiology,37540,1011,,,,
+250,Diagnostic Radiology,42940,4538,97307.0,TN,Sevierville,46.63590491948164
+251,Diagnostic Radiology,43180,39,48211.0,TN,Shelbyville,0.8089440169255979
+252,Emergency Medicine,15140,140,17607.0,TN,Brownsville,7.951382972681319
+253,Emergency Medicine,16860,15143,555953.0,TN-GA,Chattanooga,27.237913996327027
+254,Emergency Medicine,17300,7821,,,,
+255,Emergency Medicine,17420,1235,122180.0,TN,Cleveland,10.108037321983959
+256,Emergency Medicine,18260,10115,,,,
+257,Emergency Medicine,18900,6966,,,,
+258,Emergency Medicine,27180,3302,178336.0,TN,Jackson,18.51561098151803
+259,Emergency Medicine,27740,3373,201909.0,TN,Johnson City,16.705545567557664
+260,Emergency Medicine,28700,1510,306496.0,TN-VA,Kingsport-Bristol,4.926654833994571
+261,Emergency Medicine,28940,5118,853645.0,TN,Knoxville,5.995466499540207
+262,Emergency Medicine,30280,1518,33020.0,TN,Lewisburg,45.97213809812235
+263,Emergency Medicine,32820,25056,1338582.0,TN-MS-AR,Memphis,18.718315351618354
+264,Emergency Medicine,34100,837,140898.0,TN,Morristown,5.940467572286335
+265,Emergency Medicine,34980,25129,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,13.405600915436793
+266,Emergency Medicine,41620,748,1204205.0,UT,Salt Lake City,0.6211566967418338
+267,Emergency Medicine,42940,1410,97307.0,TN,Sevierville,14.490221669561286
+268,Emergency Medicine,43180,4972,48211.0,TN,Shelbyville,103.12999108087367
+269,Emergency Medicine,46100,4972,,,,
+270,Endocrinology,16860,14737,555953.0,TN-GA,Chattanooga,26.507636436893048
+271,Endocrinology,18260,2500,,,,
+272,Endocrinology,20540,4848,,,,
+273,Endocrinology,27180,2012,178336.0,TN,Jackson,11.282074286739636
+274,Endocrinology,27740,738,201909.0,TN,Johnson City,3.655111956376387
+275,Endocrinology,28700,5015,306496.0,TN-VA,Kingsport-Bristol,16.362366882438923
+276,Endocrinology,28940,47106,853645.0,TN,Knoxville,55.18218931757347
+277,Endocrinology,30280,1031,33020.0,TN,Lewisburg,31.223500908540277
+278,Endocrinology,32820,117345,1338582.0,TN-MS-AR,Memphis,87.66366199455842
+279,Endocrinology,34100,27592,140898.0,TN,Morristown,195.8296072336016
+280,Endocrinology,34980,51424,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,27.433229395336927
+281,Family Practice,11940,20761,52931.0,TN,Athens,392.22761708639547
+282,Family Practice,15140,76777,17607.0,TN,Brownsville,4360.595217811098
+283,Family Practice,16860,315797,555953.0,TN-GA,Chattanooga,568.0282326023962
+284,Family Practice,17300,91812,,,,
+285,Family Practice,17420,70783,122180.0,TN,Cleveland,579.3337698477657
+286,Family Practice,18260,94521,,,,
+287,Family Practice,18900,73081,,,,
+288,Family Practice,19420,15977,32671.0,TN,Dayton,489.02696581065777
+289,Family Practice,20540,32086,,,,
+290,Family Practice,24620,61413,,,,
+291,Family Practice,27180,220248,178336.0,TN,Jackson,1235.0170464740715
+292,Family Practice,27740,111609,201909.0,TN,Johnson City,552.7688215978486
+293,Family Practice,28700,184396,306496.0,TN-VA,Kingsport-Bristol,601.6261223637503
+294,Family Practice,28940,427516,853645.0,TN,Knoxville,500.81239859660633
+295,Family Practice,29980,23256,43388.0,TN,Lawrenceburg,536.0007375311145
+296,Family Practice,30280,54983,33020.0,TN,Lewisburg,1665.1423379769835
+297,Family Practice,32280,72277,33325.0,TN,Martin,2168.8522130532633
+298,Family Practice,32660,79308,,,,
+299,Family Practice,32820,263875,1338582.0,TN-MS-AR,Memphis,197.1302467835366
+300,Family Practice,34100,125529,140898.0,TN,Morristown,890.9210918536814
+301,Family Practice,34980,532446,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,284.0446728887205
+302,Family Practice,35460,37385,35528.0,TN,Newport,1052.2686331907228
+303,Family Practice,37540,36147,,,,
+304,Family Practice,42940,133802,97307.0,TN,Sevierville,1375.050099170666
+305,Family Practice,43180,75752,48211.0,TN,Shelbyville,1571.259671029433
+306,Family Practice,46100,105822,,,,
+307,Family Practice,46460,33582,30375.0,TN,Union City,1105.5802469135804
+308,Gastroenterology,15140,4143,17607.0,TN,Brownsville,235.30414039870507
+309,Gastroenterology,16860,20011,555953.0,TN-GA,Chattanooga,35.99404985673249
+310,Gastroenterology,17300,2108,,,,
+311,Gastroenterology,17420,2248,122180.0,TN,Cleveland,18.39908331969226
+312,Gastroenterology,18260,2806,,,,
+313,Gastroenterology,27180,23119,178336.0,TN,Jackson,129.63731383455948
+314,Gastroenterology,27740,2783,201909.0,TN,Johnson City,13.783437092947814
+315,Gastroenterology,28700,8871,306496.0,TN-VA,Kingsport-Bristol,28.943281478387973
+316,Gastroenterology,28940,20162,853645.0,TN,Knoxville,23.618717382518494
+317,Gastroenterology,30280,1961,33020.0,TN,Lewisburg,59.38824954572986
+318,Gastroenterology,32280,2794,33325.0,TN,Martin,83.84096024006001
+319,Gastroenterology,32820,167821,1338582.0,TN-MS-AR,Memphis,125.37222224712418
+320,Gastroenterology,34100,1745,140898.0,TN,Morristown,12.38484577495777
+321,Gastroenterology,34980,22693,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,12.106064768753518
+322,Gastroenterology,42940,2955,97307.0,TN,Sevierville,30.367804988335887
+323,Gastroenterology,43180,1923,48211.0,TN,Shelbyville,39.887162680716024
+324,Gastroenterology,46100,1923,,,,
+325,Gastroenterology,46460,2794,30375.0,TN,Union City,91.98353909465021
+326,General Practice,11940,1421,52931.0,TN,Athens,26.846271561088965
+327,General Practice,15140,8890,17607.0,TN,Brownsville,504.91281876526386
+328,General Practice,16860,1909,555953.0,TN-GA,Chattanooga,3.4337434999001717
+329,General Practice,17300,7585,,,,
+330,General Practice,18260,14795,,,,
+331,General Practice,18900,1628,,,,
+332,General Practice,24620,453,,,,
+333,General Practice,27180,340,178336.0,TN,Jackson,1.9065135474609725
+334,General Practice,27740,4785,201909.0,TN,Johnson City,23.69879500170869
+335,General Practice,28700,1708,306496.0,TN-VA,Kingsport-Bristol,5.572666527458759
+336,General Practice,28940,15046,853645.0,TN,Knoxville,17.625593777272755
+337,General Practice,30280,3478,33020.0,TN,Lewisburg,105.33010296789824
+338,General Practice,32280,32613,33325.0,TN,Martin,978.6346586646662
+339,General Practice,32660,6267,,,,
+340,General Practice,32820,18651,1338582.0,TN-MS-AR,Memphis,13.933401166308826
+341,General Practice,34100,10760,140898.0,TN,Morristown,76.36730116822098
+342,General Practice,34980,36428,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,19.433293411895875
+343,General Practice,37540,31248,,,,
+344,General Practice,46460,2169,30375.0,TN,Union City,71.4074074074074
+345,General Surgery,11940,4444,52931.0,TN,Athens,83.95836088492565
+346,General Surgery,15140,3607,17607.0,TN,Brownsville,204.861702731868
+347,General Surgery,16860,20417,555953.0,TN-GA,Chattanooga,36.724327416166474
+348,General Surgery,17300,1646,,,,
+349,General Surgery,17420,1575,122180.0,TN,Cleveland,12.890816827631363
+350,General Surgery,18260,3969,,,,
+351,General Surgery,18900,2700,,,,
+352,General Surgery,19420,380,32671.0,TN,Dayton,11.631110158856478
+353,General Surgery,20540,1672,,,,
+354,General Surgery,24620,1383,,,,
+355,General Surgery,27180,7990,178336.0,TN,Jackson,44.803068365332855
+356,General Surgery,27740,3308,201909.0,TN,Johnson City,16.383618362727763
+357,General Surgery,28700,5009,306496.0,TN-VA,Kingsport-Bristol,16.342790770515766
+358,General Surgery,28940,11638,853645.0,TN,Knoxville,13.63330189950155
+359,General Surgery,29980,337,43388.0,TN,Lawrenceburg,7.767124550566977
+360,General Surgery,30280,855,33020.0,TN,Lewisburg,25.893397940642036
+361,General Surgery,32280,3162,33325.0,TN,Martin,94.88372093023256
+362,General Surgery,32660,1173,,,,
+363,General Surgery,32820,10924,1338582.0,TN-MS-AR,Memphis,8.160874716677798
+364,General Surgery,34100,1593,140898.0,TN,Morristown,11.306051185964314
+365,General Surgery,34980,22695,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,12.107131711402683
+366,General Surgery,35460,409,35528.0,TN,Newport,11.512046836298131
+367,General Surgery,37540,1828,,,,
+368,General Surgery,42940,2445,97307.0,TN,Sevierville,25.126660980196696
+369,General Surgery,43180,2212,48211.0,TN,Shelbyville,45.881645267677506
+370,General Surgery,46100,4232,,,,
+371,General Surgery,46460,1334,30375.0,TN,Union City,43.91769547325103
+372,Geriatric Medicine,15140,7352,17607.0,TN,Brownsville,417.5611972510933
+373,Geriatric Medicine,16860,3263,555953.0,TN-GA,Chattanooga,5.8692011734804925
+374,Geriatric Medicine,18260,3065,,,,
+375,Geriatric Medicine,27180,7352,178336.0,TN,Jackson,41.225551767450206
+376,Geriatric Medicine,27740,113,201909.0,TN,Johnson City,0.5596580637812084
+377,Geriatric Medicine,32820,8119,1338582.0,TN-MS-AR,Memphis,6.065373656600791
+378,Geriatric Medicine,34980,1685,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.8988991819217238
+379,Geriatric Psychiatry,16860,226,555953.0,TN-GA,Chattanooga,0.40650918333024555
+380,Geriatric Psychiatry,28700,73,306496.0,TN-VA,Kingsport-Bristol,0.23817602839841304
+381,Gynecological Oncology,16860,1438,555953.0,TN-GA,Chattanooga,2.5865495824287303
+382,Gynecological Oncology,28700,473,306496.0,TN-VA,Kingsport-Bristol,1.5432501566088954
+383,Gynecological Oncology,28940,5863,853645.0,TN,Knoxville,6.868194624229041
+384,Gynecological Oncology,30280,204,33020.0,TN,Lewisburg,6.178073894609327
+385,Gynecological Oncology,32820,10256,1338582.0,TN-MS-AR,Memphis,7.661839170106874
+386,Gynecological Oncology,34980,8566,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,4.569715366374769
+387,Gynecological Oncology,42940,555,97307.0,TN,Sevierville,5.703597891210293
+388,Hand Surgery,15140,246,17607.0,TN,Brownsville,13.971715794854319
+389,Hand Surgery,16860,8344,555953.0,TN-GA,Chattanooga,15.008462945608711
+390,Hand Surgery,27180,2170,178336.0,TN,Jackson,12.168042347030324
+391,Hand Surgery,28940,13694,853645.0,TN,Knoxville,16.041797234213284
+392,Hand Surgery,32820,19882,1338582.0,TN-MS-AR,Memphis,14.853031043298056
+393,Hand Surgery,34980,11812,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,6.301363285969971
+394,Hand Surgery,42940,2276,97307.0,TN,Sevierville,23.38988973044077
+395,Hematology,30280,374,33020.0,TN,Lewisburg,11.326468806783767
+396,Hematology,32820,10860,1338582.0,TN-MS-AR,Memphis,8.113062927784775
+397,Hematology,34980,374,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.1995182753939019
+398,Hematology-Oncology,15140,706,17607.0,TN,Brownsville,40.097688419378656
+399,Hematology-Oncology,16860,143505,555953.0,TN-GA,Chattanooga,258.124337848703
+400,Hematology-Oncology,17300,39427,,,,
+401,Hematology-Oncology,17420,13275,122180.0,TN,Cleveland,108.6511704043215
+402,Hematology-Oncology,18260,172,,,,
+403,Hematology-Oncology,24620,42934,,,,
+404,Hematology-Oncology,27180,8582,178336.0,TN,Jackson,48.1226448950296
+405,Hematology-Oncology,27740,17722,201909.0,TN,Johnson City,87.77221421531482
+406,Hematology-Oncology,28700,76545,306496.0,TN-VA,Kingsport-Bristol,249.74224785967843
+407,Hematology-Oncology,28940,158101,853645.0,TN,Knoxville,185.20696542473743
+408,Hematology-Oncology,30280,6597,33020.0,TN,Lewisburg,199.78800726832222
+409,Hematology-Oncology,32280,1375,33325.0,TN,Martin,41.26031507876969
+410,Hematology-Oncology,32820,121999,1338582.0,TN-MS-AR,Memphis,91.1404755181229
+411,Hematology-Oncology,34100,15784,140898.0,TN,Morristown,112.02430126758364
+412,Hematology-Oncology,34980,299293,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,159.6642331483077
+413,Hematology-Oncology,42940,6549,97307.0,TN,Sevierville,67.30245511628145
+414,Hematology-Oncology,43180,4538,48211.0,TN,Shelbyville,94.12789612329136
+415,Hematology-Oncology,46100,4538,,,,
+416,Hematology-Oncology,46460,1375,30375.0,TN,Union City,45.26748971193416
+417,Hospice and Palliative Care,34980,2446,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.3048708599291017
+418,Hospitalist,32820,221,1338582.0,TN-MS-AR,Memphis,0.16510008352121872
+419,Independent Diagnostic Testing Facility (IDTF),15140,905,17607.0,TN,Brownsville,51.40001135911853
+420,Independent Diagnostic Testing Facility (IDTF),16860,4233,555953.0,TN-GA,Chattanooga,7.613952978039511
+421,Independent Diagnostic Testing Facility (IDTF),17300,268,,,,
+422,Independent Diagnostic Testing Facility (IDTF),17420,192,122180.0,TN,Cleveland,1.5714519561302995
+423,Independent Diagnostic Testing Facility (IDTF),27180,350,178336.0,TN,Jackson,1.962587475327472
+424,Independent Diagnostic Testing Facility (IDTF),27740,253,201909.0,TN,Johnson City,1.2530397357225285
+425,Independent Diagnostic Testing Facility (IDTF),28700,198,306496.0,TN-VA,Kingsport-Bristol,0.6460116934641887
+426,Independent Diagnostic Testing Facility (IDTF),28940,10534,853645.0,TN,Knoxville,12.340024248955947
+427,Independent Diagnostic Testing Facility (IDTF),29980,1220,43388.0,TN,Lawrenceburg,28.11837374389232
+428,Independent Diagnostic Testing Facility (IDTF),32820,9725,1338582.0,TN-MS-AR,Memphis,7.265150734135077
+429,Independent Diagnostic Testing Facility (IDTF),34980,28273,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.082834759924568
+430,Independent Diagnostic Testing Facility (IDTF),43180,85,48211.0,TN,Shelbyville,1.7630831138122005
+431,Independent Diagnostic Testing Facility (IDTF),46100,695,,,,
+432,Infectious Disease,15140,2673,17607.0,TN,Brownsville,151.8146191855512
+433,Infectious Disease,16860,3925,555953.0,TN-GA,Chattanooga,7.059949312262008
+434,Infectious Disease,17420,37,122180.0,TN,Cleveland,0.30283188737927647
+435,Infectious Disease,18260,488,,,,
+436,Infectious Disease,27180,2673,178336.0,TN,Jackson,14.988560918715233
+437,Infectious Disease,27740,731,201909.0,TN,Johnson City,3.6204428727793214
+438,Infectious Disease,28940,1934,853645.0,TN,Knoxville,2.2655787827492695
+439,Infectious Disease,32820,5440,1338582.0,TN-MS-AR,Memphis,4.064002055906922
+440,Infectious Disease,34980,6671,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.558787206290694
+441,Infectious Disease,42940,347,97307.0,TN,Sevierville,3.5660332761260753
+442,Infectious Disease,43180,1243,48211.0,TN,Shelbyville,25.782497770218416
+443,Infectious Disease,46100,1243,,,,
+444,Internal Medicine,11940,38453,52931.0,TN,Athens,726.4740889082012
+445,Internal Medicine,15140,36331,17607.0,TN,Brownsville,2063.4406770034643
+446,Internal Medicine,16860,366701,555953.0,TN-GA,Chattanooga,659.5899293645326
+447,Internal Medicine,17300,54839,,,,
+448,Internal Medicine,17420,67667,122180.0,TN,Cleveland,553.8304141430675
+449,Internal Medicine,18260,75833,,,,
+450,Internal Medicine,18900,131181,,,,
+451,Internal Medicine,19420,19510,32671.0,TN,Dayton,597.1656821033945
+452,Internal Medicine,20540,52773,,,,
+453,Internal Medicine,24620,19702,,,,
+454,Internal Medicine,27180,145531,178336.0,TN,Jackson,816.0494796339493
+455,Internal Medicine,27740,147092,201909.0,TN,Johnson City,728.5064063513761
+456,Internal Medicine,28700,91693,306496.0,TN-VA,Kingsport-Bristol,299.16540509500936
+457,Internal Medicine,28940,582716,853645.0,TN,Knoxville,682.6209958472199
+458,Internal Medicine,29980,27359,43388.0,TN,Lawrenceburg,630.5660551304509
+459,Internal Medicine,30280,27338,33020.0,TN,Lewisburg,827.9224712295579
+460,Internal Medicine,32280,66254,33325.0,TN,Martin,1988.1170292573142
+461,Internal Medicine,32660,24594,,,,
+462,Internal Medicine,32820,597827,1338582.0,TN-MS-AR,Memphis,446.6121612273286
+463,Internal Medicine,34100,61314,140898.0,TN,Morristown,435.16586466805774
+464,Internal Medicine,34980,648501,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,345.95668746315715
+465,Internal Medicine,35460,5938,35528.0,TN,Newport,167.135780229678
+466,Internal Medicine,37540,45248,,,,
+467,Internal Medicine,42940,43522,97307.0,TN,Sevierville,447.26484220045836
+468,Internal Medicine,43180,44613,48211.0,TN,Shelbyville,925.3697289000436
+469,Internal Medicine,46100,71262,,,,
+470,Internal Medicine,46460,13156,30375.0,TN,Union City,433.119341563786
+471,Interventional Cardiology,15140,30279,17607.0,TN,Brownsville,1719.7137502129835
+472,Interventional Cardiology,16860,5850,555953.0,TN-GA,Chattanooga,10.5224722233714
+473,Interventional Cardiology,18260,15261,,,,
+474,Interventional Cardiology,27180,30279,178336.0,TN,Jackson,169.7862461869729
+475,Interventional Cardiology,27740,2887,201909.0,TN,Johnson City,14.29852062067565
+476,Interventional Cardiology,28700,1616,306496.0,TN-VA,Kingsport-Bristol,5.272499477970349
+477,Interventional Cardiology,28940,2007,853645.0,TN,Knoxville,2.351094424497303
+478,Interventional Cardiology,32820,16399,1338582.0,TN-MS-AR,Memphis,12.251023844635592
+479,Interventional Cardiology,34980,28683,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.301558003003443
+480,Interventional Pain Management,16860,22316,555953.0,TN-GA,Chattanooga,40.140083784060884
+481,Interventional Pain Management,17420,5964,122180.0,TN,Cleveland,48.81322638729743
+482,Interventional Pain Management,27180,5170,178336.0,TN,Jackson,28.990220706980082
+483,Interventional Pain Management,27740,1045,201909.0,TN,Johnson City,5.17559890841914
+484,Interventional Pain Management,28700,1685,306496.0,TN-VA,Kingsport-Bristol,5.497624765086657
+485,Interventional Pain Management,28940,3015,853645.0,TN,Knoxville,3.531913148908504
+486,Interventional Pain Management,30280,409,33020.0,TN,Lewisburg,12.386432465172621
+487,Interventional Pain Management,32280,2683,33325.0,TN,Martin,80.51012753188297
+488,Interventional Pain Management,32820,7015,1338582.0,TN-MS-AR,Memphis,5.24062029819615
+489,Interventional Pain Management,34100,2162,140898.0,TN,Morristown,15.344433561867449
+490,Interventional Pain Management,34980,9681,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,5.1645358932843966
+491,Interventional Pain Management,37540,2683,,,,
+492,Interventional Pain Management,43180,12480,48211.0,TN,Shelbyville,258.86208541619135
+493,Interventional Pain Management,46100,15584,,,,
+494,Interventional Radiology,15140,1158,17607.0,TN,Brownsville,65.76929630260692
+495,Interventional Radiology,27180,1158,178336.0,TN,Jackson,6.493360846940607
+496,Interventional Radiology,28940,275,853645.0,TN,Knoxville,0.322147965489167
+497,Interventional Radiology,32820,7370,1338582.0,TN-MS-AR,Memphis,5.505826314712136
+498,Interventional Radiology,34980,6074,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.2403048255148663
+499,Interventional Radiology,42940,47,97307.0,TN,Sevierville,0.48300738898537615
+500,Licensed Clinical Social Worker,11940,7560,52931.0,TN,Athens,142.8274546107196
+501,Licensed Clinical Social Worker,15140,5077,17607.0,TN,Brownsville,288.3512239450219
+502,Licensed Clinical Social Worker,16860,11248,555953.0,TN-GA,Chattanooga,20.23192608008231
+503,Licensed Clinical Social Worker,17300,1320,,,,
+504,Licensed Clinical Social Worker,17420,268,122180.0,TN,Cleveland,2.1934850220985433
+505,Licensed Clinical Social Worker,18260,4012,,,,
+506,Licensed Clinical Social Worker,18900,396,,,,
+507,Licensed Clinical Social Worker,24620,284,,,,
+508,Licensed Clinical Social Worker,27180,17753,178336.0,TN,Jackson,99.54804414139602
+509,Licensed Clinical Social Worker,27740,1004,201909.0,TN,Johnson City,4.972537133064896
+510,Licensed Clinical Social Worker,28700,1193,306496.0,TN-VA,Kingsport-Bristol,3.8923835873877635
+511,Licensed Clinical Social Worker,28940,13363,853645.0,TN,Knoxville,15.654048228479052
+512,Licensed Clinical Social Worker,29980,330,43388.0,TN,Lawrenceburg,7.605789619249562
+513,Licensed Clinical Social Worker,30280,1796,33020.0,TN,Lewisburg,54.391278013325255
+514,Licensed Clinical Social Worker,32280,2396,33325.0,TN,Martin,71.89797449362341
+515,Licensed Clinical Social Worker,32820,13077,1338582.0,TN-MS-AR,Memphis,9.769293177407137
+516,Licensed Clinical Social Worker,34100,866,140898.0,TN,Morristown,6.14629022413377
+517,Licensed Clinical Social Worker,34980,21075,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,11.242908165578829
+518,Licensed Clinical Social Worker,37540,1499,,,,
+519,Licensed Clinical Social Worker,42940,1375,97307.0,TN,Sevierville,14.130535316061538
+520,Licensed Clinical Social Worker,43180,2561,48211.0,TN,Shelbyville,53.1206571114476
+521,Licensed Clinical Social Worker,46100,2709,,,,
+522,Licensed Clinical Social Worker,46460,897,30375.0,TN,Union City,29.530864197530864
+523,Mass Immunizer Roster Biller,11940,3827,52931.0,TN,Athens,72.30167576656402
+524,Mass Immunizer Roster Biller,15140,2027,17607.0,TN,Brownsville,115.1246663258931
+525,Mass Immunizer Roster Biller,16860,19488,555953.0,TN-GA,Chattanooga,35.05332285283108
+526,Mass Immunizer Roster Biller,17300,5020,,,,
+527,Mass Immunizer Roster Biller,17420,6037,122180.0,TN,Cleveland,49.41070551645114
+528,Mass Immunizer Roster Biller,18260,9310,,,,
+529,Mass Immunizer Roster Biller,18900,11924,,,,
+530,Mass Immunizer Roster Biller,19420,1399,32671.0,TN,Dayton,42.82085029536898
+531,Mass Immunizer Roster Biller,20540,4874,,,,
+532,Mass Immunizer Roster Biller,24620,1773,,,,
+533,Mass Immunizer Roster Biller,27180,8447,178336.0,TN,Jackson,47.36564686883187
+534,Mass Immunizer Roster Biller,27740,4582,201909.0,TN,Johnson City,22.693391577393776
+535,Mass Immunizer Roster Biller,28700,4776,306496.0,TN-VA,Kingsport-Bristol,15.58258509083316
+536,Mass Immunizer Roster Biller,28940,26622,853645.0,TN,Knoxville,31.186265953645837
+537,Mass Immunizer Roster Biller,29980,2562,43388.0,TN,Lawrenceburg,59.048584862173875
+538,Mass Immunizer Roster Biller,30280,4294,33020.0,TN,Lewisburg,130.04239854633556
+539,Mass Immunizer Roster Biller,32280,5403,33325.0,TN,Martin,162.1305326331583
+540,Mass Immunizer Roster Biller,32660,4686,,,,
+541,Mass Immunizer Roster Biller,32820,37516,1338582.0,TN-MS-AR,Memphis,28.026673001728696
+542,Mass Immunizer Roster Biller,34100,3857,140898.0,TN,Morristown,27.37441269570895
+543,Mass Immunizer Roster Biller,34980,52569,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,28.044054061984035
+544,Mass Immunizer Roster Biller,35460,618,35528.0,TN,Newport,17.394730916460254
+545,Mass Immunizer Roster Biller,37540,2844,,,,
+546,Mass Immunizer Roster Biller,42940,3164,97307.0,TN,Sevierville,32.51564635637724
+547,Mass Immunizer Roster Biller,43180,6347,48211.0,TN,Shelbyville,131.650453216071
+548,Mass Immunizer Roster Biller,46100,9543,,,,
+549,Mass Immunizer Roster Biller,46460,1935,30375.0,TN,Union City,63.70370370370371
+550,Maxillofacial Surgery,16860,309,555953.0,TN-GA,Chattanooga,0.555802378978079
+551,Maxillofacial Surgery,17300,97,,,,
+552,Maxillofacial Surgery,28940,1143,853645.0,TN,Knoxville,1.3389640892877015
+553,Maxillofacial Surgery,34980,264,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.14083642968981308
+554,Maxillofacial Surgery,42940,717,97307.0,TN,Sevierville,7.368431870266271
+555,Maxillofacial Surgery,43180,49,48211.0,TN,Shelbyville,1.0163655597270331
+556,Maxillofacial Surgery,46100,49,,,,
+557,Medical Oncology,15140,1015,17607.0,TN,Brownsville,57.64752655193957
+558,Medical Oncology,16860,9985,555953.0,TN-GA,Chattanooga,17.960151307754433
+559,Medical Oncology,17300,26305,,,,
+560,Medical Oncology,18900,29293,,,,
+561,Medical Oncology,27180,1015,178336.0,TN,Jackson,5.691503678449668
+562,Medical Oncology,27740,1261,201909.0,TN,Johnson City,6.245387773700034
+563,Medical Oncology,28700,5508,306496.0,TN-VA,Kingsport-Bristol,17.970870745458342
+564,Medical Oncology,28940,42686,853645.0,TN,Knoxville,50.004392926802126
+565,Medical Oncology,30280,5465,33020.0,TN,Lewisburg,165.50575408843127
+566,Medical Oncology,32660,38,,,,
+567,Medical Oncology,32820,20163,1338582.0,TN-MS-AR,Memphis,15.062954678906484
+568,Medical Oncology,34100,144,140898.0,TN,Morristown,1.0220159264148534
+569,Medical Oncology,34980,212744,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,113.49282347700606
+570,Medical Oncology,42940,462,97307.0,TN,Sevierville,4.747859866196676
+571,Medical Oncology,43180,20826,48211.0,TN,Shelbyville,431.9761050382693
+572,Medical Oncology,46100,20826,,,,
+573,Nephrology,15140,18746,17607.0,TN,Brownsville,1064.6901800420287
+574,Nephrology,16860,102897,555953.0,TN-GA,Chattanooga,185.08219219970036
+575,Nephrology,17300,2775,,,,
+576,Nephrology,18260,4015,,,,
+577,Nephrology,18900,4208,,,,
+578,Nephrology,20540,2294,,,,
+579,Nephrology,27180,26746,178336.0,TN,Jackson,149.97532747173875
+580,Nephrology,27740,3491,201909.0,TN,Johnson City,17.28996726247963
+581,Nephrology,28700,3195,306496.0,TN-VA,Kingsport-Bristol,10.424279599081228
+582,Nephrology,28940,22999,853645.0,TN,Knoxville,26.942112939219463
+583,Nephrology,30280,6046,33020.0,TN,Lewisburg,183.10115081768623
+584,Nephrology,32280,2230,33325.0,TN,Martin,66.91672918229557
+585,Nephrology,32660,1209,,,,
+586,Nephrology,32820,43035,1338582.0,TN-MS-AR,Memphis,32.14969273455044
+587,Nephrology,34100,2273,140898.0,TN,Morristown,16.132237505145564
+588,Nephrology,34980,46428,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,24.768006657722133
+589,Nephrology,42940,4696,97307.0,TN,Sevierville,48.25963188670908
+590,Nephrology,43180,3951,48211.0,TN,Shelbyville,81.9522515608471
+591,Nephrology,46100,5629,,,,
+592,Nephrology,46460,2230,30375.0,TN,Union City,73.4156378600823
+593,Neurology,11940,1396,52931.0,TN,Athens,26.37395854981013
+594,Neurology,15140,8211,17607.0,TN,Brownsville,466.3486113477594
+595,Neurology,16860,27411,555953.0,TN-GA,Chattanooga,49.30452754099717
+596,Neurology,17300,747,,,,
+597,Neurology,17420,1268,122180.0,TN,Cleveland,10.378130626943854
+598,Neurology,18260,4554,,,,
+599,Neurology,18900,2084,,,,
+600,Neurology,27180,8581,178336.0,TN,Jackson,48.11703750224296
+601,Neurology,27740,3914,201909.0,TN,Johnson City,19.38497045698805
+602,Neurology,28700,8408,306496.0,TN-VA,Kingsport-Bristol,27.43265817498434
+603,Neurology,28940,31335,853645.0,TN,Knoxville,36.70729635855655
+604,Neurology,29980,2052,43388.0,TN,Lawrenceburg,47.29418272333364
+605,Neurology,30280,3032,33020.0,TN,Lewisburg,91.82313749242883
+606,Neurology,32820,48512,1338582.0,TN-MS-AR,Memphis,36.241335980911145
+607,Neurology,34100,2300,140898.0,TN,Morristown,16.32386549134835
+608,Neurology,34980,52373,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,27.93949368236584
+609,Neurology,46100,761,,,,
+610,Neuropsychiatry,34980,186,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.09922566637236832
+611,Neurosurgery,15140,1654,17607.0,TN,Brownsville,93.9399102629636
+612,Neurosurgery,16860,2297,555953.0,TN-GA,Chattanooga,4.1316442217237785
+613,Neurosurgery,18260,2697,,,,
+614,Neurosurgery,27180,1654,178336.0,TN,Jackson,9.274627669118965
+615,Neurosurgery,27740,1440,201909.0,TN,Johnson City,7.1319257685392925
+616,Neurosurgery,28700,3045,306496.0,TN-VA,Kingsport-Bristol,9.934876801002297
+617,Neurosurgery,28940,6809,853645.0,TN,Knoxville,7.976383625511776
+618,Neurosurgery,30280,215,33020.0,TN,Lewisburg,6.5112053301029675
+619,Neurosurgery,32820,10407,1338582.0,TN-MS-AR,Memphis,7.774645109526349
+620,Neurosurgery,34980,16787,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,8.955383125768531
+621,Neurosurgery,42940,2942,97307.0,TN,Sevierville,30.23420719989312
+622,Neurosurgery,43180,784,48211.0,TN,Shelbyville,16.26184895563253
+623,Neurosurgery,46100,784,,,,
+624,Nuclear Medicine,32820,68,1338582.0,TN-MS-AR,Memphis,0.05080002569883653
+625,Nuclear Medicine,34980,661,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.3526245455491154
+626,Nurse Practitioner,11940,22332,52931.0,TN,Athens,421.90776671515744
+627,Nurse Practitioner,15140,39612,17607.0,TN,Brownsville,2249.7870165275176
+628,Nurse Practitioner,16860,215679,555953.0,TN-GA,Chattanooga,387.9446643870975
+629,Nurse Practitioner,17300,53056,,,,
+630,Nurse Practitioner,17420,60842,122180.0,TN,Cleveland,497.97020788999833
+631,Nurse Practitioner,18260,87028,,,,
+632,Nurse Practitioner,18900,38767,,,,
+633,Nurse Practitioner,19100,102,14674194.0,TX,Dallas-Fort Worth-Arlington,0.006950978023051896
+634,Nurse Practitioner,19420,11689,32671.0,TN,Dayton,357.77907012335095
+635,Nurse Practitioner,20540,44052,,,,
+636,Nurse Practitioner,24620,24933,,,,
+637,Nurse Practitioner,27180,167351,178336.0,TN,Jackson,938.4027902386506
+638,Nurse Practitioner,27740,144095,201909.0,TN,Johnson City,713.6630858456036
+639,Nurse Practitioner,28700,138593,306496.0,TN-VA,Kingsport-Bristol,452.18534662768843
+640,Nurse Practitioner,28940,376949,853645.0,TN,Knoxville,441.57583070245823
+641,Nurse Practitioner,29980,51943,43388.0,TN,Lawrenceburg,1197.1743339172122
+642,Nurse Practitioner,30280,56296,33020.0,TN,Lewisburg,1704.9061175045429
+643,Nurse Practitioner,32280,71038,33325.0,TN,Martin,2131.672918229557
+644,Nurse Practitioner,32660,21282,,,,
+645,Nurse Practitioner,32820,310620,1338582.0,TN-MS-AR,Memphis,232.05152915547944
+646,Nurse Practitioner,34100,72084,140898.0,TN,Morristown,511.604139164502
+647,Nurse Practitioner,34980,554919,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,296.0333739660659
+648,Nurse Practitioner,35460,9404,35528.0,TN,Newport,264.69263679351496
+649,Nurse Practitioner,35980,15,267419.0,CT,Norwich-New London,0.05609175114707631
+650,Nurse Practitioner,37540,41129,,,,
+651,Nurse Practitioner,42940,54925,97307.0,TN,Sevierville,564.4506561706763
+652,Nurse Practitioner,43180,49122,48211.0,TN,Shelbyville,1018.8961025492107
+653,Nurse Practitioner,46100,66090,,,,
+654,Nurse Practitioner,46460,28879,30375.0,TN,Union City,950.7489711934156
+655,Obstetrics & Gynecology,11940,196,52931.0,TN,Athens,3.7029340084260642
+656,Obstetrics & Gynecology,15140,3623,17607.0,TN,Brownsville,205.77043221446016
+657,Obstetrics & Gynecology,16860,19496,555953.0,TN-GA,Chattanooga,35.067712558435694
+658,Obstetrics & Gynecology,17300,950,,,,
+659,Obstetrics & Gynecology,17420,1760,122180.0,TN,Cleveland,14.404976264527745
+660,Obstetrics & Gynecology,18260,2740,,,,
+661,Obstetrics & Gynecology,18900,1764,,,,
+662,Obstetrics & Gynecology,20540,488,,,,
+663,Obstetrics & Gynecology,24620,392,,,,
+664,Obstetrics & Gynecology,27180,7999,178336.0,TN,Jackson,44.853534900412704
+665,Obstetrics & Gynecology,27740,5829,201909.0,TN,Johnson City,28.869441183899674
+666,Obstetrics & Gynecology,28700,5418,306496.0,TN-VA,Kingsport-Bristol,17.677229066610984
+667,Obstetrics & Gynecology,28940,18234,853645.0,TN,Knoxville,21.360167282652625
+668,Obstetrics & Gynecology,30280,3080,33020.0,TN,Lewisburg,93.27680193821926
+669,Obstetrics & Gynecology,32280,3024,33325.0,TN,Martin,90.74268567141786
+670,Obstetrics & Gynecology,32660,289,,,,
+671,Obstetrics & Gynecology,32820,38652,1338582.0,TN-MS-AR,Memphis,28.875332254579845
+672,Obstetrics & Gynecology,34100,675,140898.0,TN,Morristown,4.790699655069625
+673,Obstetrics & Gynecology,34980,28671,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.295156347108453
+674,Obstetrics & Gynecology,37540,623,,,,
+675,Obstetrics & Gynecology,42940,3674,97307.0,TN,Sevierville,37.75679036451643
+676,Obstetrics & Gynecology,43180,624,48211.0,TN,Shelbyville,12.943104270809567
+677,Obstetrics & Gynecology,46100,2448,,,,
+678,Obstetrics & Gynecology,46460,2401,30375.0,TN,Union City,79.04526748971195
+679,Occupational Therapist in Private Practice,16860,3444,555953.0,TN-GA,Chattanooga,6.194768262784804
+680,Occupational Therapist in Private Practice,17300,1052,,,,
+681,Occupational Therapist in Private Practice,17420,141,122180.0,TN,Cleveland,1.1540350302831888
+682,Occupational Therapist in Private Practice,18260,2103,,,,
+683,Occupational Therapist in Private Practice,18900,654,,,,
+684,Occupational Therapist in Private Practice,20540,537,,,,
+685,Occupational Therapist in Private Practice,27180,1354,178336.0,TN,Jackson,7.59240983312399
+686,Occupational Therapist in Private Practice,28700,286,306496.0,TN-VA,Kingsport-Bristol,0.9331280016704949
+687,Occupational Therapist in Private Practice,28940,7211,853645.0,TN,Knoxville,8.447305378699577
+688,Occupational Therapist in Private Practice,30280,802,33020.0,TN,Lewisburg,24.288310115081767
+689,Occupational Therapist in Private Practice,32280,539,33325.0,TN,Martin,16.17404351087772
+690,Occupational Therapist in Private Practice,32820,4891,1338582.0,TN-MS-AR,Memphis,3.653866554308963
+691,Occupational Therapist in Private Practice,34100,1107,140898.0,TN,Morristown,7.856747434314184
+692,Occupational Therapist in Private Practice,34980,7823,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,4.173346172209878
+693,Occupational Therapist in Private Practice,37540,539,,,,
+694,Occupational Therapist in Private Practice,42940,623,97307.0,TN,Sevierville,6.402417092295518
+695,Ophthalmology,15140,31184,17607.0,TN,Brownsville,1771.113761572102
+696,Ophthalmology,16860,122977,555953.0,TN-GA,Chattanooga,221.2003532672726
+697,Ophthalmology,17300,6903,,,,
+698,Ophthalmology,17420,7322,122180.0,TN,Cleveland,59.92797511867736
+699,Ophthalmology,18260,9173,,,,
+700,Ophthalmology,18900,22674,,,,
+701,Ophthalmology,20540,4624,,,,
+702,Ophthalmology,24620,3446,,,,
+703,Ophthalmology,27180,45080,178336.0,TN,Jackson,252.7812668221784
+704,Ophthalmology,27740,23061,201909.0,TN,Johnson City,114.21481954741988
+705,Ophthalmology,28700,62702,306496.0,TN-VA,Kingsport-Bristol,204.57689496763416
+706,Ophthalmology,28940,150982,853645.0,TN,Knoxville,176.86743318358333
+707,Ophthalmology,30280,8685,33020.0,TN,Lewisburg,263.02241066020594
+708,Ophthalmology,32820,156483,1338582.0,TN-MS-AR,Memphis,116.90206502104465
+709,Ophthalmology,34100,4589,140898.0,TN,Morristown,32.56966032165112
+710,Ophthalmology,34980,242861,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,129.559379359461
+711,Ophthalmology,41660,1606,,,,
+712,Ophthalmology,42940,33955,97307.0,TN,Sevierville,348.9471466595415
+713,Ophthalmology,43180,12423,48211.0,TN,Shelbyville,257.6797826222231
+714,Ophthalmology,46100,12423,,,,
+715,Optometry,11940,9531,52931.0,TN,Athens,180.06461241994296
+716,Optometry,15140,3393,17607.0,TN,Brownsville,192.70744590219797
+717,Optometry,16860,33123,555953.0,TN-GA,Chattanooga,59.578777342689044
+718,Optometry,17300,8771,,,,
+719,Optometry,17420,4165,122180.0,TN,Cleveland,34.08904894418072
+720,Optometry,18260,13729,,,,
+721,Optometry,18900,8073,,,,
+722,Optometry,19420,929,32671.0,TN,Dayton,28.435003519941233
+723,Optometry,20540,2314,,,,
+724,Optometry,24620,7409,,,,
+725,Optometry,27180,22571,178336.0,TN,Jackson,126.56446258747533
+726,Optometry,27740,10004,201909.0,TN,Johnson City,49.547073186435476
+727,Optometry,28700,12026,306496.0,TN-VA,Kingsport-Bristol,39.23705366464815
+728,Optometry,28940,39539,853645.0,TN,Knoxville,46.31784875445882
+729,Optometry,29980,3737,43388.0,TN,Lawrenceburg,86.12980547616853
+730,Optometry,30280,10443,33020.0,TN,Lewisburg,316.26287098728045
+731,Optometry,32280,23599,33325.0,TN,Martin,708.1470367591897
+732,Optometry,32660,4664,,,,
+733,Optometry,32820,59901,1338582.0,TN-MS-AR,Memphis,44.74959322626481
+734,Optometry,34100,18251,140898.0,TN,Morristown,129.53342134026033
+735,Optometry,34980,63005,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,33.61136080532831
+736,Optometry,35460,1821,35528.0,TN,Newport,51.25534789461833
+737,Optometry,36740,345,2517777.0,FL,Orlando-Kissimmee-Sanford,0.13702563809265078
+738,Optometry,37540,14552,,,,
+739,Optometry,42940,6519,97307.0,TN,Sevierville,66.9941525275674
+740,Optometry,43180,15256,48211.0,TN,Shelbyville,316.4423056978698
+741,Optometry,46100,17012,,,,
+742,Optometry,46460,8311,30375.0,TN,Union City,273.61316872427983
+743,Oral Surgery (Dentist only),16860,415,555953.0,TN-GA,Chattanooga,0.7464659782391677
+744,Oral Surgery (Dentist only),28940,242,853645.0,TN,Knoxville,0.283490209630467
+745,Oral Surgery (Dentist only),34100,13,140898.0,TN,Morristown,0.09226532669022981
+746,Oral Surgery (Dentist only),34980,71,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.037876464045366404
+747,Oral Surgery (Dentist only),42940,216,97307.0,TN,Sevierville,2.219778638741303
+748,Orthopedic Surgery,11940,2167,52931.0,TN,Athens,40.94009181764939
+749,Orthopedic Surgery,15140,15444,17607.0,TN,Brownsville,877.1511330720735
+750,Orthopedic Surgery,16860,64509,555953.0,TN-GA,Chattanooga,116.03318985597703
+751,Orthopedic Surgery,17300,11999,,,,
+752,Orthopedic Surgery,17420,7275,122180.0,TN,Cleveland,59.54329677524963
+753,Orthopedic Surgery,18260,15978,,,,
+754,Orthopedic Surgery,18900,3921,,,,
+755,Orthopedic Surgery,20540,760,,,,
+756,Orthopedic Surgery,24620,4277,,,,
+757,Orthopedic Surgery,27180,40170,178336.0,TN,Jackson,225.24896823972725
+758,Orthopedic Surgery,27740,16949,201909.0,TN,Johnson City,83.94375684095311
+759,Orthopedic Surgery,28700,26413,306496.0,TN-VA,Kingsport-Bristol,86.17730737105867
+760,Orthopedic Surgery,28940,77067,853645.0,TN,Knoxville,90.2799172958314
+761,Orthopedic Surgery,29980,1141,43388.0,TN,Lawrenceburg,26.29759380473864
+762,Orthopedic Surgery,30280,26032,33020.0,TN,Lewisburg,788.3706844336765
+763,Orthopedic Surgery,32280,15704,33325.0,TN,Martin,471.2378094523631
+764,Orthopedic Surgery,32660,6371,,,,
+765,Orthopedic Surgery,32820,187847,1338582.0,TN-MS-AR,Memphis,140.33282981543155
+766,Orthopedic Surgery,34100,10181,140898.0,TN,Morristown,72.2579454640946
+767,Orthopedic Surgery,34980,223563,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,119.26444973766547
+768,Orthopedic Surgery,35460,252,35528.0,TN,Newport,7.092997072731367
+769,Orthopedic Surgery,37540,9795,,,,
+770,Orthopedic Surgery,42940,14261,97307.0,TN,Sevierville,146.5567739217117
+771,Orthopedic Surgery,43180,4207,48211.0,TN,Shelbyville,87.26224305656386
+772,Orthopedic Surgery,46100,5836,,,,
+773,Orthopedic Surgery,46460,5909,30375.0,TN,Union City,194.53497942386832
+774,Osteopathic Manipulative Medicine,16860,1933,555953.0,TN-GA,Chattanooga,3.4769126167140025
+775,Osteopathic Manipulative Medicine,18260,5122,,,,
+776,Osteopathic Manipulative Medicine,27740,3523,201909.0,TN,Johnson City,17.448454501780503
+777,Osteopathic Manipulative Medicine,28940,2670,853645.0,TN,Knoxville,3.127763883113004
+778,Otolaryngology,15140,4766,17607.0,TN,Brownsville,270.68779462713695
+779,Otolaryngology,16860,21655,555953.0,TN-GA,Chattanooga,38.95113435847995
+780,Otolaryngology,17300,2373,,,,
+781,Otolaryngology,17420,6037,122180.0,TN,Cleveland,49.41070551645114
+782,Otolaryngology,18260,8987,,,,
+783,Otolaryngology,18900,1592,,,,
+784,Otolaryngology,20540,2312,,,,
+785,Otolaryngology,24620,704,,,,
+786,Otolaryngology,27180,4766,178336.0,TN,Jackson,26.724834021173514
+787,Otolaryngology,27740,7004,201909.0,TN,Johnson City,34.688894501978616
+788,Otolaryngology,28700,8422,306496.0,TN-VA,Kingsport-Bristol,27.478335769471705
+789,Otolaryngology,28940,39753,853645.0,TN,Knoxville,46.56853844396675
+790,Otolaryngology,30280,11079,33020.0,TN,Lewisburg,335.52392489400364
+791,Otolaryngology,32820,30723,1338582.0,TN-MS-AR,Memphis,22.951899846255216
+792,Otolaryngology,34100,9863,140898.0,TN,Morristown,70.00099362659512
+793,Otolaryngology,34980,53940,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,28.775443247986814
+794,Otolaryngology,43180,5102,48211.0,TN,Shelbyville,105.82647113729232
+795,Otolaryngology,46100,7730,,,,
+796,Pain Management,16860,4521,555953.0,TN-GA,Chattanooga,8.131982379805487
+797,Pain Management,17300,2467,,,,
+798,Pain Management,17420,1633,122180.0,TN,Cleveland,13.365526272712392
+799,Pain Management,19420,2781,32671.0,TN,Dayton,85.12136145205228
+800,Pain Management,27740,6024,201909.0,TN,Johnson City,29.835222798389374
+801,Pain Management,28700,1027,306496.0,TN-VA,Kingsport-Bristol,3.350777824180413
+802,Pain Management,28940,10445,853645.0,TN,Knoxville,12.23576545285218
+803,Pain Management,30280,267,33020.0,TN,Lewisburg,8.086008479709268
+804,Pain Management,32820,16721,1338582.0,TN-MS-AR,Memphis,12.491576907503612
+805,Pain Management,34980,37522,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,20.01691104098927
+806,Pathology,15140,1309,17607.0,TN,Brownsville,74.34543079457035
+807,Pathology,16860,24319,555953.0,TN-GA,Chattanooga,43.74290632481523
+808,Pathology,17300,698,,,,
+809,Pathology,17420,244,122180.0,TN,Cleveland,1.9970535275822556
+810,Pathology,18260,4905,,,,
+811,Pathology,24620,85,,,,
+812,Pathology,27180,1309,178336.0,TN,Jackson,7.340077157724744
+813,Pathology,27740,5666,201909.0,TN,Johnson City,28.062146808710853
+814,Pathology,28700,8239,306496.0,TN-VA,Kingsport-Bristol,26.88126435581541
+815,Pathology,28940,53081,853645.0,TN,Knoxville,62.181586022292635
+816,Pathology,30280,362,33020.0,TN,Lewisburg,10.96305269533616
+817,Pathology,32820,189663,1338582.0,TN-MS-AR,Memphis,141.68948932527107
+818,Pathology,34100,958,140898.0,TN,Morristown,6.799244843787705
+819,Pathology,34980,354407,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,189.0659717313545
+820,Pathology,42940,3641,97307.0,TN,Sevierville,37.41765751693095
+821,Pediatric Medicine,27740,44,201909.0,TN,Johnson City,0.2179199540387006
+822,Pediatric Medicine,28700,5066,306496.0,TN-VA,Kingsport-Bristol,16.528763833785757
+823,Pediatric Medicine,28940,1226,853645.0,TN,Knoxville,1.4361942025080683
+824,Pediatric Medicine,32820,132,1338582.0,TN-MS-AR,Memphis,0.09861181459185914
+825,Pediatric Medicine,34100,88,140898.0,TN,Morristown,0.6245652883646327
+826,Pediatric Medicine,34980,705,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.37609728383075086
+827,Pediatric Medicine,42940,17,97307.0,TN,Sevierville,0.17470480027130628
+828,Pharmacy,16860,32,555953.0,TN-GA,Chattanooga,0.057558822418441846
+829,Pharmacy,24620,94,,,,
+830,Pharmacy,32660,32,,,,
+831,Pharmacy,34980,32,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.017071082386644013
+832,Pharmacy,35460,94,35528.0,TN,Newport,2.6458004953839227
+833,Physical Medicine and Rehabilitation,16860,16233,555953.0,TN-GA,Chattanooga,29.198511384955204
+834,Physical Medicine and Rehabilitation,18260,3069,,,,
+835,Physical Medicine and Rehabilitation,27180,10985,178336.0,TN,Jackson,61.59720976134937
+836,Physical Medicine and Rehabilitation,27740,986,201909.0,TN,Johnson City,4.883388060958154
+837,Physical Medicine and Rehabilitation,28700,923,306496.0,TN-VA,Kingsport-Bristol,3.011458550845688
+838,Physical Medicine and Rehabilitation,28940,20724,853645.0,TN,Knoxville,24.27707067926363
+839,Physical Medicine and Rehabilitation,32660,2028,,,,
+840,Physical Medicine and Rehabilitation,32820,33851,1338582.0,TN-MS-AR,Memphis,25.288701028401697
+841,Physical Medicine and Rehabilitation,34100,938,140898.0,TN,Morristown,6.657298187341197
+842,Physical Medicine and Rehabilitation,34980,69976,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,37.33018940899379
+843,Physical Medicine and Rehabilitation,42940,389,97307.0,TN,Sevierville,3.9976569003257727
+844,Physical Medicine and Rehabilitation,46100,9312,,,,
+845,Physical Therapist in Private Practice,11940,19418,52931.0,TN,Athens,366.8549621204965
+846,Physical Therapist in Private Practice,15140,7442,17607.0,TN,Brownsville,422.67280059067417
+847,Physical Therapist in Private Practice,16860,155772,555953.0,TN-GA,Chattanooga,280.1891526801726
+848,Physical Therapist in Private Practice,17300,24204,,,,
+849,Physical Therapist in Private Practice,17420,14909,122180.0,TN,Cleveland,122.02488132263872
+850,Physical Therapist in Private Practice,18260,40440,,,,
+851,Physical Therapist in Private Practice,18900,27952,,,,
+852,Physical Therapist in Private Practice,19420,5874,32671.0,TN,Dayton,179.7924765082183
+853,Physical Therapist in Private Practice,20540,17437,,,,
+854,Physical Therapist in Private Practice,24620,12986,,,,
+855,Physical Therapist in Private Practice,27180,30488,178336.0,TN,Jackson,170.95819127938276
+856,Physical Therapist in Private Practice,27740,36121,201909.0,TN,Johnson City,178.89742408708872
+857,Physical Therapist in Private Practice,28700,35290,306496.0,TN-VA,Kingsport-Bristol,115.1401649613698
+858,Physical Therapist in Private Practice,28940,289217,853645.0,TN,Knoxville,338.80242958138336
+859,Physical Therapist in Private Practice,29980,1313,43388.0,TN,Lawrenceburg,30.261823545680834
+860,Physical Therapist in Private Practice,30280,34279,33020.0,TN,Lewisburg,1038.128407026045
+861,Physical Therapist in Private Practice,32280,30211,33325.0,TN,Martin,906.5566391597899
+862,Physical Therapist in Private Practice,32660,7084,,,,
+863,Physical Therapist in Private Practice,32820,138662,1338582.0,TN-MS-AR,Memphis,103.58872299194222
+864,Physical Therapist in Private Practice,34100,65725,140898.0,TN,Morristown,466.47219974733497
+865,Physical Therapist in Private Practice,34980,408258,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,217.79393603145348
+866,Physical Therapist in Private Practice,35460,22155,35528.0,TN,Newport,623.5926593109659
+867,Physical Therapist in Private Practice,37540,14904,,,,
+868,Physical Therapist in Private Practice,42940,58658,97307.0,TN,Sevierville,602.8137749596638
+869,Physical Therapist in Private Practice,43180,19613,48211.0,TN,Shelbyville,406.8158718964552
+870,Physical Therapist in Private Practice,46100,18688,,,,
+871,Physical Therapist in Private Practice,46460,13175,30375.0,TN,Union City,433.7448559670782
+872,Physician Assistant,11940,10132,52931.0,TN,Athens,191.41901721108613
+873,Physician Assistant,15140,7407,17607.0,TN,Brownsville,420.68495484750383
+874,Physician Assistant,16860,59847,555953.0,TN-GA,Chattanooga,107.64758891489029
+875,Physician Assistant,17300,12038,,,,
+876,Physician Assistant,17420,25017,122180.0,TN,Cleveland,204.75527909641514
+877,Physician Assistant,18260,30599,,,,
+878,Physician Assistant,18900,29583,,,,
+879,Physician Assistant,19420,4699,32671.0,TN,Dayton,143.82785956964892
+880,Physician Assistant,20540,567,,,,
+881,Physician Assistant,24620,7729,,,,
+882,Physician Assistant,27180,25376,178336.0,TN,Jackson,142.29319935402833
+883,Physician Assistant,27740,29013,201909.0,TN,Johnson City,143.6934460573823
+884,Physician Assistant,28700,24267,306496.0,TN-VA,Kingsport-Bristol,79.17558467320944
+885,Physician Assistant,28940,122073,853645.0,TN,Knoxville,143.00206760421486
+886,Physician Assistant,29980,4331,43388.0,TN,Lawrenceburg,99.82022679081774
+887,Physician Assistant,30280,12423,33020.0,TN,Lewisburg,376.22652937613566
+888,Physician Assistant,32280,32920,33325.0,TN,Martin,987.8469617404351
+889,Physician Assistant,32660,1249,,,,
+890,Physician Assistant,32820,20961,1338582.0,TN-MS-AR,Memphis,15.65910792166636
+891,Physician Assistant,34100,42049,140898.0,TN,Morristown,298.4357478459595
+892,Physician Assistant,34980,139930,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,74.64864244884677
+893,Physician Assistant,35460,2338,35528.0,TN,Newport,65.8072506192299
+894,Physician Assistant,37540,20268,,,,
+895,Physician Assistant,42940,27782,97307.0,TN,Sevierville,285.50875065514305
+896,Physician Assistant,43180,19580,48211.0,TN,Shelbyville,406.1313808052104
+897,Physician Assistant,46100,29171,,,,
+898,Physician Assistant,46460,13746,30375.0,TN,Union City,452.54320987654324
+899,Plastic and Reconstructive Surgery,15140,123,17607.0,TN,Brownsville,6.9858578974271595
+900,Plastic and Reconstructive Surgery,16860,1047,555953.0,TN-GA,Chattanooga,1.883252721003394
+901,Plastic and Reconstructive Surgery,17300,12,,,,
+902,Plastic and Reconstructive Surgery,17420,129,122180.0,TN,Cleveland,1.055819283025045
+903,Plastic and Reconstructive Surgery,18260,435,,,,
+904,Plastic and Reconstructive Surgery,20540,372,,,,
+905,Plastic and Reconstructive Surgery,27180,1673,178336.0,TN,Jackson,9.381168132065316
+906,Plastic and Reconstructive Surgery,27740,148,201909.0,TN,Johnson City,0.7330034817665384
+907,Plastic and Reconstructive Surgery,28700,439,306496.0,TN-VA,Kingsport-Bristol,1.4323188557110043
+908,Plastic and Reconstructive Surgery,28940,1032,853645.0,TN,Knoxville,1.2089334559448013
+909,Plastic and Reconstructive Surgery,30280,286,33020.0,TN,Lewisburg,8.661417322834646
+910,Plastic and Reconstructive Surgery,32820,1665,1338582.0,TN-MS-AR,Memphis,1.2438535704200415
+911,Plastic and Reconstructive Surgery,34980,3263,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.7407169321131066
+912,Plastic and Reconstructive Surgery,42940,168,97307.0,TN,Sevierville,1.7264944967987914
+913,Podiatry,11940,6587,52931.0,TN,Athens,124.44503221174736
+914,Podiatry,15140,7872,17607.0,TN,Brownsville,447.0949054353382
+915,Podiatry,16860,44387,555953.0,TN-GA,Chattanooga,79.83948283398057
+916,Podiatry,17300,10213,,,,
+917,Podiatry,17420,7778,122180.0,TN,Cleveland,63.66017351448683
+918,Podiatry,18260,8527,,,,
+919,Podiatry,18900,6995,,,,
+920,Podiatry,19420,5132,32671.0,TN,Dayton,157.0812035138196
+921,Podiatry,20540,7634,,,,
+922,Podiatry,24620,771,,,,
+923,Podiatry,27180,20024,178336.0,TN,Jackson,112.28243315987798
+924,Podiatry,27740,6471,201909.0,TN,Johnson City,32.04909142237344
+925,Podiatry,28700,9770,306496.0,TN-VA,Kingsport-Bristol,31.87643558154103
+926,Podiatry,28940,61739,853645.0,TN,Knoxville,72.32397542303885
+927,Podiatry,29980,2088,43388.0,TN,Lawrenceburg,48.123905227251775
+928,Podiatry,30280,9249,33020.0,TN,Lewisburg,280.1029678982435
+929,Podiatry,32280,5620,33325.0,TN,Martin,168.64216054013502
+930,Podiatry,32660,1663,,,,
+931,Podiatry,32820,57581,1338582.0,TN-MS-AR,Memphis,43.01641587889274
+932,Podiatry,34100,6703,140898.0,TN,Morristown,47.57342190804695
+933,Podiatry,34980,82060,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,43.77665689525024
+934,Podiatry,35460,334,35528.0,TN,Newport,9.40103580274713
+935,Podiatry,37540,5620,,,,
+936,Podiatry,42940,7240,97307.0,TN,Sevierville,74.4036914096622
+937,Podiatry,43180,3919,48211.0,TN,Shelbyville,81.28850262388251
+938,Podiatry,46100,6716,,,,
+939,Portable X-Ray Supplier,16860,55973,555953.0,TN-GA,Chattanooga,100.67937397585767
+940,Portable X-Ray Supplier,27740,760,201909.0,TN,Johnson City,3.764071933395738
+941,Portable X-Ray Supplier,28700,11936,306496.0,TN-VA,Kingsport-Bristol,38.94341198580079
+942,Portable X-Ray Supplier,32820,11689,1338582.0,TN-MS-AR,Memphis,8.73237500578971
+943,Portable X-Ray Supplier,34980,43842,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,23.388449812351464
+944,Preventive Medicine,34980,439,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.23419391149177254
+945,Psychiatry,11940,94,52931.0,TN,Athens,1.7758969224084185
+946,Psychiatry,15140,1214,17607.0,TN,Brownsville,68.94984949167944
+947,Psychiatry,16860,9474,555953.0,TN-GA,Chattanooga,17.04100886225994
+948,Psychiatry,17300,1345,,,,
+949,Psychiatry,17420,5969,122180.0,TN,Cleveland,48.85414961532165
+950,Psychiatry,18260,4198,,,,
+951,Psychiatry,24620,24,,,,
+952,Psychiatry,27180,1214,178336.0,TN,Jackson,6.807374842993003
+953,Psychiatry,27740,2420,201909.0,TN,Johnson City,11.985597472128534
+954,Psychiatry,28700,2780,306496.0,TN-VA,Kingsport-Bristol,9.070265191062852
+955,Psychiatry,28940,15875,853645.0,TN,Knoxville,18.596723462329187
+956,Psychiatry,29980,1713,43388.0,TN,Lawrenceburg,39.480962478104544
+957,Psychiatry,30280,2739,33020.0,TN,Lewisburg,82.94972743791641
+958,Psychiatry,32280,1776,33325.0,TN,Martin,53.293323330832706
+959,Psychiatry,32820,23900,1338582.0,TN-MS-AR,Memphis,17.854714914738132
+960,Psychiatry,34980,29841,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.919317796870125
+961,Psychiatry,35460,24,35528.0,TN,Newport,0.6755235307363207
+962,Psychiatry,37540,1776,,,,
+963,Psychiatry,43180,3515,48211.0,TN,Shelbyville,72.90867229470453
+964,Psychiatry,46100,3515,,,,
+965,"Psychologist, Clinical",15140,1789,17607.0,TN,Brownsville,101.60731527233487
+966,"Psychologist, Clinical",16860,12955,555953.0,TN-GA,Chattanooga,23.302329513466066
+967,"Psychologist, Clinical",17300,2111,,,,
+968,"Psychologist, Clinical",17420,1158,122180.0,TN,Cleveland,9.477819610410869
+969,"Psychologist, Clinical",18260,709,,,,
+970,"Psychologist, Clinical",19420,1545,32671.0,TN,Dayton,47.28964525114016
+971,"Psychologist, Clinical",24620,2240,,,,
+972,"Psychologist, Clinical",27180,4258,178336.0,TN,Jackson,23.876278485555357
+973,"Psychologist, Clinical",27740,11167,201909.0,TN,Johnson City,55.30709378977658
+974,"Psychologist, Clinical",28700,12362,306496.0,TN-VA,Kingsport-Bristol,40.33331593234496
+975,"Psychologist, Clinical",28940,10672,853645.0,TN,Knoxville,12.501683955274148
+976,"Psychologist, Clinical",30280,1663,33020.0,TN,Lewisburg,50.363416111447606
+977,"Psychologist, Clinical",32660,514,,,,
+978,"Psychologist, Clinical",32820,15614,1338582.0,TN-MS-AR,Memphis,11.66458237149461
+979,"Psychologist, Clinical",34100,2028,140898.0,TN,Morristown,14.39339096367585
+980,"Psychologist, Clinical",34980,21092,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,11.251977178096736
+981,"Psychologist, Clinical",35460,382,35528.0,TN,Newport,10.75208286421977
+982,"Psychologist, Clinical",43180,5692,48211.0,TN,Shelbyville,118.064342162577
+983,"Psychologist, Clinical",46100,5736,,,,
+984,Pulmonary Disease,11940,364,52931.0,TN,Athens,6.876877444219834
+985,Pulmonary Disease,15140,6608,17607.0,TN,Brownsville,375.3052763105583
+986,Pulmonary Disease,16860,39369,555953.0,TN-GA,Chattanooga,70.81353999348866
+987,Pulmonary Disease,17300,2230,,,,
+988,Pulmonary Disease,17420,11117,122180.0,TN,Cleveland,90.98870518906531
+989,Pulmonary Disease,18260,9139,,,,
+990,Pulmonary Disease,24620,783,,,,
+991,Pulmonary Disease,27180,18510,178336.0,TN,Jackson,103.79284048089
+992,Pulmonary Disease,27740,10947,201909.0,TN,Johnson City,54.21749401958308
+993,Pulmonary Disease,28700,6861,306496.0,TN-VA,Kingsport-Bristol,22.385283984130297
+994,Pulmonary Disease,28940,40617,853645.0,TN,Knoxville,47.58066877917636
+995,Pulmonary Disease,29980,462,43388.0,TN,Lawrenceburg,10.648105466949387
+996,Pulmonary Disease,30280,2531,33020.0,TN,Lewisburg,76.65051483949122
+997,Pulmonary Disease,32820,31785,1338582.0,TN-MS-AR,Memphis,23.745276718198813
+998,Pulmonary Disease,34100,6182,140898.0,TN,Morristown,43.87571150761544
+999,Pulmonary Disease,34980,51269,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,27.35054134002662
+1000,Pulmonary Disease,42940,1703,97307.0,TN,Sevierville,17.501310286002035
+1001,Pulmonary Disease,43180,712,48211.0,TN,Shelbyville,14.768413847462197
+1002,Pulmonary Disease,46100,1313,,,,
+1003,Radiation Oncology,16860,730,555953.0,TN-GA,Chattanooga,1.3130606364207045
+1004,Radiation Oncology,17420,7790,122180.0,TN,Cleveland,63.75838926174497
+1005,Radiation Oncology,18260,264,,,,
+1006,Radiation Oncology,20540,11698,,,,
+1007,Radiation Oncology,27180,746,178336.0,TN,Jackson,4.18311501884084
+1008,Radiation Oncology,28940,40528,853645.0,TN,Knoxville,47.476409983072585
+1009,Radiation Oncology,32280,3247,33325.0,TN,Martin,97.43435858964742
+1010,Radiation Oncology,32820,15835,1338582.0,TN-MS-AR,Memphis,11.82968245501583
+1011,Radiation Oncology,34980,14665,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.8233569750042005
+1012,Radiation Oncology,42940,2732,97307.0,TN,Sevierville,28.076089078894633
+1013,Radiation Oncology,43180,5120,48211.0,TN,Shelbyville,106.19982991433491
+1014,Radiation Oncology,46100,5120,,,,
+1015,Radiation Oncology,46460,3247,30375.0,TN,Union City,106.8971193415638
+1016,Radiation Therapy Center,32820,140,1338582.0,TN-MS-AR,Memphis,0.10458828820348698
+1017,Registered Dietitian or Nutrition Professional,15140,127,17607.0,TN,Brownsville,7.213040268075197
+1018,Registered Dietitian or Nutrition Professional,16860,103,555953.0,TN-GA,Chattanooga,0.1852674596593597
+1019,Registered Dietitian or Nutrition Professional,27180,127,178336.0,TN,Jackson,0.7121388839045397
+1020,Registered Dietitian or Nutrition Professional,27740,79,201909.0,TN,Johnson City,0.3912653720240306
+1021,Registered Dietitian or Nutrition Professional,28940,581,853645.0,TN,Knoxville,0.6806107925425675
+1022,Registered Dietitian or Nutrition Professional,30280,43,33020.0,TN,Lewisburg,1.3022410660205934
+1023,Registered Dietitian or Nutrition Professional,32280,78,33325.0,TN,Martin,2.3405851462865717
+1024,Registered Dietitian or Nutrition Professional,32820,570,1338582.0,TN-MS-AR,Memphis,0.4258237448284827
+1025,Registered Dietitian or Nutrition Professional,34980,433,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.23099308354427678
+1026,Registered Dietitian or Nutrition Professional,37540,78,,,,
+1027,Registered Dietitian or Nutrition Professional,42940,38,97307.0,TN,Sevierville,0.39051661237115526
+1028,Rheumatology,16860,74420,555953.0,TN-GA,Chattanooga,133.86023638688883
+1029,Rheumatology,27180,25002,178336.0,TN,Jackson,140.19603445182128
+1030,Rheumatology,27740,5516,201909.0,TN,Johnson City,27.319237874488014
+1031,Rheumatology,28700,28215,306496.0,TN-VA,Kingsport-Bristol,92.05666631864689
+1032,Rheumatology,28940,27881,853645.0,TN,Knoxville,32.66111791201261
+1033,Rheumatology,30280,1577,33020.0,TN,Lewisburg,47.75893397940642
+1034,Rheumatology,32820,38744,1338582.0,TN-MS-AR,Memphis,28.944061701113565
+1035,Rheumatology,34100,6454,140898.0,TN,Morristown,45.806186035287936
+1036,Rheumatology,34980,54046,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,28.831991208392573
+1037,Rheumatology,42940,515,97307.0,TN,Sevierville,5.292527772924866
+1038,Sleep Medicine,16860,126,555953.0,TN-GA,Chattanooga,0.22663786327261476
+1039,Sleep Medicine,28700,609,306496.0,TN-VA,Kingsport-Bristol,1.9869753602004594
+1040,Sleep Medicine,28940,1347,853645.0,TN,Knoxville,1.5779393073233017
+1041,Sleep Medicine,34980,700,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.37342992720783774
+1042,Sleep Medicine,42940,80,97307.0,TN,Sevierville,0.822140236570853
+1043,Speech Language Pathologist,32820,1548,1338582.0,TN-MS-AR,Memphis,1.1564476438499844
+1044,Sports Medicine,16860,469,555953.0,TN-GA,Chattanooga,0.8435964910702883
+1045,Sports Medicine,24620,34,,,,
+1046,Sports Medicine,27740,1845,201909.0,TN,Johnson City,9.137779890940969
+1047,Sports Medicine,28940,7170,853645.0,TN,Knoxville,8.39927604566301
+1048,Sports Medicine,34980,12337,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,6.581435731375849
+1049,Sports Medicine,35460,34,35528.0,TN,Newport,0.956991668543121
+1050,Surgical Oncology,16860,1042,555953.0,TN-GA,Chattanooga,1.8742591550005128
+1051,Surgical Oncology,27740,41,201909.0,TN,Johnson City,0.20306177535424375
+1052,Surgical Oncology,28940,1437,853645.0,TN,Knoxville,1.683369550574302
+1053,Surgical Oncology,32820,2633,1338582.0,TN-MS-AR,Memphis,1.9670068774270086
+1054,Surgical Oncology,34980,900,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.4801241921243628
+1055,Surgical Oncology,42940,735,97307.0,TN,Sevierville,7.553413423494712
+1056,Thoracic Surgery,15140,315,17607.0,TN,Brownsville,17.89061168853297
+1057,Thoracic Surgery,16860,573,555953.0,TN-GA,Chattanooga,1.0306626639302243
+1058,Thoracic Surgery,27180,315,178336.0,TN,Jackson,1.7663287277947246
+1059,Thoracic Surgery,27740,208,201909.0,TN,Johnson City,1.0301670554556757
+1060,Thoracic Surgery,28700,319,306496.0,TN-VA,Kingsport-Bristol,1.0407966172478598
+1061,Thoracic Surgery,28940,101,853645.0,TN,Knoxville,0.1183161618705668
+1062,Thoracic Surgery,32820,1255,1338582.0,TN-MS-AR,Memphis,0.9375592978241153
+1063,Thoracic Surgery,34980,1726,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.9207715062296115
+1064,Undefined Physician type,27740,11,201909.0,TN,Johnson City,0.05447998850967515
+1065,Undefined Physician type,28940,401,853645.0,TN,Knoxville,0.46975030604056717
+1066,Urology,15140,50063,17607.0,TN,Brownsville,2843.3577554381777
+1067,Urology,16860,44311,555953.0,TN-GA,Chattanooga,79.70278063073677
+1068,Urology,17300,11613,,,,
+1069,Urology,17420,8554,122180.0,TN,Cleveland,70.01145850384678
+1070,Urology,18260,21697,,,,
+1071,Urology,18900,5079,,,,
+1072,Urology,20540,5397,,,,
+1073,Urology,24620,2618,,,,
+1074,Urology,27180,50784,178336.0,TN,Jackson,284.7658352772295
+1075,Urology,27740,17748,201909.0,TN,Johnson City,87.90098509724677
+1076,Urology,28700,19686,306496.0,TN-VA,Kingsport-Bristol,64.22922321987889
+1077,Urology,28940,136157,853645.0,TN,Knoxville,159.50072922584914
+1078,Urology,30280,12470,33020.0,TN,Lewisburg,377.6499091459721
+1079,Urology,32280,12097,33325.0,TN,Martin,363.0007501875469
+1080,Urology,32660,2383,,,,
+1081,Urology,32820,197930,1338582.0,TN-MS-AR,Memphis,147.86542774368698
+1082,Urology,34100,2953,140898.0,TN,Morristown,20.958423824326818
+1083,Urology,34980,145744,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,77.75024472997015
+1084,Urology,37540,12097,,,,
+1085,Urology,42940,38907,97307.0,TN,Sevierville,399.83762730327726
+1086,Urology,43180,5087,48211.0,TN,Shelbyville,105.51533882309016
+1087,Urology,46100,5087,,,,
+1088,Vascular Surgery,16860,16340,555953.0,TN-GA,Chattanooga,29.390973697416868
+1089,Vascular Surgery,17300,2802,,,,
+1090,Vascular Surgery,18260,1201,,,,
+1091,Vascular Surgery,27740,894,201909.0,TN,Johnson City,4.427737247968144
+1092,Vascular Surgery,28700,1063,306496.0,TN-VA,Kingsport-Bristol,3.468234495719357
+1093,Vascular Surgery,28940,15151,853645.0,TN,Knoxville,17.748595727732255
+1094,Vascular Surgery,30280,3714,33020.0,TN,Lewisburg,112.47728649303453
+1095,Vascular Surgery,32280,1908,33325.0,TN,Martin,57.254313578394594
+1096,Vascular Surgery,32820,6700,1338582.0,TN-MS-AR,Memphis,5.005296649738305
+1097,Vascular Surgery,34980,27074,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,14.443202641749998
+1098,Vascular Surgery,37540,1908,,,,
+1099,Vascular Surgery,42940,3193,97307.0,TN,Sevierville,32.81367219213417
+1100,Vascular Surgery,43180,3097,48211.0,TN,Shelbyville,64.23845180560453
+1101,Vascular Surgery,46100,3097,,,,
