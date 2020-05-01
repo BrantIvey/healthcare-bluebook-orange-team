@@ -1,1103 +1,841 @@
 ,cbsa,provider_type,benefic_d_cnt,pop2017,state,region,cnt_per_1kcapita
-0,11940,Audiologist,538,52931.0,TN,Athens,10.164176002720522
-1,11940,Centralized Flu,2363,52931.0,TN,Athens,44.64302582607545
-2,11940,Chiropractic,5864,52931.0,TN,Athens,110.78573992556346
-3,11940,Family Practice,20761,52931.0,TN,Athens,392.22761708639547
-4,11940,General Practice,1421,52931.0,TN,Athens,26.846271561088965
-5,11940,General Surgery,4444,52931.0,TN,Athens,83.95836088492565
-6,11940,Internal Medicine,38453,52931.0,TN,Athens,726.4740889082012
-7,11940,Licensed Clinical Social Worker,7560,52931.0,TN,Athens,142.8274546107196
-8,11940,Mass Immunizer Roster Biller,3827,52931.0,TN,Athens,72.30167576656402
-9,11940,Neurology,1396,52931.0,TN,Athens,26.37395854981013
-10,11940,Nurse Practitioner,22332,52931.0,TN,Athens,421.90776671515744
-11,11940,Obstetrics & Gynecology,196,52931.0,TN,Athens,3.7029340084260642
-12,11940,Optometry,9531,52931.0,TN,Athens,180.06461241994296
-13,11940,Orthopedic Surgery,2167,52931.0,TN,Athens,40.94009181764939
-14,11940,Physical Therapist in Private Practice,19418,52931.0,TN,Athens,366.8549621204965
-15,11940,Physician Assistant,10132,52931.0,TN,Athens,191.41901721108613
-16,11940,Podiatry,6587,52931.0,TN,Athens,124.44503221174736
-17,11940,Psychiatry,94,52931.0,TN,Athens,1.7758969224084185
-18,11940,Pulmonary Disease,364,52931.0,TN,Athens,6.876877444219834
-19,15140,Audiologist,3095,17607.0,TN,Brownsville,175.7823592889192
-20,15140,Cardiology,30883,17607.0,TN,Brownsville,1754.0182881808373
-21,15140,Centralized Flu,1358,17607.0,TN,Brownsville,77.1284148350088
-22,15140,Chiropractic,1626,17607.0,TN,Brownsville,92.34963366842733
-23,15140,Clinic or Group Practice,102,17607.0,TN,Brownsville,5.793150451524962
-24,15140,Clinical Cardiac Electrophysiology,385,17607.0,TN,Brownsville,21.86630317487363
-25,15140,Diagnostic Radiology,25114,17607.0,TN,Brownsville,1426.3645141137047
-26,15140,Emergency Medicine,140,17607.0,TN,Brownsville,7.951382972681319
-27,15140,Family Practice,76777,17607.0,TN,Brownsville,4360.595217811098
-28,15140,Gastroenterology,4143,17607.0,TN,Brownsville,235.30414039870507
-29,15140,General Practice,8890,17607.0,TN,Brownsville,504.91281876526386
-30,15140,General Surgery,3607,17607.0,TN,Brownsville,204.861702731868
-31,15140,Geriatric Medicine,7352,17607.0,TN,Brownsville,417.5611972510933
-32,15140,Hand Surgery,246,17607.0,TN,Brownsville,13.971715794854319
-33,15140,Hematology-Oncology,706,17607.0,TN,Brownsville,40.097688419378656
-34,15140,Independent Diagnostic Testing Facility (IDTF),905,17607.0,TN,Brownsville,51.40001135911853
-35,15140,Infectious Disease,2673,17607.0,TN,Brownsville,151.8146191855512
-36,15140,Internal Medicine,36331,17607.0,TN,Brownsville,2063.4406770034643
-37,15140,Interventional Cardiology,30279,17607.0,TN,Brownsville,1719.7137502129835
-38,15140,Interventional Radiology,1158,17607.0,TN,Brownsville,65.76929630260692
-39,15140,Licensed Clinical Social Worker,5077,17607.0,TN,Brownsville,288.3512239450219
-40,15140,Mass Immunizer Roster Biller,2027,17607.0,TN,Brownsville,115.1246663258931
-41,15140,Medical Oncology,1015,17607.0,TN,Brownsville,57.64752655193957
-42,15140,Nephrology,18746,17607.0,TN,Brownsville,1064.6901800420287
-43,15140,Neurology,8211,17607.0,TN,Brownsville,466.3486113477594
-44,15140,Neurosurgery,1654,17607.0,TN,Brownsville,93.9399102629636
-45,15140,Nurse Practitioner,39612,17607.0,TN,Brownsville,2249.7870165275176
-46,15140,Obstetrics & Gynecology,3623,17607.0,TN,Brownsville,205.77043221446016
-47,15140,Ophthalmology,31184,17607.0,TN,Brownsville,1771.113761572102
-48,15140,Optometry,3393,17607.0,TN,Brownsville,192.70744590219797
-49,15140,Orthopedic Surgery,15444,17607.0,TN,Brownsville,877.1511330720735
-50,15140,Otolaryngology,4766,17607.0,TN,Brownsville,270.68779462713695
-51,15140,Pathology,1309,17607.0,TN,Brownsville,74.34543079457035
-52,15140,Physical Therapist in Private Practice,7442,17607.0,TN,Brownsville,422.67280059067417
-53,15140,Physician Assistant,7407,17607.0,TN,Brownsville,420.68495484750383
-54,15140,Plastic and Reconstructive Surgery,123,17607.0,TN,Brownsville,6.9858578974271595
-55,15140,Podiatry,7872,17607.0,TN,Brownsville,447.0949054353382
-56,15140,Psychiatry,1214,17607.0,TN,Brownsville,68.94984949167944
-57,15140,"Psychologist, Clinical",1789,17607.0,TN,Brownsville,101.60731527233487
-58,15140,Pulmonary Disease,6608,17607.0,TN,Brownsville,375.3052763105583
-59,15140,Registered Dietitian or Nutrition Professional,127,17607.0,TN,Brownsville,7.213040268075197
-60,15140,Thoracic Surgery,315,17607.0,TN,Brownsville,17.89061168853297
-61,15140,Urology,50063,17607.0,TN,Brownsville,2843.3577554381777
-62,16860,All Other Suppliers,22,555953.0,TN-GA,Chattanooga,0.039571690412678766
-63,16860,Allergy/ Immunology,32656,555953.0,TN-GA,Chattanooga,58.73877827801991
-64,16860,Anesthesiology,7744,555953.0,TN-GA,Chattanooga,13.929235025262926
-65,16860,Audiologist,3578,555953.0,TN-GA,Chattanooga,6.43579583166203
-66,16860,Cardiac Surgery,654,555953.0,TN-GA,Chattanooga,1.1763584331769052
-67,16860,Cardiology,113317,555953.0,TN-GA,Chattanooga,203.82478374970546
-68,16860,Centralized Flu,13448,555953.0,TN-GA,Chattanooga,24.18909512135019
-69,16860,Certified Clinical Nurse Specialist,1040,555953.0,TN-GA,Chattanooga,1.87066172859936
-70,16860,Certified Nurse Midwife,23,555953.0,TN-GA,Chattanooga,0.04137040361325508
-71,16860,Certified Registered Nurse Anesthetist (CRNA),1769,555953.0,TN-GA,Chattanooga,3.1819236518194884
-72,16860,Chiropractic,31826,555953.0,TN-GA,Chattanooga,57.24584632154157
-73,16860,Clinic or Group Practice,40,555953.0,TN-GA,Chattanooga,0.07194852802305231
-74,16860,Clinical Cardiac Electrophysiology,8869,555953.0,TN-GA,Chattanooga,15.952787375911274
-75,16860,Clinical Laboratory,7288,555953.0,TN-GA,Chattanooga,13.109021805800129
-76,16860,Colorectal Surgery (Proctology),2047,555953.0,TN-GA,Chattanooga,3.681965921579702
-77,16860,Critical Care (Intensivists),542,555953.0,TN-GA,Chattanooga,0.9749025547123588
-78,16860,Dermatology,27481,555953.0,TN-GA,Chattanooga,49.43043746503751
-79,16860,Diagnostic Radiology,40331,555953.0,TN-GA,Chattanooga,72.54390209244306
-80,16860,Emergency Medicine,15143,555953.0,TN-GA,Chattanooga,27.237913996327027
-81,16860,Endocrinology,14737,555953.0,TN-GA,Chattanooga,26.507636436893048
-82,16860,Family Practice,315797,555953.0,TN-GA,Chattanooga,568.0282326023962
-83,16860,Gastroenterology,20011,555953.0,TN-GA,Chattanooga,35.99404985673249
-84,16860,General Practice,1909,555953.0,TN-GA,Chattanooga,3.4337434999001717
-85,16860,General Surgery,20417,555953.0,TN-GA,Chattanooga,36.724327416166474
-86,16860,Geriatric Medicine,3263,555953.0,TN-GA,Chattanooga,5.8692011734804925
-87,16860,Geriatric Psychiatry,226,555953.0,TN-GA,Chattanooga,0.40650918333024555
-88,16860,Gynecological Oncology,1438,555953.0,TN-GA,Chattanooga,2.5865495824287303
-89,16860,Hand Surgery,8344,555953.0,TN-GA,Chattanooga,15.008462945608711
-90,16860,Hematology-Oncology,143505,555953.0,TN-GA,Chattanooga,258.124337848703
-91,16860,Independent Diagnostic Testing Facility (IDTF),4233,555953.0,TN-GA,Chattanooga,7.613952978039511
-92,16860,Infectious Disease,3925,555953.0,TN-GA,Chattanooga,7.059949312262008
-93,16860,Internal Medicine,366701,555953.0,TN-GA,Chattanooga,659.5899293645326
-94,16860,Interventional Cardiology,5850,555953.0,TN-GA,Chattanooga,10.5224722233714
-95,16860,Interventional Pain Management,22316,555953.0,TN-GA,Chattanooga,40.140083784060884
-96,16860,Licensed Clinical Social Worker,11248,555953.0,TN-GA,Chattanooga,20.23192608008231
-97,16860,Mass Immunizer Roster Biller,19488,555953.0,TN-GA,Chattanooga,35.05332285283108
-98,16860,Maxillofacial Surgery,309,555953.0,TN-GA,Chattanooga,0.555802378978079
-99,16860,Medical Oncology,9985,555953.0,TN-GA,Chattanooga,17.960151307754433
-100,16860,Nephrology,102897,555953.0,TN-GA,Chattanooga,185.08219219970036
-101,16860,Neurology,27411,555953.0,TN-GA,Chattanooga,49.30452754099717
-102,16860,Neurosurgery,2297,555953.0,TN-GA,Chattanooga,4.1316442217237785
-103,16860,Nurse Practitioner,215679,555953.0,TN-GA,Chattanooga,387.9446643870975
-104,16860,Obstetrics & Gynecology,19496,555953.0,TN-GA,Chattanooga,35.067712558435694
-105,16860,Occupational Therapist in Private Practice,3444,555953.0,TN-GA,Chattanooga,6.194768262784804
-106,16860,Ophthalmology,122977,555953.0,TN-GA,Chattanooga,221.2003532672726
-107,16860,Optometry,33123,555953.0,TN-GA,Chattanooga,59.578777342689044
-108,16860,Oral Surgery (Dentist only),415,555953.0,TN-GA,Chattanooga,0.7464659782391677
-109,16860,Orthopedic Surgery,64509,555953.0,TN-GA,Chattanooga,116.03318985597703
-110,16860,Osteopathic Manipulative Medicine,1933,555953.0,TN-GA,Chattanooga,3.4769126167140025
-111,16860,Otolaryngology,21655,555953.0,TN-GA,Chattanooga,38.95113435847995
-112,16860,Pain Management,4521,555953.0,TN-GA,Chattanooga,8.131982379805487
-113,16860,Pathology,24319,555953.0,TN-GA,Chattanooga,43.74290632481523
-114,16860,Pharmacy,32,555953.0,TN-GA,Chattanooga,0.057558822418441846
-115,16860,Physical Medicine and Rehabilitation,16233,555953.0,TN-GA,Chattanooga,29.198511384955204
-116,16860,Physical Therapist in Private Practice,155772,555953.0,TN-GA,Chattanooga,280.1891526801726
-117,16860,Physician Assistant,59847,555953.0,TN-GA,Chattanooga,107.64758891489029
-118,16860,Plastic and Reconstructive Surgery,1047,555953.0,TN-GA,Chattanooga,1.883252721003394
-119,16860,Podiatry,44387,555953.0,TN-GA,Chattanooga,79.83948283398057
-120,16860,Portable X-Ray Supplier,55973,555953.0,TN-GA,Chattanooga,100.67937397585767
-121,16860,Psychiatry,9474,555953.0,TN-GA,Chattanooga,17.04100886225994
-122,16860,"Psychologist, Clinical",12955,555953.0,TN-GA,Chattanooga,23.302329513466066
-123,16860,Pulmonary Disease,39369,555953.0,TN-GA,Chattanooga,70.81353999348866
-124,16860,Radiation Oncology,730,555953.0,TN-GA,Chattanooga,1.3130606364207045
-125,16860,Registered Dietitian or Nutrition Professional,103,555953.0,TN-GA,Chattanooga,0.1852674596593597
-126,16860,Rheumatology,74420,555953.0,TN-GA,Chattanooga,133.86023638688883
-127,16860,Sleep Medicine,126,555953.0,TN-GA,Chattanooga,0.22663786327261476
-128,16860,Sports Medicine,469,555953.0,TN-GA,Chattanooga,0.8435964910702883
-129,16860,Surgical Oncology,1042,555953.0,TN-GA,Chattanooga,1.8742591550005128
-130,16860,Thoracic Surgery,573,555953.0,TN-GA,Chattanooga,1.0306626639302243
-131,16860,Urology,44311,555953.0,TN-GA,Chattanooga,79.70278063073677
-132,16860,Vascular Surgery,16340,555953.0,TN-GA,Chattanooga,29.390973697416868
-133,17300,Allergy/ Immunology,635,,,,
-134,17300,Anesthesiology,7407,,,,
-135,17300,Audiologist,1223,,,,
-136,17300,Cardiac Surgery,485,,,,
-137,17300,Cardiology,10277,,,,
-138,17300,Centralized Flu,3098,,,,
-139,17300,Certified Clinical Nurse Specialist,979,,,,
-140,17300,Chiropractic,10935,,,,
-141,17300,Clinic or Group Practice,99,,,,
-142,17300,Dermatology,3240,,,,
-143,17300,Diagnostic Radiology,6904,,,,
-144,17300,Emergency Medicine,7821,,,,
-145,17300,Family Practice,91812,,,,
-146,17300,Gastroenterology,2108,,,,
-147,17300,General Practice,7585,,,,
-148,17300,General Surgery,1646,,,,
-149,17300,Hematology-Oncology,39427,,,,
-150,17300,Independent Diagnostic Testing Facility (IDTF),268,,,,
-151,17300,Internal Medicine,54839,,,,
-152,17300,Licensed Clinical Social Worker,1320,,,,
-153,17300,Mass Immunizer Roster Biller,5020,,,,
-154,17300,Maxillofacial Surgery,97,,,,
-155,17300,Medical Oncology,26305,,,,
-156,17300,Nephrology,2775,,,,
-157,17300,Neurology,747,,,,
-158,17300,Nurse Practitioner,53056,,,,
-159,17300,Obstetrics & Gynecology,950,,,,
-160,17300,Occupational Therapist in Private Practice,1052,,,,
-161,17300,Ophthalmology,6903,,,,
-162,17300,Optometry,8771,,,,
-163,17300,Orthopedic Surgery,11999,,,,
-164,17300,Otolaryngology,2373,,,,
-165,17300,Pain Management,2467,,,,
-166,17300,Pathology,698,,,,
-167,17300,Physical Therapist in Private Practice,24204,,,,
-168,17300,Physician Assistant,12038,,,,
-169,17300,Plastic and Reconstructive Surgery,12,,,,
-170,17300,Podiatry,10213,,,,
-171,17300,Psychiatry,1345,,,,
-172,17300,"Psychologist, Clinical",2111,,,,
-173,17300,Pulmonary Disease,2230,,,,
-174,17300,Urology,11613,,,,
-175,17300,Vascular Surgery,2802,,,,
-176,17420,Anesthesiology,7540,122180.0,TN,Cleveland,61.71222786053364
-177,17420,Audiologist,161,122180.0,TN,Cleveland,1.317727942380095
-178,17420,Cardiology,16380,122180.0,TN,Cleveland,134.06449500736616
-179,17420,Centralized Flu,2648,122180.0,TN,Cleveland,21.67294156163038
-180,17420,Chiropractic,9367,122180.0,TN,Cleveland,76.66557538058602
-181,17420,Diagnostic Radiology,3725,122180.0,TN,Cleveland,30.48780487804878
-182,17420,Emergency Medicine,1235,122180.0,TN,Cleveland,10.108037321983959
-183,17420,Family Practice,70783,122180.0,TN,Cleveland,579.3337698477657
-184,17420,Gastroenterology,2248,122180.0,TN,Cleveland,18.39908331969226
-185,17420,General Surgery,1575,122180.0,TN,Cleveland,12.890816827631363
-186,17420,Hematology-Oncology,13275,122180.0,TN,Cleveland,108.6511704043215
-187,17420,Independent Diagnostic Testing Facility (IDTF),192,122180.0,TN,Cleveland,1.5714519561302995
-188,17420,Infectious Disease,37,122180.0,TN,Cleveland,0.30283188737927647
-189,17420,Internal Medicine,67667,122180.0,TN,Cleveland,553.8304141430675
-190,17420,Interventional Pain Management,5964,122180.0,TN,Cleveland,48.81322638729743
-191,17420,Licensed Clinical Social Worker,268,122180.0,TN,Cleveland,2.1934850220985433
-192,17420,Mass Immunizer Roster Biller,6037,122180.0,TN,Cleveland,49.41070551645114
-193,17420,Neurology,1268,122180.0,TN,Cleveland,10.378130626943854
-194,17420,Nurse Practitioner,60842,122180.0,TN,Cleveland,497.97020788999833
-195,17420,Obstetrics & Gynecology,1760,122180.0,TN,Cleveland,14.404976264527745
-196,17420,Occupational Therapist in Private Practice,141,122180.0,TN,Cleveland,1.1540350302831888
-197,17420,Ophthalmology,7322,122180.0,TN,Cleveland,59.92797511867736
-198,17420,Optometry,4165,122180.0,TN,Cleveland,34.08904894418072
-199,17420,Orthopedic Surgery,7275,122180.0,TN,Cleveland,59.54329677524963
-200,17420,Otolaryngology,6037,122180.0,TN,Cleveland,49.41070551645114
-201,17420,Pain Management,1633,122180.0,TN,Cleveland,13.365526272712392
-202,17420,Pathology,244,122180.0,TN,Cleveland,1.9970535275822556
-203,17420,Physical Therapist in Private Practice,14909,122180.0,TN,Cleveland,122.02488132263872
-204,17420,Physician Assistant,25017,122180.0,TN,Cleveland,204.75527909641514
-205,17420,Plastic and Reconstructive Surgery,129,122180.0,TN,Cleveland,1.055819283025045
-206,17420,Podiatry,7778,122180.0,TN,Cleveland,63.66017351448683
-207,17420,Psychiatry,5969,122180.0,TN,Cleveland,48.85414961532165
-208,17420,"Psychologist, Clinical",1158,122180.0,TN,Cleveland,9.477819610410869
-209,17420,Pulmonary Disease,11117,122180.0,TN,Cleveland,90.98870518906531
-210,17420,Radiation Oncology,7790,122180.0,TN,Cleveland,63.75838926174497
-211,17420,Urology,8554,122180.0,TN,Cleveland,70.01145850384678
-212,18260,All Other Suppliers,293,,,,
-213,18260,Allergy/ Immunology,10719,,,,
-214,18260,Anesthesiology,7201,,,,
-215,18260,Audiologist,391,,,,
-216,18260,Cardiac Surgery,1401,,,,
-217,18260,Cardiology,22196,,,,
-218,18260,Centralized Flu,3426,,,,
-219,18260,Certified Clinical Nurse Specialist,1057,,,,
-220,18260,Certified Nurse Midwife,70,,,,
-221,18260,Chiropractic,7000,,,,
-222,18260,Clinical Cardiac Electrophysiology,7349,,,,
-223,18260,Dermatology,7369,,,,
-224,18260,Diagnostic Radiology,13714,,,,
-225,18260,Emergency Medicine,10115,,,,
-226,18260,Endocrinology,2500,,,,
-227,18260,Family Practice,94521,,,,
-228,18260,Gastroenterology,2806,,,,
-229,18260,General Practice,14795,,,,
-230,18260,General Surgery,3969,,,,
-231,18260,Geriatric Medicine,3065,,,,
-232,18260,Hematology-Oncology,172,,,,
-233,18260,Infectious Disease,488,,,,
-234,18260,Internal Medicine,75833,,,,
-235,18260,Interventional Cardiology,15261,,,,
-236,18260,Licensed Clinical Social Worker,4012,,,,
-237,18260,Mass Immunizer Roster Biller,9310,,,,
-238,18260,Nephrology,4015,,,,
-239,18260,Neurology,4554,,,,
-240,18260,Neurosurgery,2697,,,,
-241,18260,Nurse Practitioner,87028,,,,
-242,18260,Obstetrics & Gynecology,2740,,,,
-243,18260,Occupational Therapist in Private Practice,2103,,,,
-244,18260,Ophthalmology,9173,,,,
-245,18260,Optometry,13729,,,,
-246,18260,Orthopedic Surgery,15978,,,,
-247,18260,Osteopathic Manipulative Medicine,5122,,,,
-248,18260,Otolaryngology,8987,,,,
-249,18260,Pathology,4905,,,,
-250,18260,Physical Medicine and Rehabilitation,3069,,,,
-251,18260,Physical Therapist in Private Practice,40440,,,,
-252,18260,Physician Assistant,30599,,,,
-253,18260,Plastic and Reconstructive Surgery,435,,,,
-254,18260,Podiatry,8527,,,,
-255,18260,Psychiatry,4198,,,,
-256,18260,"Psychologist, Clinical",709,,,,
-257,18260,Pulmonary Disease,9139,,,,
-258,18260,Radiation Oncology,264,,,,
-259,18260,Urology,21697,,,,
-260,18260,Vascular Surgery,1201,,,,
-261,18900,All Other Suppliers,293,,,,
-262,18900,Anesthesiology,364,,,,
-263,18900,Audiologist,215,,,,
-264,18900,Cardiology,6457,,,,
-265,18900,Centralized Flu,3592,,,,
-266,18900,Chiropractic,14692,,,,
-267,18900,Clinic or Group Practice,40,,,,
-268,18900,Dermatology,789,,,,
-269,18900,Emergency Medicine,6966,,,,
-270,18900,Family Practice,73081,,,,
-271,18900,General Practice,1628,,,,
-272,18900,General Surgery,2700,,,,
-273,18900,Internal Medicine,131181,,,,
-274,18900,Licensed Clinical Social Worker,396,,,,
-275,18900,Mass Immunizer Roster Biller,11924,,,,
-276,18900,Medical Oncology,29293,,,,
-277,18900,Nephrology,4208,,,,
-278,18900,Neurology,2084,,,,
-279,18900,Nurse Practitioner,38767,,,,
-280,18900,Obstetrics & Gynecology,1764,,,,
-281,18900,Occupational Therapist in Private Practice,654,,,,
-282,18900,Ophthalmology,22674,,,,
-283,18900,Optometry,8073,,,,
-284,18900,Orthopedic Surgery,3921,,,,
-285,18900,Otolaryngology,1592,,,,
-286,18900,Physical Therapist in Private Practice,27952,,,,
-287,18900,Physician Assistant,29583,,,,
-288,18900,Podiatry,6995,,,,
-289,18900,Urology,5079,,,,
-290,19100,Certified Registered Nurse Anesthetist (CRNA),123,14674194.0,TX,Dallas-Fort Worth-Arlington,0.008382061733680227
-291,19100,Nurse Practitioner,102,14674194.0,TX,Dallas-Fort Worth-Arlington,0.006950978023051896
-292,19420,All Other Suppliers,151,32671.0,TN,Dayton,4.6218358789140215
-293,19420,Centralized Flu,761,32671.0,TN,Dayton,23.29282850234153
-294,19420,Chiropractic,1417,32671.0,TN,Dayton,43.37179761868323
-295,19420,Clinic or Group Practice,40,32671.0,TN,Dayton,1.2243273851427872
-296,19420,Colorectal Surgery (Proctology),312,32671.0,TN,Dayton,9.54975360411374
-297,19420,Family Practice,15977,32671.0,TN,Dayton,489.02696581065777
-298,19420,General Surgery,380,32671.0,TN,Dayton,11.631110158856478
-299,19420,Internal Medicine,19510,32671.0,TN,Dayton,597.1656821033945
-300,19420,Mass Immunizer Roster Biller,1399,32671.0,TN,Dayton,42.82085029536898
-301,19420,Nurse Practitioner,11689,32671.0,TN,Dayton,357.77907012335095
-302,19420,Optometry,929,32671.0,TN,Dayton,28.435003519941233
-303,19420,Pain Management,2781,32671.0,TN,Dayton,85.12136145205228
-304,19420,Physical Therapist in Private Practice,5874,32671.0,TN,Dayton,179.7924765082183
-305,19420,Physician Assistant,4699,32671.0,TN,Dayton,143.82785956964892
-306,19420,Podiatry,5132,32671.0,TN,Dayton,157.0812035138196
-307,19420,"Psychologist, Clinical",1545,32671.0,TN,Dayton,47.28964525114016
-308,20540,Centralized Flu,580,,,,
-309,20540,Chiropractic,4486,,,,
-310,20540,Endocrinology,4848,,,,
-311,20540,Family Practice,32086,,,,
-312,20540,General Surgery,1672,,,,
-313,20540,Internal Medicine,52773,,,,
-314,20540,Mass Immunizer Roster Biller,4874,,,,
-315,20540,Nephrology,2294,,,,
-316,20540,Nurse Practitioner,44052,,,,
-317,20540,Obstetrics & Gynecology,488,,,,
-318,20540,Occupational Therapist in Private Practice,537,,,,
-319,20540,Ophthalmology,4624,,,,
-320,20540,Optometry,2314,,,,
-321,20540,Orthopedic Surgery,760,,,,
-322,20540,Otolaryngology,2312,,,,
-323,20540,Physical Therapist in Private Practice,17437,,,,
-324,20540,Physician Assistant,567,,,,
-325,20540,Plastic and Reconstructive Surgery,372,,,,
-326,20540,Podiatry,7634,,,,
-327,20540,Radiation Oncology,11698,,,,
-328,20540,Urology,5397,,,,
-329,24620,Audiologist,158,,,,
-330,24620,Cardiology,1669,,,,
-331,24620,Centralized Flu,1771,,,,
-332,24620,Chiropractic,3970,,,,
-333,24620,Dermatology,4238,,,,
-334,24620,Family Practice,61413,,,,
-335,24620,General Practice,453,,,,
-336,24620,General Surgery,1383,,,,
-337,24620,Hematology-Oncology,42934,,,,
-338,24620,Internal Medicine,19702,,,,
-339,24620,Licensed Clinical Social Worker,284,,,,
-340,24620,Mass Immunizer Roster Biller,1773,,,,
-341,24620,Nurse Practitioner,24933,,,,
-342,24620,Obstetrics & Gynecology,392,,,,
-343,24620,Ophthalmology,3446,,,,
-344,24620,Optometry,7409,,,,
-345,24620,Orthopedic Surgery,4277,,,,
-346,24620,Otolaryngology,704,,,,
-347,24620,Pathology,85,,,,
-348,24620,Pharmacy,94,,,,
-349,24620,Physical Therapist in Private Practice,12986,,,,
-350,24620,Physician Assistant,7729,,,,
-351,24620,Podiatry,771,,,,
-352,24620,Psychiatry,24,,,,
-353,24620,"Psychologist, Clinical",2240,,,,
-354,24620,Pulmonary Disease,783,,,,
-355,24620,Sports Medicine,34,,,,
-356,24620,Urology,2618,,,,
-357,27180,All Other Suppliers,3557,178336.0,TN,Jackson,19.94549614211376
-358,27180,Allergy/ Immunology,1748,178336.0,TN,Jackson,9.80172259106406
-359,27180,Anesthesiology,7383,178336.0,TN,Jackson,41.399380943836356
-360,27180,Audiologist,3163,178336.0,TN,Jackson,17.736183384173696
-361,27180,Cardiology,90422,178336.0,TN,Jackson,507.03167055445897
-362,27180,Centralized Flu,3068,178336.0,TN,Jackson,17.203481069441953
-363,27180,Certified Registered Nurse Anesthetist (CRNA),558,178336.0,TN,Jackson,3.128925174950655
-364,27180,Chiropractic,16123,178336.0,TN,Jackson,90.40799389915665
-365,27180,Clinic or Group Practice,54,178336.0,TN,Jackson,0.30279921047909564
-366,27180,Clinical Cardiac Electrophysiology,3644,178336.0,TN,Jackson,20.433339314552306
-367,27180,Clinical Laboratory,1163,178336.0,TN,Jackson,6.5213978108738555
-368,27180,Dermatology,39443,178336.0,TN,Jackson,221.17239368383275
-369,27180,Diagnostic Radiology,30614,178336.0,TN,Jackson,171.66472277050062
-370,27180,Emergency Medicine,3302,178336.0,TN,Jackson,18.51561098151803
-371,27180,Endocrinology,2012,178336.0,TN,Jackson,11.282074286739636
-372,27180,Family Practice,220248,178336.0,TN,Jackson,1235.0170464740715
-373,27180,Gastroenterology,23119,178336.0,TN,Jackson,129.63731383455948
-374,27180,General Practice,340,178336.0,TN,Jackson,1.9065135474609725
-375,27180,General Surgery,7990,178336.0,TN,Jackson,44.803068365332855
-376,27180,Geriatric Medicine,7352,178336.0,TN,Jackson,41.225551767450206
-377,27180,Hand Surgery,2170,178336.0,TN,Jackson,12.168042347030324
-378,27180,Hematology-Oncology,8582,178336.0,TN,Jackson,48.1226448950296
-379,27180,Independent Diagnostic Testing Facility (IDTF),350,178336.0,TN,Jackson,1.962587475327472
-380,27180,Infectious Disease,2673,178336.0,TN,Jackson,14.988560918715233
-381,27180,Internal Medicine,145531,178336.0,TN,Jackson,816.0494796339493
-382,27180,Interventional Cardiology,30279,178336.0,TN,Jackson,169.7862461869729
-383,27180,Interventional Pain Management,5170,178336.0,TN,Jackson,28.990220706980082
-384,27180,Interventional Radiology,1158,178336.0,TN,Jackson,6.493360846940607
-385,27180,Licensed Clinical Social Worker,17753,178336.0,TN,Jackson,99.54804414139602
-386,27180,Mass Immunizer Roster Biller,8447,178336.0,TN,Jackson,47.36564686883187
-387,27180,Medical Oncology,1015,178336.0,TN,Jackson,5.691503678449668
-388,27180,Nephrology,26746,178336.0,TN,Jackson,149.97532747173875
-389,27180,Neurology,8581,178336.0,TN,Jackson,48.11703750224296
-390,27180,Neurosurgery,1654,178336.0,TN,Jackson,9.274627669118965
-391,27180,Nurse Practitioner,167351,178336.0,TN,Jackson,938.4027902386506
-392,27180,Obstetrics & Gynecology,7999,178336.0,TN,Jackson,44.853534900412704
-393,27180,Occupational Therapist in Private Practice,1354,178336.0,TN,Jackson,7.59240983312399
-394,27180,Ophthalmology,45080,178336.0,TN,Jackson,252.7812668221784
-395,27180,Optometry,22571,178336.0,TN,Jackson,126.56446258747533
-396,27180,Orthopedic Surgery,40170,178336.0,TN,Jackson,225.24896823972725
-397,27180,Otolaryngology,4766,178336.0,TN,Jackson,26.724834021173514
-398,27180,Pathology,1309,178336.0,TN,Jackson,7.340077157724744
-399,27180,Physical Medicine and Rehabilitation,10985,178336.0,TN,Jackson,61.59720976134937
-400,27180,Physical Therapist in Private Practice,30488,178336.0,TN,Jackson,170.95819127938276
-401,27180,Physician Assistant,25376,178336.0,TN,Jackson,142.29319935402833
-402,27180,Plastic and Reconstructive Surgery,1673,178336.0,TN,Jackson,9.381168132065316
-403,27180,Podiatry,20024,178336.0,TN,Jackson,112.28243315987798
-404,27180,Psychiatry,1214,178336.0,TN,Jackson,6.807374842993003
-405,27180,"Psychologist, Clinical",4258,178336.0,TN,Jackson,23.876278485555357
-406,27180,Pulmonary Disease,18510,178336.0,TN,Jackson,103.79284048089
-407,27180,Radiation Oncology,746,178336.0,TN,Jackson,4.18311501884084
-408,27180,Registered Dietitian or Nutrition Professional,127,178336.0,TN,Jackson,0.7121388839045397
-409,27180,Rheumatology,25002,178336.0,TN,Jackson,140.19603445182128
-410,27180,Thoracic Surgery,315,178336.0,TN,Jackson,1.7663287277947246
-411,27180,Urology,50784,178336.0,TN,Jackson,284.7658352772295
-412,27740,Allergy/ Immunology,1450,201909.0,TN,Johnson City,7.1814530308208155
-413,27740,Audiologist,134,201909.0,TN,Johnson City,0.6636653145724063
-414,27740,Cardiology,18598,201909.0,TN,Johnson City,92.11080239117622
-415,27740,Centralized Flu,3091,201909.0,TN,Johnson City,15.308876771218719
-416,27740,Certified Clinical Nurse Specialist,3453,201909.0,TN,Johnson City,17.101763665809845
-417,27740,Certified Registered Nurse Anesthetist (CRNA),161,201909.0,TN,Johnson City,0.7973889227325182
-418,27740,Chiropractic,10935,201909.0,TN,Johnson City,54.158061304845255
-419,27740,Clinic or Group Practice,906,201909.0,TN,Johnson City,4.487169962705972
-420,27740,Clinical Cardiac Electrophysiology,1791,201909.0,TN,Johnson City,8.870332674620744
-421,27740,Clinical Laboratory,38179,201909.0,TN,Johnson City,189.09013466462616
-422,27740,Colorectal Surgery (Proctology),471,201909.0,TN,Johnson City,2.332734053459727
-423,27740,Dermatology,18684,201909.0,TN,Johnson City,92.53673684679733
-424,27740,Diagnostic Radiology,408,201909.0,TN,Johnson City,2.020712301086133
-425,27740,Emergency Medicine,3373,201909.0,TN,Johnson City,16.705545567557664
-426,27740,Endocrinology,738,201909.0,TN,Johnson City,3.655111956376387
-427,27740,Family Practice,111609,201909.0,TN,Johnson City,552.7688215978486
-428,27740,Gastroenterology,2783,201909.0,TN,Johnson City,13.783437092947814
-429,27740,General Practice,4785,201909.0,TN,Johnson City,23.69879500170869
-430,27740,General Surgery,3308,201909.0,TN,Johnson City,16.383618362727763
-431,27740,Geriatric Medicine,113,201909.0,TN,Johnson City,0.5596580637812084
-432,27740,Hematology-Oncology,17722,201909.0,TN,Johnson City,87.77221421531482
-433,27740,Independent Diagnostic Testing Facility (IDTF),253,201909.0,TN,Johnson City,1.2530397357225285
-434,27740,Infectious Disease,731,201909.0,TN,Johnson City,3.6204428727793214
-435,27740,Internal Medicine,147092,201909.0,TN,Johnson City,728.5064063513761
-436,27740,Interventional Cardiology,2887,201909.0,TN,Johnson City,14.29852062067565
-437,27740,Interventional Pain Management,1045,201909.0,TN,Johnson City,5.17559890841914
-438,27740,Licensed Clinical Social Worker,1004,201909.0,TN,Johnson City,4.972537133064896
-439,27740,Mass Immunizer Roster Biller,4582,201909.0,TN,Johnson City,22.693391577393776
-440,27740,Medical Oncology,1261,201909.0,TN,Johnson City,6.245387773700034
-441,27740,Nephrology,3491,201909.0,TN,Johnson City,17.28996726247963
-442,27740,Neurology,3914,201909.0,TN,Johnson City,19.38497045698805
-443,27740,Neurosurgery,1440,201909.0,TN,Johnson City,7.1319257685392925
-444,27740,Nurse Practitioner,144095,201909.0,TN,Johnson City,713.6630858456036
-445,27740,Obstetrics & Gynecology,5829,201909.0,TN,Johnson City,28.869441183899674
-446,27740,Ophthalmology,23061,201909.0,TN,Johnson City,114.21481954741988
-447,27740,Optometry,10004,201909.0,TN,Johnson City,49.547073186435476
-448,27740,Orthopedic Surgery,16949,201909.0,TN,Johnson City,83.94375684095311
-449,27740,Osteopathic Manipulative Medicine,3523,201909.0,TN,Johnson City,17.448454501780503
-450,27740,Otolaryngology,7004,201909.0,TN,Johnson City,34.688894501978616
-451,27740,Pain Management,6024,201909.0,TN,Johnson City,29.835222798389374
-452,27740,Pathology,5666,201909.0,TN,Johnson City,28.062146808710853
-453,27740,Pediatric Medicine,44,201909.0,TN,Johnson City,0.2179199540387006
-454,27740,Physical Medicine and Rehabilitation,986,201909.0,TN,Johnson City,4.883388060958154
-455,27740,Physical Therapist in Private Practice,36121,201909.0,TN,Johnson City,178.89742408708872
-456,27740,Physician Assistant,29013,201909.0,TN,Johnson City,143.6934460573823
-457,27740,Plastic and Reconstructive Surgery,148,201909.0,TN,Johnson City,0.7330034817665384
-458,27740,Podiatry,6471,201909.0,TN,Johnson City,32.04909142237344
-459,27740,Portable X-Ray Supplier,760,201909.0,TN,Johnson City,3.764071933395738
-460,27740,Psychiatry,2420,201909.0,TN,Johnson City,11.985597472128534
-461,27740,"Psychologist, Clinical",11167,201909.0,TN,Johnson City,55.30709378977658
-462,27740,Pulmonary Disease,10947,201909.0,TN,Johnson City,54.21749401958308
-463,27740,Registered Dietitian or Nutrition Professional,79,201909.0,TN,Johnson City,0.3912653720240306
-464,27740,Rheumatology,5516,201909.0,TN,Johnson City,27.319237874488014
-465,27740,Sports Medicine,1845,201909.0,TN,Johnson City,9.137779890940969
-466,27740,Surgical Oncology,41,201909.0,TN,Johnson City,0.20306177535424375
-467,27740,Thoracic Surgery,208,201909.0,TN,Johnson City,1.0301670554556757
-468,27740,Undefined Physician type,11,201909.0,TN,Johnson City,0.05447998850967515
-469,27740,Urology,17748,201909.0,TN,Johnson City,87.90098509724677
-470,27740,Vascular Surgery,894,201909.0,TN,Johnson City,4.427737247968144
-471,28700,Allergy/ Immunology,5071,306496.0,TN-VA,Kingsport-Bristol,16.54507726038839
-472,28700,Anesthesiology,56,306496.0,TN-VA,Kingsport-Bristol,0.18271037794946754
-473,28700,Audiologist,688,306496.0,TN-VA,Kingsport-Bristol,2.2447275005220297
-474,28700,Cardiac Surgery,183,306496.0,TN-VA,Kingsport-Bristol,0.5970714136562957
-475,28700,Cardiology,39566,306496.0,TN-VA,Kingsport-Bristol,129.09140739193987
-476,28700,Centralized Flu,4898,306496.0,TN-VA,Kingsport-Bristol,15.980632699937356
-477,28700,Certified Clinical Nurse Specialist,3575,306496.0,TN-VA,Kingsport-Bristol,11.664100020881186
-478,28700,Certified Nurse Midwife,493,306496.0,TN-VA,Kingsport-Bristol,1.6085038630194195
-479,28700,Certified Registered Nurse Anesthetist (CRNA),2390,306496.0,TN-VA,Kingsport-Bristol,7.797817916057632
-480,28700,Chiropractic,13494,306496.0,TN-VA,Kingsport-Bristol,44.02667571518062
-481,28700,Clinic or Group Practice,79,306496.0,TN-VA,Kingsport-Bristol,0.2577521403215703
-482,28700,Clinical Cardiac Electrophysiology,11082,306496.0,TN-VA,Kingsport-Bristol,36.15707872207141
-483,28700,Clinical Laboratory,69940,306496.0,TN-VA,Kingsport-Bristol,228.19221131760284
-484,28700,Dermatology,40123,306496.0,TN-VA,Kingsport-Bristol,130.90872311547298
-485,28700,Diagnostic Radiology,964,306496.0,TN-VA,Kingsport-Bristol,3.145228648987262
-486,28700,Emergency Medicine,1510,306496.0,TN-VA,Kingsport-Bristol,4.926654833994571
-487,28700,Endocrinology,5015,306496.0,TN-VA,Kingsport-Bristol,16.362366882438923
-488,28700,Family Practice,184396,306496.0,TN-VA,Kingsport-Bristol,601.6261223637503
-489,28700,Gastroenterology,8871,306496.0,TN-VA,Kingsport-Bristol,28.943281478387973
-490,28700,General Practice,1708,306496.0,TN-VA,Kingsport-Bristol,5.572666527458759
-491,28700,General Surgery,5009,306496.0,TN-VA,Kingsport-Bristol,16.342790770515766
-492,28700,Geriatric Psychiatry,73,306496.0,TN-VA,Kingsport-Bristol,0.23817602839841304
-493,28700,Gynecological Oncology,473,306496.0,TN-VA,Kingsport-Bristol,1.5432501566088954
-494,28700,Hematology-Oncology,76545,306496.0,TN-VA,Kingsport-Bristol,249.74224785967843
-495,28700,Independent Diagnostic Testing Facility (IDTF),198,306496.0,TN-VA,Kingsport-Bristol,0.6460116934641887
-496,28700,Internal Medicine,91693,306496.0,TN-VA,Kingsport-Bristol,299.16540509500936
-497,28700,Interventional Cardiology,1616,306496.0,TN-VA,Kingsport-Bristol,5.272499477970349
-498,28700,Interventional Pain Management,1685,306496.0,TN-VA,Kingsport-Bristol,5.497624765086657
-499,28700,Licensed Clinical Social Worker,1193,306496.0,TN-VA,Kingsport-Bristol,3.8923835873877635
-500,28700,Mass Immunizer Roster Biller,4776,306496.0,TN-VA,Kingsport-Bristol,15.58258509083316
-501,28700,Medical Oncology,5508,306496.0,TN-VA,Kingsport-Bristol,17.970870745458342
-502,28700,Nephrology,3195,306496.0,TN-VA,Kingsport-Bristol,10.424279599081228
-503,28700,Neurology,8408,306496.0,TN-VA,Kingsport-Bristol,27.43265817498434
-504,28700,Neurosurgery,3045,306496.0,TN-VA,Kingsport-Bristol,9.934876801002297
-505,28700,Nurse Practitioner,138593,306496.0,TN-VA,Kingsport-Bristol,452.18534662768843
-506,28700,Obstetrics & Gynecology,5418,306496.0,TN-VA,Kingsport-Bristol,17.677229066610984
-507,28700,Occupational Therapist in Private Practice,286,306496.0,TN-VA,Kingsport-Bristol,0.9331280016704949
-508,28700,Ophthalmology,62702,306496.0,TN-VA,Kingsport-Bristol,204.57689496763416
-509,28700,Optometry,12026,306496.0,TN-VA,Kingsport-Bristol,39.23705366464815
-510,28700,Orthopedic Surgery,26413,306496.0,TN-VA,Kingsport-Bristol,86.17730737105867
-511,28700,Otolaryngology,8422,306496.0,TN-VA,Kingsport-Bristol,27.478335769471705
-512,28700,Pain Management,1027,306496.0,TN-VA,Kingsport-Bristol,3.350777824180413
-513,28700,Pathology,8239,306496.0,TN-VA,Kingsport-Bristol,26.88126435581541
-514,28700,Pediatric Medicine,5066,306496.0,TN-VA,Kingsport-Bristol,16.528763833785757
-515,28700,Physical Medicine and Rehabilitation,923,306496.0,TN-VA,Kingsport-Bristol,3.011458550845688
-516,28700,Physical Therapist in Private Practice,35290,306496.0,TN-VA,Kingsport-Bristol,115.1401649613698
-517,28700,Physician Assistant,24267,306496.0,TN-VA,Kingsport-Bristol,79.17558467320944
-518,28700,Plastic and Reconstructive Surgery,439,306496.0,TN-VA,Kingsport-Bristol,1.4323188557110043
-519,28700,Podiatry,9770,306496.0,TN-VA,Kingsport-Bristol,31.87643558154103
-520,28700,Portable X-Ray Supplier,11936,306496.0,TN-VA,Kingsport-Bristol,38.94341198580079
-521,28700,Psychiatry,2780,306496.0,TN-VA,Kingsport-Bristol,9.070265191062852
-522,28700,"Psychologist, Clinical",12362,306496.0,TN-VA,Kingsport-Bristol,40.33331593234496
-523,28700,Pulmonary Disease,6861,306496.0,TN-VA,Kingsport-Bristol,22.385283984130297
-524,28700,Rheumatology,28215,306496.0,TN-VA,Kingsport-Bristol,92.05666631864689
-525,28700,Sleep Medicine,609,306496.0,TN-VA,Kingsport-Bristol,1.9869753602004594
-526,28700,Thoracic Surgery,319,306496.0,TN-VA,Kingsport-Bristol,1.0407966172478598
-527,28700,Urology,19686,306496.0,TN-VA,Kingsport-Bristol,64.22922321987889
-528,28700,Vascular Surgery,1063,306496.0,TN-VA,Kingsport-Bristol,3.468234495719357
-529,28940,Addiction Medicine,152,853645.0,TN,Knoxville,0.17805996637946686
-530,28940,All Other Suppliers,1191,853645.0,TN,Knoxville,1.3951935523549017
-531,28940,Allergy/ Immunology,46006,853645.0,TN,Knoxville,53.8935974556168
-532,28940,Anesthesiology,8568,853645.0,TN,Knoxville,10.036959157495211
-533,28940,Audiologist,7106,853645.0,TN,Knoxville,8.324303428240077
-534,28940,Cardiac Surgery,260,853645.0,TN,Knoxville,0.30457625828066703
-535,28940,Cardiology,129731,853645.0,TN,Knoxville,151.97300985772773
-536,28940,Centralized Flu,13430,853645.0,TN,Knoxville,15.732535187343684
-537,28940,Certified Clinical Nurse Specialist,2703,853645.0,TN,Knoxville,3.1664216389717037
-538,28940,Certified Nurse Midwife,209,853645.0,TN,Knoxville,0.24483245377176696
-539,28940,Certified Registered Nurse Anesthetist (CRNA),1486,853645.0,TN,Knoxville,1.7407704607887353
-540,28940,Chiropractic,45560,853645.0,TN,Knoxville,53.37113202795073
-541,28940,Clinical Cardiac Electrophysiology,8960,853645.0,TN,Knoxville,10.496166439210679
-542,28940,Clinical Laboratory,512743,853645.0,TN,Knoxville,600.6513246138617
-543,28940,Colorectal Surgery (Proctology),2529,853645.0,TN,Knoxville,2.9625898353531035
-544,28940,Critical Care (Intensivists),1251,853645.0,TN,Knoxville,1.4654803811889017
-545,28940,Dermatology,116067,853645.0,TN,Knoxville,135.96635603793143
-546,28940,Diagnostic Radiology,54863,853645.0,TN,Knoxville,64.26910483866244
-547,28940,Emergency Medicine,5118,853645.0,TN,Knoxville,5.995466499540207
-548,28940,Endocrinology,47106,853645.0,TN,Knoxville,55.18218931757347
-549,28940,Family Practice,427516,853645.0,TN,Knoxville,500.81239859660633
-550,28940,Gastroenterology,20162,853645.0,TN,Knoxville,23.618717382518494
-551,28940,General Practice,15046,853645.0,TN,Knoxville,17.625593777272755
-552,28940,General Surgery,11638,853645.0,TN,Knoxville,13.63330189950155
-553,28940,Gynecological Oncology,5863,853645.0,TN,Knoxville,6.868194624229041
-554,28940,Hand Surgery,13694,853645.0,TN,Knoxville,16.041797234213284
-555,28940,Hematology-Oncology,158101,853645.0,TN,Knoxville,185.20696542473743
-556,28940,Independent Diagnostic Testing Facility (IDTF),10534,853645.0,TN,Knoxville,12.340024248955947
-557,28940,Infectious Disease,1934,853645.0,TN,Knoxville,2.2655787827492695
-558,28940,Internal Medicine,582716,853645.0,TN,Knoxville,682.6209958472199
-559,28940,Interventional Cardiology,2007,853645.0,TN,Knoxville,2.351094424497303
-560,28940,Interventional Pain Management,3015,853645.0,TN,Knoxville,3.531913148908504
-561,28940,Interventional Radiology,275,853645.0,TN,Knoxville,0.322147965489167
-562,28940,Licensed Clinical Social Worker,13363,853645.0,TN,Knoxville,15.654048228479052
-563,28940,Mass Immunizer Roster Biller,26622,853645.0,TN,Knoxville,31.186265953645837
-564,28940,Maxillofacial Surgery,1143,853645.0,TN,Knoxville,1.3389640892877015
-565,28940,Medical Oncology,42686,853645.0,TN,Knoxville,50.004392926802126
-566,28940,Nephrology,22999,853645.0,TN,Knoxville,26.942112939219463
-567,28940,Neurology,31335,853645.0,TN,Knoxville,36.70729635855655
-568,28940,Neurosurgery,6809,853645.0,TN,Knoxville,7.976383625511776
-569,28940,Nurse Practitioner,376949,853645.0,TN,Knoxville,441.57583070245823
-570,28940,Obstetrics & Gynecology,18234,853645.0,TN,Knoxville,21.360167282652625
-571,28940,Occupational Therapist in Private Practice,7211,853645.0,TN,Knoxville,8.447305378699577
-572,28940,Ophthalmology,150982,853645.0,TN,Knoxville,176.86743318358333
-573,28940,Optometry,39539,853645.0,TN,Knoxville,46.31784875445882
-574,28940,Oral Surgery (Dentist only),242,853645.0,TN,Knoxville,0.283490209630467
-575,28940,Orthopedic Surgery,77067,853645.0,TN,Knoxville,90.2799172958314
-576,28940,Osteopathic Manipulative Medicine,2670,853645.0,TN,Knoxville,3.127763883113004
-577,28940,Otolaryngology,39753,853645.0,TN,Knoxville,46.56853844396675
-578,28940,Pain Management,10445,853645.0,TN,Knoxville,12.23576545285218
-579,28940,Pathology,53081,853645.0,TN,Knoxville,62.181586022292635
-580,28940,Pediatric Medicine,1226,853645.0,TN,Knoxville,1.4361942025080683
-581,28940,Physical Medicine and Rehabilitation,20724,853645.0,TN,Knoxville,24.27707067926363
-582,28940,Physical Therapist in Private Practice,289217,853645.0,TN,Knoxville,338.80242958138336
-583,28940,Physician Assistant,122073,853645.0,TN,Knoxville,143.00206760421486
-584,28940,Plastic and Reconstructive Surgery,1032,853645.0,TN,Knoxville,1.2089334559448013
-585,28940,Podiatry,61739,853645.0,TN,Knoxville,72.32397542303885
-586,28940,Psychiatry,15875,853645.0,TN,Knoxville,18.596723462329187
-587,28940,"Psychologist, Clinical",10672,853645.0,TN,Knoxville,12.501683955274148
-588,28940,Pulmonary Disease,40617,853645.0,TN,Knoxville,47.58066877917636
-589,28940,Radiation Oncology,40528,853645.0,TN,Knoxville,47.476409983072585
-590,28940,Registered Dietitian or Nutrition Professional,581,853645.0,TN,Knoxville,0.6806107925425675
-591,28940,Rheumatology,27881,853645.0,TN,Knoxville,32.66111791201261
-592,28940,Sleep Medicine,1347,853645.0,TN,Knoxville,1.5779393073233017
-593,28940,Sports Medicine,7170,853645.0,TN,Knoxville,8.39927604566301
-594,28940,Surgical Oncology,1437,853645.0,TN,Knoxville,1.683369550574302
-595,28940,Thoracic Surgery,101,853645.0,TN,Knoxville,0.1183161618705668
-596,28940,Undefined Physician type,401,853645.0,TN,Knoxville,0.46975030604056717
-597,28940,Urology,136157,853645.0,TN,Knoxville,159.50072922584914
-598,28940,Vascular Surgery,15151,853645.0,TN,Knoxville,17.748595727732255
-599,29980,Audiologist,28,43388.0,TN,Lawrenceburg,0.6453397252696599
-600,29980,Centralized Flu,581,43388.0,TN,Lawrenceburg,13.39079929934544
-601,29980,Chiropractic,4225,43388.0,TN,Lawrenceburg,97.37715497372545
-602,29980,Dermatology,6851,43388.0,TN,Lawrenceburg,157.9008020650871
-603,29980,Diagnostic Radiology,367,43388.0,TN,Lawrenceburg,8.458559970498754
-604,29980,Family Practice,23256,43388.0,TN,Lawrenceburg,536.0007375311145
-605,29980,General Surgery,337,43388.0,TN,Lawrenceburg,7.767124550566977
-606,29980,Independent Diagnostic Testing Facility (IDTF),1220,43388.0,TN,Lawrenceburg,28.11837374389232
-607,29980,Internal Medicine,27359,43388.0,TN,Lawrenceburg,630.5660551304509
-608,29980,Licensed Clinical Social Worker,330,43388.0,TN,Lawrenceburg,7.605789619249562
-609,29980,Mass Immunizer Roster Biller,2562,43388.0,TN,Lawrenceburg,59.048584862173875
-610,29980,Neurology,2052,43388.0,TN,Lawrenceburg,47.29418272333364
-611,29980,Nurse Practitioner,51943,43388.0,TN,Lawrenceburg,1197.1743339172122
-612,29980,Optometry,3737,43388.0,TN,Lawrenceburg,86.12980547616853
-613,29980,Orthopedic Surgery,1141,43388.0,TN,Lawrenceburg,26.29759380473864
-614,29980,Physical Therapist in Private Practice,1313,43388.0,TN,Lawrenceburg,30.261823545680834
-615,29980,Physician Assistant,4331,43388.0,TN,Lawrenceburg,99.82022679081774
-616,29980,Podiatry,2088,43388.0,TN,Lawrenceburg,48.123905227251775
-617,29980,Psychiatry,1713,43388.0,TN,Lawrenceburg,39.480962478104544
-618,29980,Pulmonary Disease,462,43388.0,TN,Lawrenceburg,10.648105466949387
-619,30280,Allergy/ Immunology,728,33020.0,TN,Lewisburg,22.04724409448819
-620,30280,Anesthesiology,1347,33020.0,TN,Lewisburg,40.79345850999394
-621,30280,Audiologist,212,33020.0,TN,Lewisburg,6.420351302241066
-622,30280,Cardiology,5434,33020.0,TN,Lewisburg,164.56692913385825
-623,30280,Centralized Flu,2459,33020.0,TN,Lewisburg,74.47001817080557
-624,30280,Certified Clinical Nurse Specialist,331,33020.0,TN,Lewisburg,10.024227740763173
-625,30280,Certified Nurse Midwife,85,33020.0,TN,Lewisburg,2.57419745608722
-626,30280,Certified Registered Nurse Anesthetist (CRNA),34,33020.0,TN,Lewisburg,1.029678982434888
-627,30280,Chiropractic,7044,33020.0,TN,Lewisburg,213.3252574197456
-628,30280,Clinic or Group Practice,68,33020.0,TN,Lewisburg,2.059357964869776
-629,30280,Clinical Cardiac Electrophysiology,81,33020.0,TN,Lewisburg,2.453058752271351
-630,30280,Clinical Laboratory,29575,33020.0,TN,Lewisburg,895.6692913385826
-631,30280,Dermatology,11911,33020.0,TN,Lewisburg,360.7207752877044
-632,30280,Diagnostic Radiology,2470,33020.0,TN,Lewisburg,74.80314960629921
-633,30280,Emergency Medicine,1518,33020.0,TN,Lewisburg,45.97213809812235
-634,30280,Endocrinology,1031,33020.0,TN,Lewisburg,31.223500908540277
-635,30280,Family Practice,54983,33020.0,TN,Lewisburg,1665.1423379769835
-636,30280,Gastroenterology,1961,33020.0,TN,Lewisburg,59.38824954572986
-637,30280,General Practice,3478,33020.0,TN,Lewisburg,105.33010296789824
-638,30280,General Surgery,855,33020.0,TN,Lewisburg,25.893397940642036
-639,30280,Gynecological Oncology,204,33020.0,TN,Lewisburg,6.178073894609327
-640,30280,Hematology,374,33020.0,TN,Lewisburg,11.326468806783767
-641,30280,Hematology-Oncology,6597,33020.0,TN,Lewisburg,199.78800726832222
-642,30280,Internal Medicine,27338,33020.0,TN,Lewisburg,827.9224712295579
-643,30280,Interventional Pain Management,409,33020.0,TN,Lewisburg,12.386432465172621
-644,30280,Licensed Clinical Social Worker,1796,33020.0,TN,Lewisburg,54.391278013325255
-645,30280,Mass Immunizer Roster Biller,4294,33020.0,TN,Lewisburg,130.04239854633556
-646,30280,Medical Oncology,5465,33020.0,TN,Lewisburg,165.50575408843127
-647,30280,Nephrology,6046,33020.0,TN,Lewisburg,183.10115081768623
-648,30280,Neurology,3032,33020.0,TN,Lewisburg,91.82313749242883
-649,30280,Neurosurgery,215,33020.0,TN,Lewisburg,6.5112053301029675
-650,30280,Nurse Practitioner,56296,33020.0,TN,Lewisburg,1704.9061175045429
-651,30280,Obstetrics & Gynecology,3080,33020.0,TN,Lewisburg,93.27680193821926
-652,30280,Occupational Therapist in Private Practice,802,33020.0,TN,Lewisburg,24.288310115081767
-653,30280,Ophthalmology,8685,33020.0,TN,Lewisburg,263.02241066020594
-654,30280,Optometry,10443,33020.0,TN,Lewisburg,316.26287098728045
-655,30280,Orthopedic Surgery,26032,33020.0,TN,Lewisburg,788.3706844336765
-656,30280,Otolaryngology,11079,33020.0,TN,Lewisburg,335.52392489400364
-657,30280,Pain Management,267,33020.0,TN,Lewisburg,8.086008479709268
-658,30280,Pathology,362,33020.0,TN,Lewisburg,10.96305269533616
-659,30280,Physical Therapist in Private Practice,34279,33020.0,TN,Lewisburg,1038.128407026045
-660,30280,Physician Assistant,12423,33020.0,TN,Lewisburg,376.22652937613566
-661,30280,Plastic and Reconstructive Surgery,286,33020.0,TN,Lewisburg,8.661417322834646
-662,30280,Podiatry,9249,33020.0,TN,Lewisburg,280.1029678982435
-663,30280,Psychiatry,2739,33020.0,TN,Lewisburg,82.94972743791641
-664,30280,"Psychologist, Clinical",1663,33020.0,TN,Lewisburg,50.363416111447606
-665,30280,Pulmonary Disease,2531,33020.0,TN,Lewisburg,76.65051483949122
-666,30280,Registered Dietitian or Nutrition Professional,43,33020.0,TN,Lewisburg,1.3022410660205934
-667,30280,Rheumatology,1577,33020.0,TN,Lewisburg,47.75893397940642
-668,30280,Urology,12470,33020.0,TN,Lewisburg,377.6499091459721
-669,30280,Vascular Surgery,3714,33020.0,TN,Lewisburg,112.47728649303453
-670,32280,Anesthesiology,2345,33325.0,TN,Martin,70.36759189797449
-671,32280,Cardiology,4865,33325.0,TN,Martin,145.98649662415602
-672,32280,Centralized Flu,2943,33325.0,TN,Martin,88.31207801950487
-673,32280,Chiropractic,13273,33325.0,TN,Martin,398.28957239309824
-674,32280,Clinical Laboratory,18759,33325.0,TN,Martin,562.9107276819205
-675,32280,Dermatology,718,33325.0,TN,Martin,21.545386346586646
-676,32280,Diagnostic Radiology,1011,33325.0,TN,Martin,30.337584396099025
-677,32280,Family Practice,72277,33325.0,TN,Martin,2168.8522130532633
-678,32280,Gastroenterology,2794,33325.0,TN,Martin,83.84096024006001
-679,32280,General Practice,32613,33325.0,TN,Martin,978.6346586646662
-680,32280,General Surgery,3162,33325.0,TN,Martin,94.88372093023256
-681,32280,Hematology-Oncology,1375,33325.0,TN,Martin,41.26031507876969
-682,32280,Internal Medicine,66254,33325.0,TN,Martin,1988.1170292573142
-683,32280,Interventional Pain Management,2683,33325.0,TN,Martin,80.51012753188297
-684,32280,Licensed Clinical Social Worker,2396,33325.0,TN,Martin,71.89797449362341
-685,32280,Mass Immunizer Roster Biller,5403,33325.0,TN,Martin,162.1305326331583
-686,32280,Nephrology,2230,33325.0,TN,Martin,66.91672918229557
-687,32280,Nurse Practitioner,71038,33325.0,TN,Martin,2131.672918229557
-688,32280,Obstetrics & Gynecology,3024,33325.0,TN,Martin,90.74268567141786
-689,32280,Occupational Therapist in Private Practice,539,33325.0,TN,Martin,16.17404351087772
-690,32280,Optometry,23599,33325.0,TN,Martin,708.1470367591897
-691,32280,Orthopedic Surgery,15704,33325.0,TN,Martin,471.2378094523631
-692,32280,Physical Therapist in Private Practice,30211,33325.0,TN,Martin,906.5566391597899
-693,32280,Physician Assistant,32920,33325.0,TN,Martin,987.8469617404351
-694,32280,Podiatry,5620,33325.0,TN,Martin,168.64216054013502
-695,32280,Psychiatry,1776,33325.0,TN,Martin,53.293323330832706
-696,32280,Radiation Oncology,3247,33325.0,TN,Martin,97.43435858964742
-697,32280,Registered Dietitian or Nutrition Professional,78,33325.0,TN,Martin,2.3405851462865717
-698,32280,Urology,12097,33325.0,TN,Martin,363.0007501875469
-699,32280,Vascular Surgery,1908,33325.0,TN,Martin,57.254313578394594
-700,32660,Audiologist,261,,,,
-701,32660,Centralized Flu,1122,,,,
-702,32660,Chiropractic,6416,,,,
-703,32660,Diagnostic Radiology,375,,,,
-704,32660,Family Practice,79308,,,,
-705,32660,General Practice,6267,,,,
-706,32660,General Surgery,1173,,,,
-707,32660,Internal Medicine,24594,,,,
-708,32660,Mass Immunizer Roster Biller,4686,,,,
-709,32660,Medical Oncology,38,,,,
-710,32660,Nephrology,1209,,,,
-711,32660,Nurse Practitioner,21282,,,,
-712,32660,Obstetrics & Gynecology,289,,,,
-713,32660,Optometry,4664,,,,
-714,32660,Orthopedic Surgery,6371,,,,
-715,32660,Pharmacy,32,,,,
-716,32660,Physical Medicine and Rehabilitation,2028,,,,
-717,32660,Physical Therapist in Private Practice,7084,,,,
-718,32660,Physician Assistant,1249,,,,
-719,32660,Podiatry,1663,,,,
-720,32660,"Psychologist, Clinical",514,,,,
-721,32660,Urology,2383,,,,
-722,32820,Addiction Medicine,23,1338582.0,TN-MS-AR,Memphis,0.017182361633430003
-723,32820,Allergy/ Immunology,18433,1338582.0,TN-MS-AR,Memphis,13.770542260391966
-724,32820,Anesthesiology,24057,1338582.0,TN-MS-AR,Memphis,17.97200320936633
-725,32820,Audiologist,15669,1338582.0,TN-MS-AR,Memphis,11.705670627574552
-726,32820,Cardiac Surgery,11239,1338582.0,TN-MS-AR,Memphis,8.396198365135643
-727,32820,Cardiology,346464,1338582.0,TN-MS-AR,Memphis,258.82911917237794
-728,32820,Centralized Flu,23143,1338582.0,TN-MS-AR,Memphis,17.28919109923785
-729,32820,Certified Registered Nurse Anesthetist (CRNA),1170,1338582.0,TN-MS-AR,Memphis,0.8740592657005697
-730,32820,Chiropractic,39706,1338582.0,TN-MS-AR,Memphis,29.662732652911814
-731,32820,Clinic or Group Practice,4342,1338582.0,TN-MS-AR,Memphis,3.243731052711003
-732,32820,Clinical Cardiac Electrophysiology,5287,1338582.0,TN-MS-AR,Memphis,3.9497019980845405
-733,32820,Clinical Laboratory,1774994,1338582.0,TN-MS-AR,Memphis,1326.0256002247154
-734,32820,Colorectal Surgery (Proctology),435,1338582.0,TN-MS-AR,Memphis,0.3249707526322631
-735,32820,Critical Care (Intensivists),1879,1338582.0,TN-MS-AR,Memphis,1.4037242395310858
-736,32820,Dermatology,100360,1338582.0,TN-MS-AR,Memphis,74.97486145787109
-737,32820,Diagnostic Radiology,64763,1338582.0,TN-MS-AR,Memphis,48.38179506373162
-738,32820,Emergency Medicine,25056,1338582.0,TN-MS-AR,Memphis,18.718315351618354
-739,32820,Endocrinology,117345,1338582.0,TN-MS-AR,Memphis,87.66366199455842
-740,32820,Family Practice,263875,1338582.0,TN-MS-AR,Memphis,197.1302467835366
-741,32820,Gastroenterology,167821,1338582.0,TN-MS-AR,Memphis,125.37222224712418
-742,32820,General Practice,18651,1338582.0,TN-MS-AR,Memphis,13.933401166308826
-743,32820,General Surgery,10924,1338582.0,TN-MS-AR,Memphis,8.160874716677798
-744,32820,Geriatric Medicine,8119,1338582.0,TN-MS-AR,Memphis,6.065373656600791
-745,32820,Gynecological Oncology,10256,1338582.0,TN-MS-AR,Memphis,7.661839170106874
-746,32820,Hand Surgery,19882,1338582.0,TN-MS-AR,Memphis,14.853031043298056
-747,32820,Hematology,10860,1338582.0,TN-MS-AR,Memphis,8.113062927784775
-748,32820,Hematology-Oncology,121999,1338582.0,TN-MS-AR,Memphis,91.1404755181229
-749,32820,Hospitalist,221,1338582.0,TN-MS-AR,Memphis,0.16510008352121872
-750,32820,Independent Diagnostic Testing Facility (IDTF),9725,1338582.0,TN-MS-AR,Memphis,7.265150734135077
-751,32820,Infectious Disease,5440,1338582.0,TN-MS-AR,Memphis,4.064002055906922
-752,32820,Internal Medicine,597827,1338582.0,TN-MS-AR,Memphis,446.6121612273286
-753,32820,Interventional Cardiology,16399,1338582.0,TN-MS-AR,Memphis,12.251023844635592
-754,32820,Interventional Pain Management,7015,1338582.0,TN-MS-AR,Memphis,5.24062029819615
-755,32820,Interventional Radiology,7370,1338582.0,TN-MS-AR,Memphis,5.505826314712136
-756,32820,Licensed Clinical Social Worker,13077,1338582.0,TN-MS-AR,Memphis,9.769293177407137
-757,32820,Mass Immunizer Roster Biller,37516,1338582.0,TN-MS-AR,Memphis,28.026673001728696
-758,32820,Medical Oncology,20163,1338582.0,TN-MS-AR,Memphis,15.062954678906484
-759,32820,Nephrology,43035,1338582.0,TN-MS-AR,Memphis,32.14969273455044
-760,32820,Neurology,48512,1338582.0,TN-MS-AR,Memphis,36.241335980911145
-761,32820,Neurosurgery,10407,1338582.0,TN-MS-AR,Memphis,7.774645109526349
-762,32820,Nuclear Medicine,68,1338582.0,TN-MS-AR,Memphis,0.05080002569883653
-763,32820,Nurse Practitioner,310620,1338582.0,TN-MS-AR,Memphis,232.05152915547944
-764,32820,Obstetrics & Gynecology,38652,1338582.0,TN-MS-AR,Memphis,28.875332254579845
-765,32820,Occupational Therapist in Private Practice,4891,1338582.0,TN-MS-AR,Memphis,3.653866554308963
-766,32820,Ophthalmology,156483,1338582.0,TN-MS-AR,Memphis,116.90206502104465
-767,32820,Optometry,59901,1338582.0,TN-MS-AR,Memphis,44.74959322626481
-768,32820,Orthopedic Surgery,187847,1338582.0,TN-MS-AR,Memphis,140.33282981543155
-769,32820,Otolaryngology,30723,1338582.0,TN-MS-AR,Memphis,22.951899846255216
-770,32820,Pain Management,16721,1338582.0,TN-MS-AR,Memphis,12.491576907503612
-771,32820,Pathology,189663,1338582.0,TN-MS-AR,Memphis,141.68948932527107
-772,32820,Pediatric Medicine,132,1338582.0,TN-MS-AR,Memphis,0.09861181459185914
-773,32820,Physical Medicine and Rehabilitation,33851,1338582.0,TN-MS-AR,Memphis,25.288701028401697
-774,32820,Physical Therapist in Private Practice,138662,1338582.0,TN-MS-AR,Memphis,103.58872299194222
-775,32820,Physician Assistant,20961,1338582.0,TN-MS-AR,Memphis,15.65910792166636
-776,32820,Plastic and Reconstructive Surgery,1665,1338582.0,TN-MS-AR,Memphis,1.2438535704200415
-777,32820,Podiatry,57581,1338582.0,TN-MS-AR,Memphis,43.01641587889274
-778,32820,Portable X-Ray Supplier,11689,1338582.0,TN-MS-AR,Memphis,8.73237500578971
-779,32820,Psychiatry,23900,1338582.0,TN-MS-AR,Memphis,17.854714914738132
-780,32820,"Psychologist, Clinical",15614,1338582.0,TN-MS-AR,Memphis,11.66458237149461
-781,32820,Pulmonary Disease,31785,1338582.0,TN-MS-AR,Memphis,23.745276718198813
-782,32820,Radiation Oncology,15835,1338582.0,TN-MS-AR,Memphis,11.82968245501583
-783,32820,Radiation Therapy Center,140,1338582.0,TN-MS-AR,Memphis,0.10458828820348698
-784,32820,Registered Dietitian or Nutrition Professional,570,1338582.0,TN-MS-AR,Memphis,0.4258237448284827
-785,32820,Rheumatology,38744,1338582.0,TN-MS-AR,Memphis,28.944061701113565
-786,32820,Speech Language Pathologist,1548,1338582.0,TN-MS-AR,Memphis,1.1564476438499844
-787,32820,Surgical Oncology,2633,1338582.0,TN-MS-AR,Memphis,1.9670068774270086
-788,32820,Thoracic Surgery,1255,1338582.0,TN-MS-AR,Memphis,0.9375592978241153
-789,32820,Urology,197930,1338582.0,TN-MS-AR,Memphis,147.86542774368698
-790,32820,Vascular Surgery,6700,1338582.0,TN-MS-AR,Memphis,5.005296649738305
-791,34100,All Other Suppliers,136,140898.0,TN,Morristown,0.9652372638362503
-792,34100,Cardiology,14644,140898.0,TN,Morristown,103.93334185013272
-793,34100,Centralized Flu,2779,140898.0,TN,Morristown,19.723487913242202
-794,34100,Certified Registered Nurse Anesthetist (CRNA),1768,140898.0,TN,Morristown,12.548084429871254
-795,34100,Chiropractic,5783,140898.0,TN,Morristown,41.04387571150762
-796,34100,Clinic or Group Practice,878,140898.0,TN,Morristown,6.231458218001675
-797,34100,Dermatology,7895,140898.0,TN,Morristown,56.0334426322588
-798,34100,Emergency Medicine,837,140898.0,TN,Morristown,5.940467572286335
-799,34100,Endocrinology,27592,140898.0,TN,Morristown,195.8296072336016
-800,34100,Family Practice,125529,140898.0,TN,Morristown,890.9210918536814
-801,34100,Gastroenterology,1745,140898.0,TN,Morristown,12.38484577495777
-802,34100,General Practice,10760,140898.0,TN,Morristown,76.36730116822098
-803,34100,General Surgery,1593,140898.0,TN,Morristown,11.306051185964314
-804,34100,Hematology-Oncology,15784,140898.0,TN,Morristown,112.02430126758364
-805,34100,Internal Medicine,61314,140898.0,TN,Morristown,435.16586466805774
-806,34100,Interventional Pain Management,2162,140898.0,TN,Morristown,15.344433561867449
-807,34100,Licensed Clinical Social Worker,866,140898.0,TN,Morristown,6.14629022413377
-808,34100,Mass Immunizer Roster Biller,3857,140898.0,TN,Morristown,27.37441269570895
-809,34100,Medical Oncology,144,140898.0,TN,Morristown,1.0220159264148534
-810,34100,Nephrology,2273,140898.0,TN,Morristown,16.132237505145564
-811,34100,Neurology,2300,140898.0,TN,Morristown,16.32386549134835
-812,34100,Nurse Practitioner,72084,140898.0,TN,Morristown,511.604139164502
-813,34100,Obstetrics & Gynecology,675,140898.0,TN,Morristown,4.790699655069625
-814,34100,Occupational Therapist in Private Practice,1107,140898.0,TN,Morristown,7.856747434314184
-815,34100,Ophthalmology,4589,140898.0,TN,Morristown,32.56966032165112
-816,34100,Optometry,18251,140898.0,TN,Morristown,129.53342134026033
-817,34100,Oral Surgery (Dentist only),13,140898.0,TN,Morristown,0.09226532669022981
-818,34100,Orthopedic Surgery,10181,140898.0,TN,Morristown,72.2579454640946
-819,34100,Otolaryngology,9863,140898.0,TN,Morristown,70.00099362659512
-820,34100,Pathology,958,140898.0,TN,Morristown,6.799244843787705
-821,34100,Pediatric Medicine,88,140898.0,TN,Morristown,0.6245652883646327
-822,34100,Physical Medicine and Rehabilitation,938,140898.0,TN,Morristown,6.657298187341197
-823,34100,Physical Therapist in Private Practice,65725,140898.0,TN,Morristown,466.47219974733497
-824,34100,Physician Assistant,42049,140898.0,TN,Morristown,298.4357478459595
-825,34100,Podiatry,6703,140898.0,TN,Morristown,47.57342190804695
-826,34100,"Psychologist, Clinical",2028,140898.0,TN,Morristown,14.39339096367585
-827,34100,Pulmonary Disease,6182,140898.0,TN,Morristown,43.87571150761544
-828,34100,Rheumatology,6454,140898.0,TN,Morristown,45.806186035287936
-829,34100,Urology,2953,140898.0,TN,Morristown,20.958423824326818
-830,34980,Addiction Medicine,1283,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.6844437094395083
-831,34980,All Other Suppliers,3086,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.6462925076619819
-832,34980,Allergy/ Immunology,28794,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.360773320032115
-833,34980,Anesthesiology,160290,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,85.51011861734902
-834,34980,Audiologist,13325,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.108505400063484
-835,34980,Cardiac Surgery,2186,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.166168315537619
-836,34980,Cardiology,145083,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,77.39762018442103
-837,34980,Centralized Flu,33530,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,17.88729351325543
-838,34980,Certified Clinical Nurse Specialist,3050,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.6270875399770075
-839,34980,Certified Nurse Midwife,341,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.18191372168267525
-840,34980,Certified Registered Nurse Anesthetist (CRNA),1241,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.662037913807038
-841,34980,Chiropractic,75113,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,40.07063160337474
-842,34980,Clinic or Group Practice,2439,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.3011365606570233
-843,34980,Clinical Cardiac Electrophysiology,38914,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,20.759503124808283
-844,34980,Clinical Laboratory,1917009,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1022.6693304668141
-845,34980,Colorectal Surgery (Proctology),1556,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.8300813810505651
-846,34980,Critical Care (Intensivists),565,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.30141129838918335
-847,34980,Dermatology,195334,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,104.20508771602255
-848,34980,Diagnostic Radiology,159538,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,85.10894818126289
-849,34980,Emergency Medicine,25129,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,13.405600915436793
-850,34980,Endocrinology,51424,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,27.433229395336927
-851,34980,Family Practice,532446,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,284.0446728887205
-852,34980,Gastroenterology,22693,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,12.106064768753518
-853,34980,General Practice,36428,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,19.433293411895875
-854,34980,General Surgery,22695,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,12.107131711402683
-855,34980,Geriatric Medicine,1685,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.8988991819217238
-856,34980,Gynecological Oncology,8566,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,4.569715366374769
-857,34980,Hand Surgery,11812,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,6.301363285969971
-858,34980,Hematology,374,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.1995182753939019
-859,34980,Hematology-Oncology,299293,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,159.6642331483077
-860,34980,Hospice and Palliative Care,2446,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.3048708599291017
-861,34980,Independent Diagnostic Testing Facility (IDTF),28273,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.082834759924568
-862,34980,Infectious Disease,6671,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.558787206290694
-863,34980,Internal Medicine,648501,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,345.95668746315715
-864,34980,Interventional Cardiology,28683,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.301558003003443
-865,34980,Interventional Pain Management,9681,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,5.1645358932843966
-866,34980,Interventional Radiology,6074,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.2403048255148663
-867,34980,Licensed Clinical Social Worker,21075,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,11.242908165578829
-868,34980,Mass Immunizer Roster Biller,52569,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,28.044054061984035
-869,34980,Maxillofacial Surgery,264,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.14083642968981308
-870,34980,Medical Oncology,212744,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,113.49282347700606
-871,34980,Nephrology,46428,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,24.768006657722133
-872,34980,Neurology,52373,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,27.93949368236584
-873,34980,Neuropsychiatry,186,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.09922566637236832
-874,34980,Neurosurgery,16787,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,8.955383125768531
-875,34980,Nuclear Medicine,661,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.3526245455491154
-876,34980,Nurse Practitioner,554919,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,296.0333739660659
-877,34980,Obstetrics & Gynecology,28671,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.295156347108453
-878,34980,Occupational Therapist in Private Practice,7823,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,4.173346172209878
-879,34980,Ophthalmology,242861,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,129.559379359461
-880,34980,Optometry,63005,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,33.61136080532831
-881,34980,Oral Surgery (Dentist only),71,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.037876464045366404
-882,34980,Orthopedic Surgery,223563,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,119.26444973766547
-883,34980,Otolaryngology,53940,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,28.775443247986814
-884,34980,Pain Management,37522,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,20.01691104098927
-885,34980,Pathology,354407,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,189.0659717313545
-886,34980,Pediatric Medicine,705,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.37609728383075086
-887,34980,Pharmacy,32,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.017071082386644013
-888,34980,Physical Medicine and Rehabilitation,69976,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,37.33018940899379
-889,34980,Physical Therapist in Private Practice,408258,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,217.79393603145348
-890,34980,Physician Assistant,139930,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,74.64864244884677
-891,34980,Plastic and Reconstructive Surgery,3263,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.7407169321131066
-892,34980,Podiatry,82060,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,43.77665689525024
-893,34980,Portable X-Ray Supplier,43842,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,23.388449812351464
-894,34980,Preventive Medicine,439,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.23419391149177254
-895,34980,Psychiatry,29841,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,15.919317796870125
-896,34980,"Psychologist, Clinical",21092,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,11.251977178096736
-897,34980,Pulmonary Disease,51269,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,27.35054134002662
-898,34980,Radiation Oncology,14665,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.8233569750042005
-899,34980,Registered Dietitian or Nutrition Professional,433,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.23099308354427678
-900,34980,Rheumatology,54046,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,28.831991208392573
-901,34980,Sleep Medicine,700,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.37342992720783774
-902,34980,Sports Medicine,12337,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,6.581435731375849
-903,34980,Surgical Oncology,900,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.4801241921243628
-904,34980,Thoracic Surgery,1726,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.9207715062296115
-905,34980,Urology,145744,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,77.75024472997015
-906,34980,Vascular Surgery,27074,1874515.0,TN,Nashville-Davidson--Murfreesboro--Franklin,14.443202641749998
-907,35460,Cardiology,32,35528.0,TN,Newport,0.9006980409817609
-908,35460,Centralized Flu,1073,35528.0,TN,Newport,30.20153118666967
-909,35460,Chiropractic,1605,35528.0,TN,Newport,45.17563611799144
-910,35460,Family Practice,37385,35528.0,TN,Newport,1052.2686331907228
-911,35460,General Surgery,409,35528.0,TN,Newport,11.512046836298131
-912,35460,Internal Medicine,5938,35528.0,TN,Newport,167.135780229678
-913,35460,Mass Immunizer Roster Biller,618,35528.0,TN,Newport,17.394730916460254
-914,35460,Nurse Practitioner,9404,35528.0,TN,Newport,264.69263679351496
-915,35460,Optometry,1821,35528.0,TN,Newport,51.25534789461833
-916,35460,Orthopedic Surgery,252,35528.0,TN,Newport,7.092997072731367
-917,35460,Pharmacy,94,35528.0,TN,Newport,2.6458004953839227
-918,35460,Physical Therapist in Private Practice,22155,35528.0,TN,Newport,623.5926593109659
-919,35460,Physician Assistant,2338,35528.0,TN,Newport,65.8072506192299
-920,35460,Podiatry,334,35528.0,TN,Newport,9.40103580274713
-921,35460,Psychiatry,24,35528.0,TN,Newport,0.6755235307363207
-922,35460,"Psychologist, Clinical",382,35528.0,TN,Newport,10.75208286421977
-923,35460,Sports Medicine,34,35528.0,TN,Newport,0.956991668543121
-924,35980,Nurse Practitioner,15,267419.0,CT,Norwich-New London,0.05609175114707631
-925,36740,Optometry,345,2517777.0,FL,Orlando-Kissimmee-Sanford,0.13702563809265078
-926,37540,Centralized Flu,2030,,,,
-927,37540,Chiropractic,6708,,,,
-928,37540,Clinical Laboratory,9903,,,,
-929,37540,Dermatology,718,,,,
-930,37540,Diagnostic Radiology,1011,,,,
-931,37540,Family Practice,36147,,,,
-932,37540,General Practice,31248,,,,
-933,37540,General Surgery,1828,,,,
-934,37540,Internal Medicine,45248,,,,
-935,37540,Interventional Pain Management,2683,,,,
-936,37540,Licensed Clinical Social Worker,1499,,,,
-937,37540,Mass Immunizer Roster Biller,2844,,,,
-938,37540,Nurse Practitioner,41129,,,,
-939,37540,Obstetrics & Gynecology,623,,,,
-940,37540,Occupational Therapist in Private Practice,539,,,,
-941,37540,Optometry,14552,,,,
-942,37540,Orthopedic Surgery,9795,,,,
-943,37540,Physical Therapist in Private Practice,14904,,,,
-944,37540,Physician Assistant,20268,,,,
-945,37540,Podiatry,5620,,,,
-946,37540,Psychiatry,1776,,,,
-947,37540,Registered Dietitian or Nutrition Professional,78,,,,
-948,37540,Urology,12097,,,,
-949,37540,Vascular Surgery,1908,,,,
-950,41620,Emergency Medicine,748,1204205.0,UT,Salt Lake City,0.6211566967418338
-951,41660,Ophthalmology,1606,,,,
-952,42940,All Other Suppliers,136,97307.0,TN,Sevierville,1.3976384021704502
-953,42940,Allergy/ Immunology,1413,97307.0,TN,Sevierville,14.521051928432692
-954,42940,Anesthesiology,1065,97307.0,TN,Sevierville,10.94474189934948
-955,42940,Audiologist,523,97307.0,TN,Sevierville,5.374741796581952
-956,42940,Cardiac Surgery,205,97307.0,TN,Sevierville,2.1067343562128107
-957,42940,Cardiology,41723,97307.0,TN,Sevierville,428.7769636305713
-958,42940,Centralized Flu,3265,97307.0,TN,Sevierville,33.55359840504794
-959,42940,Certified Registered Nurse Anesthetist (CRNA),398,97307.0,TN,Sevierville,4.090147676939994
-960,42940,Chiropractic,8297,97307.0,TN,Sevierville,85.26621928535461
-961,42940,Clinical Laboratory,464923,97307.0,TN,Sevierville,4777.898815090384
-962,42940,Colorectal Surgery (Proctology),365,97307.0,TN,Sevierville,3.751014829354517
-963,42940,Critical Care (Intensivists),39,97307.0,TN,Sevierville,0.40079336532829085
-964,42940,Diagnostic Radiology,4538,97307.0,TN,Sevierville,46.63590491948164
-965,42940,Emergency Medicine,1410,97307.0,TN,Sevierville,14.490221669561286
-966,42940,Family Practice,133802,97307.0,TN,Sevierville,1375.050099170666
-967,42940,Gastroenterology,2955,97307.0,TN,Sevierville,30.367804988335887
-968,42940,General Surgery,2445,97307.0,TN,Sevierville,25.126660980196696
-969,42940,Gynecological Oncology,555,97307.0,TN,Sevierville,5.703597891210293
-970,42940,Hand Surgery,2276,97307.0,TN,Sevierville,23.38988973044077
-971,42940,Hematology-Oncology,6549,97307.0,TN,Sevierville,67.30245511628145
-972,42940,Infectious Disease,347,97307.0,TN,Sevierville,3.5660332761260753
-973,42940,Internal Medicine,43522,97307.0,TN,Sevierville,447.26484220045836
-974,42940,Interventional Radiology,47,97307.0,TN,Sevierville,0.48300738898537615
-975,42940,Licensed Clinical Social Worker,1375,97307.0,TN,Sevierville,14.130535316061538
-976,42940,Mass Immunizer Roster Biller,3164,97307.0,TN,Sevierville,32.51564635637724
-977,42940,Maxillofacial Surgery,717,97307.0,TN,Sevierville,7.368431870266271
-978,42940,Medical Oncology,462,97307.0,TN,Sevierville,4.747859866196676
-979,42940,Nephrology,4696,97307.0,TN,Sevierville,48.25963188670908
-980,42940,Neurosurgery,2942,97307.0,TN,Sevierville,30.23420719989312
-981,42940,Nurse Practitioner,54925,97307.0,TN,Sevierville,564.4506561706763
-982,42940,Obstetrics & Gynecology,3674,97307.0,TN,Sevierville,37.75679036451643
-983,42940,Occupational Therapist in Private Practice,623,97307.0,TN,Sevierville,6.402417092295518
-984,42940,Ophthalmology,33955,97307.0,TN,Sevierville,348.9471466595415
-985,42940,Optometry,6519,97307.0,TN,Sevierville,66.9941525275674
-986,42940,Oral Surgery (Dentist only),216,97307.0,TN,Sevierville,2.219778638741303
-987,42940,Orthopedic Surgery,14261,97307.0,TN,Sevierville,146.5567739217117
-988,42940,Pathology,3641,97307.0,TN,Sevierville,37.41765751693095
-989,42940,Pediatric Medicine,17,97307.0,TN,Sevierville,0.17470480027130628
-990,42940,Physical Medicine and Rehabilitation,389,97307.0,TN,Sevierville,3.9976569003257727
-991,42940,Physical Therapist in Private Practice,58658,97307.0,TN,Sevierville,602.8137749596638
-992,42940,Physician Assistant,27782,97307.0,TN,Sevierville,285.50875065514305
-993,42940,Plastic and Reconstructive Surgery,168,97307.0,TN,Sevierville,1.7264944967987914
-994,42940,Podiatry,7240,97307.0,TN,Sevierville,74.4036914096622
-995,42940,Pulmonary Disease,1703,97307.0,TN,Sevierville,17.501310286002035
-996,42940,Radiation Oncology,2732,97307.0,TN,Sevierville,28.076089078894633
-997,42940,Registered Dietitian or Nutrition Professional,38,97307.0,TN,Sevierville,0.39051661237115526
-998,42940,Rheumatology,515,97307.0,TN,Sevierville,5.292527772924866
-999,42940,Sleep Medicine,80,97307.0,TN,Sevierville,0.822140236570853
-1000,42940,Surgical Oncology,735,97307.0,TN,Sevierville,7.553413423494712
-1001,42940,Urology,38907,97307.0,TN,Sevierville,399.83762730327726
-1002,42940,Vascular Surgery,3193,97307.0,TN,Sevierville,32.81367219213417
-1003,43180,Anesthesiology,428,48211.0,TN,Shelbyville,8.877642031901432
-1004,43180,Audiologist,861,48211.0,TN,Shelbyville,17.858994835203582
-1005,43180,Cardiology,9693,48211.0,TN,Shelbyville,201.0537014374313
-1006,43180,Centralized Flu,2381,48211.0,TN,Shelbyville,49.38706934102176
-1007,43180,Certified Registered Nurse Anesthetist (CRNA),21,48211.0,TN,Shelbyville,0.4355852398830143
-1008,43180,Chiropractic,7704,48211.0,TN,Shelbyville,159.79755657422578
-1009,43180,Dermatology,6943,48211.0,TN,Shelbyville,144.01277716703655
-1010,43180,Diagnostic Radiology,39,48211.0,TN,Shelbyville,0.8089440169255979
-1011,43180,Emergency Medicine,4972,48211.0,TN,Shelbyville,103.12999108087367
-1012,43180,Family Practice,75752,48211.0,TN,Shelbyville,1571.259671029433
-1013,43180,Gastroenterology,1923,48211.0,TN,Shelbyville,39.887162680716024
-1014,43180,General Surgery,2212,48211.0,TN,Shelbyville,45.881645267677506
-1015,43180,Hematology-Oncology,4538,48211.0,TN,Shelbyville,94.12789612329136
-1016,43180,Independent Diagnostic Testing Facility (IDTF),85,48211.0,TN,Shelbyville,1.7630831138122005
-1017,43180,Infectious Disease,1243,48211.0,TN,Shelbyville,25.782497770218416
-1018,43180,Internal Medicine,44613,48211.0,TN,Shelbyville,925.3697289000436
-1019,43180,Interventional Pain Management,12480,48211.0,TN,Shelbyville,258.86208541619135
-1020,43180,Licensed Clinical Social Worker,2561,48211.0,TN,Shelbyville,53.1206571114476
-1021,43180,Mass Immunizer Roster Biller,6347,48211.0,TN,Shelbyville,131.650453216071
-1022,43180,Maxillofacial Surgery,49,48211.0,TN,Shelbyville,1.0163655597270331
-1023,43180,Medical Oncology,20826,48211.0,TN,Shelbyville,431.9761050382693
-1024,43180,Nephrology,3951,48211.0,TN,Shelbyville,81.9522515608471
-1025,43180,Neurosurgery,784,48211.0,TN,Shelbyville,16.26184895563253
-1026,43180,Nurse Practitioner,49122,48211.0,TN,Shelbyville,1018.8961025492107
-1027,43180,Obstetrics & Gynecology,624,48211.0,TN,Shelbyville,12.943104270809567
-1028,43180,Ophthalmology,12423,48211.0,TN,Shelbyville,257.6797826222231
-1029,43180,Optometry,15256,48211.0,TN,Shelbyville,316.4423056978698
-1030,43180,Orthopedic Surgery,4207,48211.0,TN,Shelbyville,87.26224305656386
-1031,43180,Otolaryngology,5102,48211.0,TN,Shelbyville,105.82647113729232
-1032,43180,Physical Therapist in Private Practice,19613,48211.0,TN,Shelbyville,406.8158718964552
-1033,43180,Physician Assistant,19580,48211.0,TN,Shelbyville,406.1313808052104
-1034,43180,Podiatry,3919,48211.0,TN,Shelbyville,81.28850262388251
-1035,43180,Psychiatry,3515,48211.0,TN,Shelbyville,72.90867229470453
-1036,43180,"Psychologist, Clinical",5692,48211.0,TN,Shelbyville,118.064342162577
-1037,43180,Pulmonary Disease,712,48211.0,TN,Shelbyville,14.768413847462197
-1038,43180,Radiation Oncology,5120,48211.0,TN,Shelbyville,106.19982991433491
-1039,43180,Urology,5087,48211.0,TN,Shelbyville,105.51533882309016
-1040,43180,Vascular Surgery,3097,48211.0,TN,Shelbyville,64.23845180560453
-1041,46100,Allergy/ Immunology,4255,,,,
-1042,46100,Anesthesiology,5584,,,,
-1043,46100,Audiologist,861,,,,
-1044,46100,Cardiology,18913,,,,
-1045,46100,Centralized Flu,3629,,,,
-1046,46100,Certified Registered Nurse Anesthetist (CRNA),21,,,,
-1047,46100,Chiropractic,10890,,,,
-1048,46100,Dermatology,6943,,,,
-1049,46100,Emergency Medicine,4972,,,,
-1050,46100,Family Practice,105822,,,,
-1051,46100,Gastroenterology,1923,,,,
-1052,46100,General Surgery,4232,,,,
-1053,46100,Hematology-Oncology,4538,,,,
-1054,46100,Independent Diagnostic Testing Facility (IDTF),695,,,,
-1055,46100,Infectious Disease,1243,,,,
-1056,46100,Internal Medicine,71262,,,,
-1057,46100,Interventional Pain Management,15584,,,,
-1058,46100,Licensed Clinical Social Worker,2709,,,,
-1059,46100,Mass Immunizer Roster Biller,9543,,,,
-1060,46100,Maxillofacial Surgery,49,,,,
-1061,46100,Medical Oncology,20826,,,,
-1062,46100,Nephrology,5629,,,,
-1063,46100,Neurology,761,,,,
-1064,46100,Neurosurgery,784,,,,
-1065,46100,Nurse Practitioner,66090,,,,
-1066,46100,Obstetrics & Gynecology,2448,,,,
-1067,46100,Ophthalmology,12423,,,,
-1068,46100,Optometry,17012,,,,
-1069,46100,Orthopedic Surgery,5836,,,,
-1070,46100,Otolaryngology,7730,,,,
-1071,46100,Physical Medicine and Rehabilitation,9312,,,,
-1072,46100,Physical Therapist in Private Practice,18688,,,,
-1073,46100,Physician Assistant,29171,,,,
-1074,46100,Podiatry,6716,,,,
-1075,46100,Psychiatry,3515,,,,
-1076,46100,"Psychologist, Clinical",5736,,,,
-1077,46100,Pulmonary Disease,1313,,,,
-1078,46100,Radiation Oncology,5120,,,,
-1079,46100,Urology,5087,,,,
-1080,46100,Vascular Surgery,3097,,,,
-1081,46460,Anesthesiology,2345,30375.0,TN,Union City,77.20164609053498
-1082,46460,Cardiology,4865,30375.0,TN,Union City,160.16460905349794
-1083,46460,Centralized Flu,913,30375.0,TN,Union City,30.05761316872428
-1084,46460,Chiropractic,6603,30375.0,TN,Union City,217.38271604938274
-1085,46460,Clinical Laboratory,8856,30375.0,TN,Union City,291.55555555555554
-1086,46460,Family Practice,33582,30375.0,TN,Union City,1105.5802469135804
-1087,46460,Gastroenterology,2794,30375.0,TN,Union City,91.98353909465021
-1088,46460,General Practice,2169,30375.0,TN,Union City,71.4074074074074
-1089,46460,General Surgery,1334,30375.0,TN,Union City,43.91769547325103
-1090,46460,Hematology-Oncology,1375,30375.0,TN,Union City,45.26748971193416
-1091,46460,Internal Medicine,13156,30375.0,TN,Union City,433.119341563786
-1092,46460,Licensed Clinical Social Worker,897,30375.0,TN,Union City,29.530864197530864
-1093,46460,Mass Immunizer Roster Biller,1935,30375.0,TN,Union City,63.70370370370371
-1094,46460,Nephrology,2230,30375.0,TN,Union City,73.4156378600823
-1095,46460,Nurse Practitioner,28879,30375.0,TN,Union City,950.7489711934156
-1096,46460,Obstetrics & Gynecology,2401,30375.0,TN,Union City,79.04526748971195
-1097,46460,Optometry,8311,30375.0,TN,Union City,273.61316872427983
-1098,46460,Orthopedic Surgery,5909,30375.0,TN,Union City,194.53497942386832
-1099,46460,Physical Therapist in Private Practice,13175,30375.0,TN,Union City,433.7448559670782
-1100,46460,Physician Assistant,13746,30375.0,TN,Union City,452.54320987654324
-1101,46460,Radiation Oncology,3247,30375.0,TN,Union City,106.8971193415638
+0,11940,Audiologist,538,105862.0,TN,Athens,5.082088001360261
+1,11940,Centralized Flu,2363,105862.0,TN,Athens,22.321512913037726
+2,11940,Chiropractic,5864,105862.0,TN,Athens,55.39286996278173
+3,11940,Family Practice,20761,105862.0,TN,Athens,196.11380854319773
+4,11940,General Practice,1421,105862.0,TN,Athens,13.423135780544483
+5,11940,General Surgery,4444,105862.0,TN,Athens,41.97918044246283
+6,11940,Internal Medicine,38453,105862.0,TN,Athens,363.2370444541006
+7,11940,Licensed Clinical Social Worker,7560,105862.0,TN,Athens,71.4137273053598
+8,11940,Mass Immunizer Roster Biller,3827,105862.0,TN,Athens,36.15083788328201
+9,11940,Neurology,1396,105862.0,TN,Athens,13.186979274905065
+10,11940,Nurse Practitioner,22332,105862.0,TN,Athens,210.95388335757872
+11,11940,Obstetrics & Gynecology,196,105862.0,TN,Athens,1.8514670042130321
+12,11940,Optometry,9531,105862.0,TN,Athens,90.03230620997148
+13,11940,Orthopedic Surgery,2167,105862.0,TN,Athens,20.470045908824694
+14,11940,Physical Therapist in Private Practice,19418,105862.0,TN,Athens,183.42748106024825
+15,11940,Physician Assistant,10132,105862.0,TN,Athens,95.70950860554306
+16,11940,Podiatry,6587,105862.0,TN,Athens,62.22251610587368
+17,11940,Psychiatry,94,105862.0,TN,Athens,0.8879484612042092
+18,11940,Pulmonary Disease,364,105862.0,TN,Athens,3.438438722109917
+19,15140,Audiologist,3095,35214.0,TN,Brownsville,87.8911796444596
+20,15140,Cardiology,30883,35214.0,TN,Brownsville,877.0091440904187
+21,15140,Centralized Flu,1358,35214.0,TN,Brownsville,38.5642074175044
+22,15140,Chiropractic,1626,35214.0,TN,Brownsville,46.174816834213665
+23,15140,Clinic or Group Practice,102,35214.0,TN,Brownsville,2.896575225762481
+24,15140,Clinical Cardiac Electrophysiology,385,35214.0,TN,Brownsville,10.933151587436814
+25,15140,Diagnostic Radiology,25114,35214.0,TN,Brownsville,713.1822570568523
+26,15140,Emergency Medicine,140,35214.0,TN,Brownsville,3.9756914863406596
+27,15140,Family Practice,76777,35214.0,TN,Brownsville,2180.297608905549
+28,15140,Gastroenterology,4143,35214.0,TN,Brownsville,117.65207019935254
+29,15140,General Practice,8890,35214.0,TN,Brownsville,252.45640938263193
+30,15140,General Surgery,3607,35214.0,TN,Brownsville,102.430851365934
+31,15140,Geriatric Medicine,7352,35214.0,TN,Brownsville,208.78059862554665
+32,15140,Hand Surgery,246,35214.0,TN,Brownsville,6.9858578974271595
+33,15140,Hematology-Oncology,706,35214.0,TN,Brownsville,20.048844209689328
+34,15140,Independent Diagnostic Testing Facility (IDTF),905,35214.0,TN,Brownsville,25.700005679559265
+35,15140,Infectious Disease,2673,35214.0,TN,Brownsville,75.9073095927756
+36,15140,Internal Medicine,36331,35214.0,TN,Brownsville,1031.7203385017322
+37,15140,Interventional Cardiology,30279,35214.0,TN,Brownsville,859.8568751064918
+38,15140,Interventional Radiology,1158,35214.0,TN,Brownsville,32.88464815130346
+39,15140,Licensed Clinical Social Worker,5077,35214.0,TN,Brownsville,144.17561197251095
+40,15140,Mass Immunizer Roster Biller,2027,35214.0,TN,Brownsville,57.56233316294655
+41,15140,Medical Oncology,1015,35214.0,TN,Brownsville,28.823763275969785
+42,15140,Nephrology,18746,35214.0,TN,Brownsville,532.3450900210144
+43,15140,Neurology,8211,35214.0,TN,Brownsville,233.1743056738797
+44,15140,Neurosurgery,1654,35214.0,TN,Brownsville,46.9699551314818
+45,15140,Nurse Practitioner,39612,35214.0,TN,Brownsville,1124.8935082637588
+46,15140,Obstetrics & Gynecology,3623,35214.0,TN,Brownsville,102.88521610723008
+47,15140,Ophthalmology,31184,35214.0,TN,Brownsville,885.556880786051
+48,15140,Optometry,3393,35214.0,TN,Brownsville,96.35372295109899
+49,15140,Orthopedic Surgery,15444,35214.0,TN,Brownsville,438.5755665360368
+50,15140,Otolaryngology,4766,35214.0,TN,Brownsville,135.34389731356848
+51,15140,Pathology,1309,35214.0,TN,Brownsville,37.172715397285174
+52,15140,Physical Therapist in Private Practice,7442,35214.0,TN,Brownsville,211.33640029533709
+53,15140,Physician Assistant,7407,35214.0,TN,Brownsville,210.34247742375192
+54,15140,Plastic and Reconstructive Surgery,123,35214.0,TN,Brownsville,3.4929289487135797
+55,15140,Podiatry,7872,35214.0,TN,Brownsville,223.5474527176691
+56,15140,Psychiatry,1214,35214.0,TN,Brownsville,34.47492474583972
+57,15140,"Psychologist, Clinical",1789,35214.0,TN,Brownsville,50.803657636167436
+58,15140,Pulmonary Disease,6608,35214.0,TN,Brownsville,187.65263815527916
+59,15140,Registered Dietitian or Nutrition Professional,127,35214.0,TN,Brownsville,3.6065201340375985
+60,15140,Thoracic Surgery,315,35214.0,TN,Brownsville,8.945305844266485
+61,15140,Urology,50063,35214.0,TN,Brownsville,1421.6788777190889
+62,16860,All Other Suppliers,22,1111906.0,TN-GA,Chattanooga,0.019785845206339383
+63,16860,Allergy/ Immunology,32656,1111906.0,TN-GA,Chattanooga,29.369389139009954
+64,16860,Anesthesiology,7744,1111906.0,TN-GA,Chattanooga,6.964617512631463
+65,16860,Audiologist,3578,1111906.0,TN-GA,Chattanooga,3.217897915831015
+66,16860,Cardiac Surgery,654,1111906.0,TN-GA,Chattanooga,0.5881792165884526
+67,16860,Cardiology,113317,1111906.0,TN-GA,Chattanooga,101.91239187485273
+68,16860,Centralized Flu,13448,1111906.0,TN-GA,Chattanooga,12.094547560675094
+69,16860,Certified Clinical Nurse Specialist,1040,1111906.0,TN-GA,Chattanooga,0.93533086429968
+70,16860,Certified Nurse Midwife,23,1111906.0,TN-GA,Chattanooga,0.02068520180662754
+71,16860,Certified Registered Nurse Anesthetist (CRNA),1769,1111906.0,TN-GA,Chattanooga,1.5909618259097442
+72,16860,Chiropractic,31826,1111906.0,TN-GA,Chattanooga,28.622923160770785
+73,16860,Clinic or Group Practice,40,1111906.0,TN-GA,Chattanooga,0.035974264011526154
+74,16860,Clinical Cardiac Electrophysiology,8869,1111906.0,TN-GA,Chattanooga,7.976393687955637
+75,16860,Clinical Laboratory,7288,1111906.0,TN-GA,Chattanooga,6.5545109029000646
+76,16860,Colorectal Surgery (Proctology),2047,1111906.0,TN-GA,Chattanooga,1.840982960789851
+77,16860,Critical Care (Intensivists),542,1111906.0,TN-GA,Chattanooga,0.4874512773561794
+78,16860,Dermatology,27481,1111906.0,TN-GA,Chattanooga,24.715218732518753
+79,16860,Diagnostic Radiology,40331,1111906.0,TN-GA,Chattanooga,36.27195104622153
+80,16860,Emergency Medicine,15143,1111906.0,TN-GA,Chattanooga,13.618956998163513
+81,16860,Endocrinology,14737,1111906.0,TN-GA,Chattanooga,13.253818218446524
+82,16860,Family Practice,315797,1111906.0,TN-GA,Chattanooga,284.0141163011981
+83,16860,Gastroenterology,20011,1111906.0,TN-GA,Chattanooga,17.997024928366244
+84,16860,General Practice,1909,1111906.0,TN-GA,Chattanooga,1.7168717499500858
+85,16860,General Surgery,20417,1111906.0,TN-GA,Chattanooga,18.362163708083237
+86,16860,Geriatric Medicine,3263,1111906.0,TN-GA,Chattanooga,2.9346005867402463
+87,16860,Geriatric Psychiatry,226,1111906.0,TN-GA,Chattanooga,0.20325459166512277
+88,16860,Gynecological Oncology,1438,1111906.0,TN-GA,Chattanooga,1.2932747912143652
+89,16860,Hand Surgery,8344,1111906.0,TN-GA,Chattanooga,7.5042314728043555
+90,16860,Hematology-Oncology,143505,1111906.0,TN-GA,Chattanooga,129.0621689243515
+91,16860,Independent Diagnostic Testing Facility (IDTF),4233,1111906.0,TN-GA,Chattanooga,3.8069764890197555
+92,16860,Infectious Disease,3925,1111906.0,TN-GA,Chattanooga,3.529974656131004
+93,16860,Internal Medicine,366701,1111906.0,TN-GA,Chattanooga,329.7949646822663
+94,16860,Interventional Cardiology,5850,1111906.0,TN-GA,Chattanooga,5.2612361116857
+95,16860,Interventional Pain Management,22316,1111906.0,TN-GA,Chattanooga,20.070041892030442
+96,16860,Licensed Clinical Social Worker,11248,1111906.0,TN-GA,Chattanooga,10.115963040041155
+97,16860,Mass Immunizer Roster Biller,19488,1111906.0,TN-GA,Chattanooga,17.52666142641554
+98,16860,Maxillofacial Surgery,309,1111906.0,TN-GA,Chattanooga,0.2779011894890395
+99,16860,Medical Oncology,9985,1111906.0,TN-GA,Chattanooga,8.980075653877217
+100,16860,Nephrology,102897,1111906.0,TN-GA,Chattanooga,92.54109609985018
+101,16860,Neurology,27411,1111906.0,TN-GA,Chattanooga,24.652263770498585
+102,16860,Neurosurgery,2297,1111906.0,TN-GA,Chattanooga,2.0658221108618893
+103,16860,Nurse Practitioner,215679,1111906.0,TN-GA,Chattanooga,193.97233219354874
+104,16860,Obstetrics & Gynecology,19496,1111906.0,TN-GA,Chattanooga,17.533856279217847
+105,16860,Occupational Therapist in Private Practice,3444,1111906.0,TN-GA,Chattanooga,3.097384131392402
+106,16860,Ophthalmology,122977,1111906.0,TN-GA,Chattanooga,110.6001766336363
+107,16860,Optometry,33123,1111906.0,TN-GA,Chattanooga,29.789388671344522
+108,16860,Oral Surgery (Dentist only),415,1111906.0,TN-GA,Chattanooga,0.37323298911958386
+109,16860,Orthopedic Surgery,64509,1111906.0,TN-GA,Chattanooga,58.016594927988514
+110,16860,Osteopathic Manipulative Medicine,1933,1111906.0,TN-GA,Chattanooga,1.7384563083570013
+111,16860,Otolaryngology,21655,1111906.0,TN-GA,Chattanooga,19.475567179239974
+112,16860,Pain Management,4521,1111906.0,TN-GA,Chattanooga,4.065991189902744
+113,16860,Pathology,24319,1111906.0,TN-GA,Chattanooga,21.871453162407615
+114,16860,Pharmacy,32,1111906.0,TN-GA,Chattanooga,0.028779411209220923
+115,16860,Physical Medicine and Rehabilitation,16233,1111906.0,TN-GA,Chattanooga,14.599255692477602
+116,16860,Physical Therapist in Private Practice,155772,1111906.0,TN-GA,Chattanooga,140.0945763400863
+117,16860,Physician Assistant,59847,1111906.0,TN-GA,Chattanooga,53.823794457445146
+118,16860,Plastic and Reconstructive Surgery,1047,1111906.0,TN-GA,Chattanooga,0.941626360501697
+119,16860,Podiatry,44387,1111906.0,TN-GA,Chattanooga,39.919741416990284
+120,16860,Portable X-Ray Supplier,55973,1111906.0,TN-GA,Chattanooga,50.339686987928836
+121,16860,Psychiatry,9474,1111906.0,TN-GA,Chattanooga,8.52050443112997
+122,16860,"Psychologist, Clinical",12955,1111906.0,TN-GA,Chattanooga,11.651164756733033
+123,16860,Pulmonary Disease,39369,1111906.0,TN-GA,Chattanooga,35.40676999674433
+124,16860,Radiation Oncology,730,1111906.0,TN-GA,Chattanooga,0.6565303182103522
+125,16860,Registered Dietitian or Nutrition Professional,103,1111906.0,TN-GA,Chattanooga,0.09263372982967985
+126,16860,Rheumatology,74420,1111906.0,TN-GA,Chattanooga,66.93011819344441
+127,16860,Sleep Medicine,126,1111906.0,TN-GA,Chattanooga,0.11331893163630738
+128,16860,Sports Medicine,469,1111906.0,TN-GA,Chattanooga,0.42179824553514417
+129,16860,Surgical Oncology,1042,1111906.0,TN-GA,Chattanooga,0.9371295775002564
+130,16860,Thoracic Surgery,573,1111906.0,TN-GA,Chattanooga,0.5153313319651122
+131,16860,Urology,44311,1111906.0,TN-GA,Chattanooga,39.851390315368384
+132,16860,Vascular Surgery,16340,1111906.0,TN-GA,Chattanooga,14.695486848708434
+176,17420,Anesthesiology,7540,244360.0,TN,Cleveland,30.85611393026682
+177,17420,Audiologist,161,244360.0,TN,Cleveland,0.6588639711900475
+178,17420,Cardiology,16380,244360.0,TN,Cleveland,67.03224750368308
+179,17420,Centralized Flu,2648,244360.0,TN,Cleveland,10.83647078081519
+180,17420,Chiropractic,9367,244360.0,TN,Cleveland,38.33278769029301
+181,17420,Diagnostic Radiology,3725,244360.0,TN,Cleveland,15.24390243902439
+182,17420,Emergency Medicine,1235,244360.0,TN,Cleveland,5.0540186609919795
+183,17420,Family Practice,70783,244360.0,TN,Cleveland,289.66688492388283
+184,17420,Gastroenterology,2248,244360.0,TN,Cleveland,9.19954165984613
+185,17420,General Surgery,1575,244360.0,TN,Cleveland,6.445408413815682
+186,17420,Hematology-Oncology,13275,244360.0,TN,Cleveland,54.32558520216075
+187,17420,Independent Diagnostic Testing Facility (IDTF),192,244360.0,TN,Cleveland,0.7857259780651498
+188,17420,Infectious Disease,37,244360.0,TN,Cleveland,0.15141594368963823
+189,17420,Internal Medicine,67667,244360.0,TN,Cleveland,276.91520707153376
+190,17420,Interventional Pain Management,5964,244360.0,TN,Cleveland,24.406613193648717
+191,17420,Licensed Clinical Social Worker,268,244360.0,TN,Cleveland,1.0967425110492717
+192,17420,Mass Immunizer Roster Biller,6037,244360.0,TN,Cleveland,24.70535275822557
+193,17420,Neurology,1268,244360.0,TN,Cleveland,5.189065313471927
+194,17420,Nurse Practitioner,60842,244360.0,TN,Cleveland,248.98510394499917
+195,17420,Obstetrics & Gynecology,1760,244360.0,TN,Cleveland,7.2024881322638725
+196,17420,Occupational Therapist in Private Practice,141,244360.0,TN,Cleveland,0.5770175151415944
+197,17420,Ophthalmology,7322,244360.0,TN,Cleveland,29.96398755933868
+198,17420,Optometry,4165,244360.0,TN,Cleveland,17.04452447209036
+199,17420,Orthopedic Surgery,7275,244360.0,TN,Cleveland,29.771648387624815
+200,17420,Otolaryngology,6037,244360.0,TN,Cleveland,24.70535275822557
+201,17420,Pain Management,1633,244360.0,TN,Cleveland,6.682763136356196
+202,17420,Pathology,244,244360.0,TN,Cleveland,0.9985267637911278
+203,17420,Physical Therapist in Private Practice,14909,244360.0,TN,Cleveland,61.01244066131936
+204,17420,Physician Assistant,25017,244360.0,TN,Cleveland,102.37763954820757
+205,17420,Plastic and Reconstructive Surgery,129,244360.0,TN,Cleveland,0.5279096415125225
+206,17420,Podiatry,7778,244360.0,TN,Cleveland,31.830086757243414
+207,17420,Psychiatry,5969,244360.0,TN,Cleveland,24.427074807660826
+208,17420,"Psychologist, Clinical",1158,244360.0,TN,Cleveland,4.738909805205434
+209,17420,Pulmonary Disease,11117,244360.0,TN,Cleveland,45.49435259453266
+210,17420,Radiation Oncology,7790,244360.0,TN,Cleveland,31.879194630872487
+211,17420,Urology,8554,244360.0,TN,Cleveland,35.00572925192339
+292,19420,All Other Suppliers,151,65342.0,TN,Dayton,2.3109179394570107
+293,19420,Centralized Flu,761,65342.0,TN,Dayton,11.646414251170764
+294,19420,Chiropractic,1417,65342.0,TN,Dayton,21.685898809341616
+295,19420,Clinic or Group Practice,40,65342.0,TN,Dayton,0.6121636925713936
+296,19420,Colorectal Surgery (Proctology),312,65342.0,TN,Dayton,4.77487680205687
+297,19420,Family Practice,15977,65342.0,TN,Dayton,244.51348290532889
+298,19420,General Surgery,380,65342.0,TN,Dayton,5.815555079428239
+299,19420,Internal Medicine,19510,65342.0,TN,Dayton,298.58284105169724
+300,19420,Mass Immunizer Roster Biller,1399,65342.0,TN,Dayton,21.41042514768449
+301,19420,Nurse Practitioner,11689,65342.0,TN,Dayton,178.88953506167547
+302,19420,Optometry,929,65342.0,TN,Dayton,14.217501759970617
+303,19420,Pain Management,2781,65342.0,TN,Dayton,42.56068072602614
+304,19420,Physical Therapist in Private Practice,5874,65342.0,TN,Dayton,89.89623825410915
+305,19420,Physician Assistant,4699,65342.0,TN,Dayton,71.91392978482446
+306,19420,Podiatry,5132,65342.0,TN,Dayton,78.5406017569098
+307,19420,"Psychologist, Clinical",1545,65342.0,TN,Dayton,23.64482262557008
+357,27180,All Other Suppliers,3557,356672.0,TN,Jackson,9.97274807105688
+358,27180,Allergy/ Immunology,1748,356672.0,TN,Jackson,4.90086129553203
+359,27180,Anesthesiology,7383,356672.0,TN,Jackson,20.699690471918178
+360,27180,Audiologist,3163,356672.0,TN,Jackson,8.868091692086848
+361,27180,Cardiology,90422,356672.0,TN,Jackson,253.51583527722948
+362,27180,Centralized Flu,3068,356672.0,TN,Jackson,8.601740534720976
+363,27180,Certified Registered Nurse Anesthetist (CRNA),558,356672.0,TN,Jackson,1.5644625874753275
+364,27180,Chiropractic,16123,356672.0,TN,Jackson,45.203996949578325
+365,27180,Clinic or Group Practice,54,356672.0,TN,Jackson,0.15139960523954782
+366,27180,Clinical Cardiac Electrophysiology,3644,356672.0,TN,Jackson,10.216669657276153
+367,27180,Clinical Laboratory,1163,356672.0,TN,Jackson,3.2606989054369278
+368,27180,Dermatology,39443,356672.0,TN,Jackson,110.58619684191638
+369,27180,Diagnostic Radiology,30614,356672.0,TN,Jackson,85.83236138525031
+370,27180,Emergency Medicine,3302,356672.0,TN,Jackson,9.257805490759015
+371,27180,Endocrinology,2012,356672.0,TN,Jackson,5.641037143369818
+372,27180,Family Practice,220248,356672.0,TN,Jackson,617.5085232370358
+373,27180,Gastroenterology,23119,356672.0,TN,Jackson,64.81865691727974
+374,27180,General Practice,340,356672.0,TN,Jackson,0.9532567737304862
+375,27180,General Surgery,7990,356672.0,TN,Jackson,22.401534182666428
+376,27180,Geriatric Medicine,7352,356672.0,TN,Jackson,20.612775883725103
+377,27180,Hand Surgery,2170,356672.0,TN,Jackson,6.084021173515162
+378,27180,Hematology-Oncology,8582,356672.0,TN,Jackson,24.0613224475148
+379,27180,Independent Diagnostic Testing Facility (IDTF),350,356672.0,TN,Jackson,0.981293737663736
+380,27180,Infectious Disease,2673,356672.0,TN,Jackson,7.494280459357617
+381,27180,Internal Medicine,145531,356672.0,TN,Jackson,408.02473981697466
+382,27180,Interventional Cardiology,30279,356672.0,TN,Jackson,84.89312309348645
+383,27180,Interventional Pain Management,5170,356672.0,TN,Jackson,14.495110353490041
+384,27180,Interventional Radiology,1158,356672.0,TN,Jackson,3.2466804234703033
+385,27180,Licensed Clinical Social Worker,17753,356672.0,TN,Jackson,49.77402207069801
+386,27180,Mass Immunizer Roster Biller,8447,356672.0,TN,Jackson,23.682823434415933
+387,27180,Medical Oncology,1015,356672.0,TN,Jackson,2.845751839224834
+388,27180,Nephrology,26746,356672.0,TN,Jackson,74.98766373586938
+389,27180,Neurology,8581,356672.0,TN,Jackson,24.05851875112148
+390,27180,Neurosurgery,1654,356672.0,TN,Jackson,4.637313834559483
+391,27180,Nurse Practitioner,167351,356672.0,TN,Jackson,469.2013951193253
+392,27180,Obstetrics & Gynecology,7999,356672.0,TN,Jackson,22.426767450206352
+393,27180,Occupational Therapist in Private Practice,1354,356672.0,TN,Jackson,3.796204916561995
+394,27180,Ophthalmology,45080,356672.0,TN,Jackson,126.3906334110892
+395,27180,Optometry,22571,356672.0,TN,Jackson,63.28223129373767
+396,27180,Orthopedic Surgery,40170,356672.0,TN,Jackson,112.62448411986362
+397,27180,Otolaryngology,4766,356672.0,TN,Jackson,13.362417010586757
+398,27180,Pathology,1309,356672.0,TN,Jackson,3.670038578862372
+399,27180,Physical Medicine and Rehabilitation,10985,356672.0,TN,Jackson,30.798604880674684
+400,27180,Physical Therapist in Private Practice,30488,356672.0,TN,Jackson,85.47909563969138
+401,27180,Physician Assistant,25376,356672.0,TN,Jackson,71.14659967701417
+402,27180,Plastic and Reconstructive Surgery,1673,356672.0,TN,Jackson,4.690584066032658
+403,27180,Podiatry,20024,356672.0,TN,Jackson,56.14121657993899
+404,27180,Psychiatry,1214,356672.0,TN,Jackson,3.4036874214965014
+405,27180,"Psychologist, Clinical",4258,356672.0,TN,Jackson,11.938139242777678
+406,27180,Pulmonary Disease,18510,356672.0,TN,Jackson,51.896420240445
+407,27180,Radiation Oncology,746,356672.0,TN,Jackson,2.09155750942042
+408,27180,Registered Dietitian or Nutrition Professional,127,356672.0,TN,Jackson,0.35606944195226986
+409,27180,Rheumatology,25002,356672.0,TN,Jackson,70.09801722591064
+410,27180,Thoracic Surgery,315,356672.0,TN,Jackson,0.8831643638973623
+411,27180,Urology,50784,356672.0,TN,Jackson,142.38291763861474
+412,27740,Allergy/ Immunology,1450,403818.0,TN,Johnson City,3.5907265154104078
+413,27740,Audiologist,134,403818.0,TN,Johnson City,0.33183265728620315
+414,27740,Cardiology,18598,403818.0,TN,Johnson City,46.05540119558811
+415,27740,Centralized Flu,3091,403818.0,TN,Johnson City,7.654438385609359
+416,27740,Certified Clinical Nurse Specialist,3453,403818.0,TN,Johnson City,8.550881832904922
+417,27740,Certified Registered Nurse Anesthetist (CRNA),161,403818.0,TN,Johnson City,0.3986944613662591
+418,27740,Chiropractic,10935,403818.0,TN,Johnson City,27.079030652422627
+419,27740,Clinic or Group Practice,906,403818.0,TN,Johnson City,2.243584981352986
+420,27740,Clinical Cardiac Electrophysiology,1791,403818.0,TN,Johnson City,4.435166337310372
+421,27740,Clinical Laboratory,38179,403818.0,TN,Johnson City,94.54506733231308
+422,27740,Colorectal Surgery (Proctology),471,403818.0,TN,Johnson City,1.1663670267298636
+423,27740,Dermatology,18684,403818.0,TN,Johnson City,46.26836842339866
+424,27740,Diagnostic Radiology,408,403818.0,TN,Johnson City,1.0103561505430665
+425,27740,Emergency Medicine,3373,403818.0,TN,Johnson City,8.352772783778832
+426,27740,Endocrinology,738,403818.0,TN,Johnson City,1.8275559781881936
+427,27740,Family Practice,111609,403818.0,TN,Johnson City,276.3844107989243
+428,27740,Gastroenterology,2783,403818.0,TN,Johnson City,6.891718546473907
+429,27740,General Practice,4785,403818.0,TN,Johnson City,11.849397500854344
+430,27740,General Surgery,3308,403818.0,TN,Johnson City,8.191809181363881
+431,27740,Geriatric Medicine,113,403818.0,TN,Johnson City,0.2798290318906042
+432,27740,Hematology-Oncology,17722,403818.0,TN,Johnson City,43.88610710765741
+433,27740,Independent Diagnostic Testing Facility (IDTF),253,403818.0,TN,Johnson City,0.6265198678612642
+434,27740,Infectious Disease,731,403818.0,TN,Johnson City,1.8102214363896607
+435,27740,Internal Medicine,147092,403818.0,TN,Johnson City,364.25320317568804
+436,27740,Interventional Cardiology,2887,403818.0,TN,Johnson City,7.149260310337825
+437,27740,Interventional Pain Management,1045,403818.0,TN,Johnson City,2.58779945420957
+438,27740,Licensed Clinical Social Worker,1004,403818.0,TN,Johnson City,2.486268566532448
+439,27740,Mass Immunizer Roster Biller,4582,403818.0,TN,Johnson City,11.346695788696888
+440,27740,Medical Oncology,1261,403818.0,TN,Johnson City,3.122693886850017
+441,27740,Nephrology,3491,403818.0,TN,Johnson City,8.644983631239816
+442,27740,Neurology,3914,403818.0,TN,Johnson City,9.692485228494025
+443,27740,Neurosurgery,1440,403818.0,TN,Johnson City,3.5659628842696462
+444,27740,Nurse Practitioner,144095,403818.0,TN,Johnson City,356.8315429228018
+445,27740,Obstetrics & Gynecology,5829,403818.0,TN,Johnson City,14.434720591949837
+446,27740,Ophthalmology,23061,403818.0,TN,Johnson City,57.10740977370994
+447,27740,Optometry,10004,403818.0,TN,Johnson City,24.773536593217738
+448,27740,Orthopedic Surgery,16949,403818.0,TN,Johnson City,41.97187842047656
+449,27740,Osteopathic Manipulative Medicine,3523,403818.0,TN,Johnson City,8.724227250890252
+450,27740,Otolaryngology,7004,403818.0,TN,Johnson City,17.344447250989308
+451,27740,Pain Management,6024,403818.0,TN,Johnson City,14.917611399194687
+452,27740,Pathology,5666,403818.0,TN,Johnson City,14.031073404355427
+453,27740,Pediatric Medicine,44,403818.0,TN,Johnson City,0.1089599770193503
+454,27740,Physical Medicine and Rehabilitation,986,403818.0,TN,Johnson City,2.441694030479077
+455,27740,Physical Therapist in Private Practice,36121,403818.0,TN,Johnson City,89.44871204354436
+456,27740,Physician Assistant,29013,403818.0,TN,Johnson City,71.84672302869114
+457,27740,Plastic and Reconstructive Surgery,148,403818.0,TN,Johnson City,0.3665017408832692
+458,27740,Podiatry,6471,403818.0,TN,Johnson City,16.02454571118672
+459,27740,Portable X-Ray Supplier,760,403818.0,TN,Johnson City,1.882035966697869
+460,27740,Psychiatry,2420,403818.0,TN,Johnson City,5.992798736064267
+461,27740,"Psychologist, Clinical",11167,403818.0,TN,Johnson City,27.65354689488829
+462,27740,Pulmonary Disease,10947,403818.0,TN,Johnson City,27.10874700979154
+463,27740,Registered Dietitian or Nutrition Professional,79,403818.0,TN,Johnson City,0.1956326860120153
+464,27740,Rheumatology,5516,403818.0,TN,Johnson City,13.659618937244007
+465,27740,Sports Medicine,1845,403818.0,TN,Johnson City,4.5688899454704845
+466,27740,Surgical Oncology,41,403818.0,TN,Johnson City,0.10153088767712187
+467,27740,Thoracic Surgery,208,403818.0,TN,Johnson City,0.5150835277278378
+468,27740,Undefined Physician type,11,403818.0,TN,Johnson City,0.027239994254837575
+469,27740,Urology,17748,403818.0,TN,Johnson City,43.95049254862339
+470,27740,Vascular Surgery,894,403818.0,TN,Johnson City,2.213868623984072
+471,28700,Allergy/ Immunology,5071,612992.0,TN-VA,Kingsport-Bristol,8.272538630194195
+472,28700,Anesthesiology,56,612992.0,TN-VA,Kingsport-Bristol,0.09135518897473377
+473,28700,Audiologist,688,612992.0,TN-VA,Kingsport-Bristol,1.1223637502610149
+474,28700,Cardiac Surgery,183,612992.0,TN-VA,Kingsport-Bristol,0.29853570682814784
+475,28700,Cardiology,39566,612992.0,TN-VA,Kingsport-Bristol,64.54570369596993
+476,28700,Centralized Flu,4898,612992.0,TN-VA,Kingsport-Bristol,7.990316349968678
+477,28700,Certified Clinical Nurse Specialist,3575,612992.0,TN-VA,Kingsport-Bristol,5.832050010440593
+478,28700,Certified Nurse Midwife,493,612992.0,TN-VA,Kingsport-Bristol,0.8042519315097097
+479,28700,Certified Registered Nurse Anesthetist (CRNA),2390,612992.0,TN-VA,Kingsport-Bristol,3.898908958028816
+480,28700,Chiropractic,13494,612992.0,TN-VA,Kingsport-Bristol,22.01333785759031
+481,28700,Clinic or Group Practice,79,612992.0,TN-VA,Kingsport-Bristol,0.12887607016078514
+482,28700,Clinical Cardiac Electrophysiology,11082,612992.0,TN-VA,Kingsport-Bristol,18.078539361035705
+483,28700,Clinical Laboratory,69940,612992.0,TN-VA,Kingsport-Bristol,114.09610565880142
+484,28700,Dermatology,40123,612992.0,TN-VA,Kingsport-Bristol,65.45436155773649
+485,28700,Diagnostic Radiology,964,612992.0,TN-VA,Kingsport-Bristol,1.572614324493631
+486,28700,Emergency Medicine,1510,612992.0,TN-VA,Kingsport-Bristol,2.4633274169972856
+487,28700,Endocrinology,5015,612992.0,TN-VA,Kingsport-Bristol,8.181183441219462
+488,28700,Family Practice,184396,612992.0,TN-VA,Kingsport-Bristol,300.8130611818751
+489,28700,Gastroenterology,8871,612992.0,TN-VA,Kingsport-Bristol,14.471640739193987
+490,28700,General Practice,1708,612992.0,TN-VA,Kingsport-Bristol,2.7863332637293796
+491,28700,General Surgery,5009,612992.0,TN-VA,Kingsport-Bristol,8.171395385257883
+492,28700,Geriatric Psychiatry,73,612992.0,TN-VA,Kingsport-Bristol,0.11908801419920652
+493,28700,Gynecological Oncology,473,612992.0,TN-VA,Kingsport-Bristol,0.7716250783044477
+494,28700,Hematology-Oncology,76545,612992.0,TN-VA,Kingsport-Bristol,124.87112392983921
+495,28700,Independent Diagnostic Testing Facility (IDTF),198,612992.0,TN-VA,Kingsport-Bristol,0.32300584673209437
+496,28700,Internal Medicine,91693,612992.0,TN-VA,Kingsport-Bristol,149.58270254750468
+497,28700,Interventional Cardiology,1616,612992.0,TN-VA,Kingsport-Bristol,2.6362497389851747
+498,28700,Interventional Pain Management,1685,612992.0,TN-VA,Kingsport-Bristol,2.7488123825433286
+499,28700,Licensed Clinical Social Worker,1193,612992.0,TN-VA,Kingsport-Bristol,1.9461917936938817
+500,28700,Mass Immunizer Roster Biller,4776,612992.0,TN-VA,Kingsport-Bristol,7.79129254541658
+501,28700,Medical Oncology,5508,612992.0,TN-VA,Kingsport-Bristol,8.985435372729171
+502,28700,Nephrology,3195,612992.0,TN-VA,Kingsport-Bristol,5.212139799540614
+503,28700,Neurology,8408,612992.0,TN-VA,Kingsport-Bristol,13.71632908749217
+504,28700,Neurosurgery,3045,612992.0,TN-VA,Kingsport-Bristol,4.967438400501148
+505,28700,Nurse Practitioner,138593,612992.0,TN-VA,Kingsport-Bristol,226.09267331384422
+506,28700,Obstetrics & Gynecology,5418,612992.0,TN-VA,Kingsport-Bristol,8.838614533305492
+507,28700,Occupational Therapist in Private Practice,286,612992.0,TN-VA,Kingsport-Bristol,0.46656400083524746
+508,28700,Ophthalmology,62702,612992.0,TN-VA,Kingsport-Bristol,102.28844748381708
+509,28700,Optometry,12026,612992.0,TN-VA,Kingsport-Bristol,19.618526832324076
+510,28700,Orthopedic Surgery,26413,612992.0,TN-VA,Kingsport-Bristol,43.08865368552934
+511,28700,Otolaryngology,8422,612992.0,TN-VA,Kingsport-Bristol,13.739167884735853
+512,28700,Pain Management,1027,612992.0,TN-VA,Kingsport-Bristol,1.6753889120902066
+513,28700,Pathology,8239,612992.0,TN-VA,Kingsport-Bristol,13.440632177907705
+514,28700,Pediatric Medicine,5066,612992.0,TN-VA,Kingsport-Bristol,8.264381916892878
+515,28700,Physical Medicine and Rehabilitation,923,612992.0,TN-VA,Kingsport-Bristol,1.505729275422844
+516,28700,Physical Therapist in Private Practice,35290,612992.0,TN-VA,Kingsport-Bristol,57.5700824806849
+517,28700,Physician Assistant,24267,612992.0,TN-VA,Kingsport-Bristol,39.58779233660472
+518,28700,Plastic and Reconstructive Surgery,439,612992.0,TN-VA,Kingsport-Bristol,0.7161594278555021
+519,28700,Podiatry,9770,612992.0,TN-VA,Kingsport-Bristol,15.938217790770516
+520,28700,Portable X-Ray Supplier,11936,612992.0,TN-VA,Kingsport-Bristol,19.471705992900397
+521,28700,Psychiatry,2780,612992.0,TN-VA,Kingsport-Bristol,4.535132595531426
+522,28700,"Psychologist, Clinical",12362,612992.0,TN-VA,Kingsport-Bristol,20.16665796617248
+523,28700,Pulmonary Disease,6861,612992.0,TN-VA,Kingsport-Bristol,11.192641992065148
+524,28700,Rheumatology,28215,612992.0,TN-VA,Kingsport-Bristol,46.028333159323445
+525,28700,Sleep Medicine,609,612992.0,TN-VA,Kingsport-Bristol,0.9934876801002297
+526,28700,Thoracic Surgery,319,612992.0,TN-VA,Kingsport-Bristol,0.5203983086239299
+527,28700,Urology,19686,612992.0,TN-VA,Kingsport-Bristol,32.114611609939445
+528,28700,Vascular Surgery,1063,612992.0,TN-VA,Kingsport-Bristol,1.7341172478596785
+529,28940,Addiction Medicine,152,1707290.0,TN,Knoxville,0.08902998318973343
+530,28940,All Other Suppliers,1191,1707290.0,TN,Knoxville,0.6975967761774509
+531,28940,Allergy/ Immunology,46006,1707290.0,TN,Knoxville,26.9467987278084
+532,28940,Anesthesiology,8568,1707290.0,TN,Knoxville,5.0184795787476055
+533,28940,Audiologist,7106,1707290.0,TN,Knoxville,4.162151714120038
+534,28940,Cardiac Surgery,260,1707290.0,TN,Knoxville,0.15228812914033352
+535,28940,Cardiology,129731,1707290.0,TN,Knoxville,75.98650492886387
+536,28940,Centralized Flu,13430,1707290.0,TN,Knoxville,7.866267593671842
+537,28940,Certified Clinical Nurse Specialist,2703,1707290.0,TN,Knoxville,1.5832108194858519
+538,28940,Certified Nurse Midwife,209,1707290.0,TN,Knoxville,0.12241622688588348
+539,28940,Certified Registered Nurse Anesthetist (CRNA),1486,1707290.0,TN,Knoxville,0.8703852303943677
+540,28940,Chiropractic,45560,1707290.0,TN,Knoxville,26.685566013975365
+541,28940,Clinical Cardiac Electrophysiology,8960,1707290.0,TN,Knoxville,5.2480832196053395
+542,28940,Clinical Laboratory,512743,1707290.0,TN,Knoxville,300.32566230693084
+543,28940,Colorectal Surgery (Proctology),2529,1707290.0,TN,Knoxville,1.4812949176765517
+544,28940,Critical Care (Intensivists),1251,1707290.0,TN,Knoxville,0.7327401905944508
+545,28940,Dermatology,116067,1707290.0,TN,Knoxville,67.98317801896572
+546,28940,Diagnostic Radiology,54863,1707290.0,TN,Knoxville,32.13455241933122
+547,28940,Emergency Medicine,5118,1707290.0,TN,Knoxville,2.9977332497701035
+548,28940,Endocrinology,47106,1707290.0,TN,Knoxville,27.591094658786734
+549,28940,Family Practice,427516,1707290.0,TN,Knoxville,250.40619929830316
+550,28940,Gastroenterology,20162,1707290.0,TN,Knoxville,11.809358691259247
+551,28940,General Practice,15046,1707290.0,TN,Knoxville,8.812796888636377
+552,28940,General Surgery,11638,1707290.0,TN,Knoxville,6.816650949750775
+553,28940,Gynecological Oncology,5863,1707290.0,TN,Knoxville,3.4340973121145204
+554,28940,Hand Surgery,13694,1707290.0,TN,Knoxville,8.020898617106642
+555,28940,Hematology-Oncology,158101,1707290.0,TN,Knoxville,92.60348271236872
+556,28940,Independent Diagnostic Testing Facility (IDTF),10534,1707290.0,TN,Knoxville,6.1700121244779735
+557,28940,Infectious Disease,1934,1707290.0,TN,Knoxville,1.1327893913746347
+558,28940,Internal Medicine,582716,1707290.0,TN,Knoxville,341.31049792360994
+559,28940,Interventional Cardiology,2007,1707290.0,TN,Knoxville,1.1755472122486514
+560,28940,Interventional Pain Management,3015,1707290.0,TN,Knoxville,1.765956574454252
+561,28940,Interventional Radiology,275,1707290.0,TN,Knoxville,0.1610739827445835
+562,28940,Licensed Clinical Social Worker,13363,1707290.0,TN,Knoxville,7.827024114239526
+563,28940,Mass Immunizer Roster Biller,26622,1707290.0,TN,Knoxville,15.593132976822918
+564,28940,Maxillofacial Surgery,1143,1707290.0,TN,Knoxville,0.6694820446438507
+565,28940,Medical Oncology,42686,1707290.0,TN,Knoxville,25.002196463401063
+566,28940,Nephrology,22999,1707290.0,TN,Knoxville,13.471056469609731
+567,28940,Neurology,31335,1707290.0,TN,Knoxville,18.353648179278274
+568,28940,Neurosurgery,6809,1707290.0,TN,Knoxville,3.988191812755888
+569,28940,Nurse Practitioner,376949,1707290.0,TN,Knoxville,220.78791535122912
+570,28940,Obstetrics & Gynecology,18234,1707290.0,TN,Knoxville,10.680083641326313
+571,28940,Occupational Therapist in Private Practice,7211,1707290.0,TN,Knoxville,4.223652689349788
+572,28940,Ophthalmology,150982,1707290.0,TN,Knoxville,88.43371659179166
+573,28940,Optometry,39539,1707290.0,TN,Knoxville,23.15892437722941
+574,28940,Oral Surgery (Dentist only),242,1707290.0,TN,Knoxville,0.1417451048152335
+575,28940,Orthopedic Surgery,77067,1707290.0,TN,Knoxville,45.1399586479157
+576,28940,Osteopathic Manipulative Medicine,2670,1707290.0,TN,Knoxville,1.563881941556502
+577,28940,Otolaryngology,39753,1707290.0,TN,Knoxville,23.284269221983376
+578,28940,Pain Management,10445,1707290.0,TN,Knoxville,6.11788272642609
+579,28940,Pathology,53081,1707290.0,TN,Knoxville,31.090793011146317
+580,28940,Pediatric Medicine,1226,1707290.0,TN,Knoxville,0.7180971012540341
+581,28940,Physical Medicine and Rehabilitation,20724,1707290.0,TN,Knoxville,12.138535339631815
+582,28940,Physical Therapist in Private Practice,289217,1707290.0,TN,Knoxville,169.40121479069168
+583,28940,Physician Assistant,122073,1707290.0,TN,Knoxville,71.50103380210743
+584,28940,Plastic and Reconstructive Surgery,1032,1707290.0,TN,Knoxville,0.6044667279724006
+585,28940,Podiatry,61739,1707290.0,TN,Knoxville,36.16198771151942
+586,28940,Psychiatry,15875,1707290.0,TN,Knoxville,9.298361731164594
+587,28940,"Psychologist, Clinical",10672,1707290.0,TN,Knoxville,6.250841977637074
+588,28940,Pulmonary Disease,40617,1707290.0,TN,Knoxville,23.79033438958818
+589,28940,Radiation Oncology,40528,1707290.0,TN,Knoxville,23.738204991536293
+590,28940,Registered Dietitian or Nutrition Professional,581,1707290.0,TN,Knoxville,0.34030539627128376
+591,28940,Rheumatology,27881,1707290.0,TN,Knoxville,16.330558956006303
+592,28940,Sleep Medicine,1347,1707290.0,TN,Knoxville,0.7889696536616508
+593,28940,Sports Medicine,7170,1707290.0,TN,Knoxville,4.199638022831505
+594,28940,Surgical Oncology,1437,1707290.0,TN,Knoxville,0.841684775287151
+595,28940,Thoracic Surgery,101,1707290.0,TN,Knoxville,0.0591580809352834
+596,28940,Undefined Physician type,401,1707290.0,TN,Knoxville,0.23487515302028358
+597,28940,Urology,136157,1707290.0,TN,Knoxville,79.75036461292457
+598,28940,Vascular Surgery,15151,1707290.0,TN,Knoxville,8.874297863866127
+599,29980,Audiologist,28,86776.0,TN,Lawrenceburg,0.32266986263482994
+600,29980,Centralized Flu,581,86776.0,TN,Lawrenceburg,6.69539964967272
+601,29980,Chiropractic,4225,86776.0,TN,Lawrenceburg,48.68857748686273
+602,29980,Dermatology,6851,86776.0,TN,Lawrenceburg,78.95040103254355
+603,29980,Diagnostic Radiology,367,86776.0,TN,Lawrenceburg,4.229279985249377
+604,29980,Family Practice,23256,86776.0,TN,Lawrenceburg,268.00036876555725
+605,29980,General Surgery,337,86776.0,TN,Lawrenceburg,3.8835622752834884
+606,29980,Independent Diagnostic Testing Facility (IDTF),1220,86776.0,TN,Lawrenceburg,14.05918687194616
+607,29980,Internal Medicine,27359,86776.0,TN,Lawrenceburg,315.28302756522544
+608,29980,Licensed Clinical Social Worker,330,86776.0,TN,Lawrenceburg,3.802894809624781
+609,29980,Mass Immunizer Roster Biller,2562,86776.0,TN,Lawrenceburg,29.524292431086938
+610,29980,Neurology,2052,86776.0,TN,Lawrenceburg,23.64709136166682
+611,29980,Nurse Practitioner,51943,86776.0,TN,Lawrenceburg,598.5871669586061
+612,29980,Optometry,3737,86776.0,TN,Lawrenceburg,43.064902738084264
+613,29980,Orthopedic Surgery,1141,86776.0,TN,Lawrenceburg,13.14879690236932
+614,29980,Physical Therapist in Private Practice,1313,86776.0,TN,Lawrenceburg,15.130911772840417
+615,29980,Physician Assistant,4331,86776.0,TN,Lawrenceburg,49.91011339540887
+616,29980,Podiatry,2088,86776.0,TN,Lawrenceburg,24.061952613625888
+617,29980,Psychiatry,1713,86776.0,TN,Lawrenceburg,19.740481239052272
+618,29980,Pulmonary Disease,462,86776.0,TN,Lawrenceburg,5.324052733474693
+619,30280,Allergy/ Immunology,728,66040.0,TN,Lewisburg,11.023622047244094
+620,30280,Anesthesiology,1347,66040.0,TN,Lewisburg,20.39672925499697
+621,30280,Audiologist,212,66040.0,TN,Lewisburg,3.210175651120533
+622,30280,Cardiology,5434,66040.0,TN,Lewisburg,82.28346456692913
+623,30280,Centralized Flu,2459,66040.0,TN,Lewisburg,37.23500908540279
+624,30280,Certified Clinical Nurse Specialist,331,66040.0,TN,Lewisburg,5.012113870381587
+625,30280,Certified Nurse Midwife,85,66040.0,TN,Lewisburg,1.28709872804361
+626,30280,Certified Registered Nurse Anesthetist (CRNA),34,66040.0,TN,Lewisburg,0.514839491217444
+627,30280,Chiropractic,7044,66040.0,TN,Lewisburg,106.6626287098728
+628,30280,Clinic or Group Practice,68,66040.0,TN,Lewisburg,1.029678982434888
+629,30280,Clinical Cardiac Electrophysiology,81,66040.0,TN,Lewisburg,1.2265293761356755
+630,30280,Clinical Laboratory,29575,66040.0,TN,Lewisburg,447.8346456692913
+631,30280,Dermatology,11911,66040.0,TN,Lewisburg,180.3603876438522
+632,30280,Diagnostic Radiology,2470,66040.0,TN,Lewisburg,37.40157480314961
+633,30280,Emergency Medicine,1518,66040.0,TN,Lewisburg,22.986069049061175
+634,30280,Endocrinology,1031,66040.0,TN,Lewisburg,15.611750454270139
+635,30280,Family Practice,54983,66040.0,TN,Lewisburg,832.5711689884918
+636,30280,Gastroenterology,1961,66040.0,TN,Lewisburg,29.69412477286493
+637,30280,General Practice,3478,66040.0,TN,Lewisburg,52.66505148394912
+638,30280,General Surgery,855,66040.0,TN,Lewisburg,12.946698970321018
+639,30280,Gynecological Oncology,204,66040.0,TN,Lewisburg,3.0890369473046637
+640,30280,Hematology,374,66040.0,TN,Lewisburg,5.6632344033918836
+641,30280,Hematology-Oncology,6597,66040.0,TN,Lewisburg,99.89400363416111
+642,30280,Internal Medicine,27338,66040.0,TN,Lewisburg,413.96123561477896
+643,30280,Interventional Pain Management,409,66040.0,TN,Lewisburg,6.193216232586311
+644,30280,Licensed Clinical Social Worker,1796,66040.0,TN,Lewisburg,27.195639006662628
+645,30280,Mass Immunizer Roster Biller,4294,66040.0,TN,Lewisburg,65.02119927316778
+646,30280,Medical Oncology,5465,66040.0,TN,Lewisburg,82.75287704421564
+647,30280,Nephrology,6046,66040.0,TN,Lewisburg,91.55057540884312
+648,30280,Neurology,3032,66040.0,TN,Lewisburg,45.911568746214414
+649,30280,Neurosurgery,215,66040.0,TN,Lewisburg,3.2556026650514838
+650,30280,Nurse Practitioner,56296,66040.0,TN,Lewisburg,852.4530587522714
+651,30280,Obstetrics & Gynecology,3080,66040.0,TN,Lewisburg,46.63840096910963
+652,30280,Occupational Therapist in Private Practice,802,66040.0,TN,Lewisburg,12.144155057540884
+653,30280,Ophthalmology,8685,66040.0,TN,Lewisburg,131.51120533010297
+654,30280,Optometry,10443,66040.0,TN,Lewisburg,158.13143549364023
+655,30280,Orthopedic Surgery,26032,66040.0,TN,Lewisburg,394.18534221683825
+656,30280,Otolaryngology,11079,66040.0,TN,Lewisburg,167.76196244700182
+657,30280,Pain Management,267,66040.0,TN,Lewisburg,4.043004239854634
+658,30280,Pathology,362,66040.0,TN,Lewisburg,5.48152634766808
+659,30280,Physical Therapist in Private Practice,34279,66040.0,TN,Lewisburg,519.0642035130224
+660,30280,Physician Assistant,12423,66040.0,TN,Lewisburg,188.11326468806783
+661,30280,Plastic and Reconstructive Surgery,286,66040.0,TN,Lewisburg,4.330708661417323
+662,30280,Podiatry,9249,66040.0,TN,Lewisburg,140.05148394912175
+663,30280,Psychiatry,2739,66040.0,TN,Lewisburg,41.474863718958204
+664,30280,"Psychologist, Clinical",1663,66040.0,TN,Lewisburg,25.181708055723803
+665,30280,Pulmonary Disease,2531,66040.0,TN,Lewisburg,38.32525741974561
+666,30280,Registered Dietitian or Nutrition Professional,43,66040.0,TN,Lewisburg,0.6511205330102967
+667,30280,Rheumatology,1577,66040.0,TN,Lewisburg,23.87946698970321
+668,30280,Urology,12470,66040.0,TN,Lewisburg,188.82495457298606
+669,30280,Vascular Surgery,3714,66040.0,TN,Lewisburg,56.23864324651726
+670,32280,Anesthesiology,2345,66650.0,TN,Martin,35.183795948987246
+671,32280,Cardiology,4865,66650.0,TN,Martin,72.99324831207801
+672,32280,Centralized Flu,2943,66650.0,TN,Martin,44.15603900975243
+673,32280,Chiropractic,13273,66650.0,TN,Martin,199.14478619654912
+674,32280,Clinical Laboratory,18759,66650.0,TN,Martin,281.4553638409603
+675,32280,Dermatology,718,66650.0,TN,Martin,10.772693173293323
+676,32280,Diagnostic Radiology,1011,66650.0,TN,Martin,15.168792198049513
+677,32280,Family Practice,72277,66650.0,TN,Martin,1084.4261065266317
+678,32280,Gastroenterology,2794,66650.0,TN,Martin,41.92048012003001
+679,32280,General Practice,32613,66650.0,TN,Martin,489.3173293323331
+680,32280,General Surgery,3162,66650.0,TN,Martin,47.44186046511628
+681,32280,Hematology-Oncology,1375,66650.0,TN,Martin,20.630157539384847
+682,32280,Internal Medicine,66254,66650.0,TN,Martin,994.0585146286571
+683,32280,Interventional Pain Management,2683,66650.0,TN,Martin,40.255063765941486
+684,32280,Licensed Clinical Social Worker,2396,66650.0,TN,Martin,35.948987246811704
+685,32280,Mass Immunizer Roster Biller,5403,66650.0,TN,Martin,81.06526631657916
+686,32280,Nephrology,2230,66650.0,TN,Martin,33.458364591147784
+687,32280,Nurse Practitioner,71038,66650.0,TN,Martin,1065.8364591147786
+688,32280,Obstetrics & Gynecology,3024,66650.0,TN,Martin,45.37134283570893
+689,32280,Occupational Therapist in Private Practice,539,66650.0,TN,Martin,8.08702175543886
+690,32280,Optometry,23599,66650.0,TN,Martin,354.0735183795949
+691,32280,Orthopedic Surgery,15704,66650.0,TN,Martin,235.61890472618154
+692,32280,Physical Therapist in Private Practice,30211,66650.0,TN,Martin,453.27831957989497
+693,32280,Physician Assistant,32920,66650.0,TN,Martin,493.92348087021753
+694,32280,Podiatry,5620,66650.0,TN,Martin,84.32108027006751
+695,32280,Psychiatry,1776,66650.0,TN,Martin,26.646661665416353
+696,32280,Radiation Oncology,3247,66650.0,TN,Martin,48.71717929482371
+697,32280,Registered Dietitian or Nutrition Professional,78,66650.0,TN,Martin,1.1702925731432858
+698,32280,Urology,12097,66650.0,TN,Martin,181.50037509377344
+699,32280,Vascular Surgery,1908,66650.0,TN,Martin,28.627156789197297
+722,32820,Addiction Medicine,23,2677164.0,TN-MS-AR,Memphis,0.008591180816715002
+723,32820,Allergy/ Immunology,18433,2677164.0,TN-MS-AR,Memphis,6.885271130195983
+724,32820,Anesthesiology,24057,2677164.0,TN-MS-AR,Memphis,8.986001604683166
+725,32820,Audiologist,15669,2677164.0,TN-MS-AR,Memphis,5.852835313787276
+726,32820,Cardiac Surgery,11239,2677164.0,TN-MS-AR,Memphis,4.198099182567821
+727,32820,Cardiology,346464,2677164.0,TN-MS-AR,Memphis,129.41455958618897
+728,32820,Centralized Flu,23143,2677164.0,TN-MS-AR,Memphis,8.644595549618925
+729,32820,Certified Registered Nurse Anesthetist (CRNA),1170,2677164.0,TN-MS-AR,Memphis,0.43702963285028484
+730,32820,Chiropractic,39706,2677164.0,TN-MS-AR,Memphis,14.831366326455907
+731,32820,Clinic or Group Practice,4342,2677164.0,TN-MS-AR,Memphis,1.6218655263555015
+732,32820,Clinical Cardiac Electrophysiology,5287,2677164.0,TN-MS-AR,Memphis,1.9748509990422702
+733,32820,Clinical Laboratory,1774994,2677164.0,TN-MS-AR,Memphis,663.0128001123577
+734,32820,Colorectal Surgery (Proctology),435,2677164.0,TN-MS-AR,Memphis,0.16248537631613155
+735,32820,Critical Care (Intensivists),1879,2677164.0,TN-MS-AR,Memphis,0.7018621197655429
+736,32820,Dermatology,100360,2677164.0,TN-MS-AR,Memphis,37.48743072893554
+737,32820,Diagnostic Radiology,64763,2677164.0,TN-MS-AR,Memphis,24.19089753186581
+738,32820,Emergency Medicine,25056,2677164.0,TN-MS-AR,Memphis,9.359157675809177
+739,32820,Endocrinology,117345,2677164.0,TN-MS-AR,Memphis,43.83183099727921
+740,32820,Family Practice,263875,2677164.0,TN-MS-AR,Memphis,98.5651233917683
+741,32820,Gastroenterology,167821,2677164.0,TN-MS-AR,Memphis,62.68611112356209
+742,32820,General Practice,18651,2677164.0,TN-MS-AR,Memphis,6.966700583154413
+743,32820,General Surgery,10924,2677164.0,TN-MS-AR,Memphis,4.080437358338899
+744,32820,Geriatric Medicine,8119,2677164.0,TN-MS-AR,Memphis,3.0326868283003954
+745,32820,Gynecological Oncology,10256,2677164.0,TN-MS-AR,Memphis,3.830919585053437
+746,32820,Hand Surgery,19882,2677164.0,TN-MS-AR,Memphis,7.426515521649028
+747,32820,Hematology,10860,2677164.0,TN-MS-AR,Memphis,4.056531463892387
+748,32820,Hematology-Oncology,121999,2677164.0,TN-MS-AR,Memphis,45.57023775906145
+749,32820,Hospitalist,221,2677164.0,TN-MS-AR,Memphis,0.08255004176060936
+750,32820,Independent Diagnostic Testing Facility (IDTF),9725,2677164.0,TN-MS-AR,Memphis,3.6325753670675387
+751,32820,Infectious Disease,5440,2677164.0,TN-MS-AR,Memphis,2.032001027953461
+752,32820,Internal Medicine,597827,2677164.0,TN-MS-AR,Memphis,223.3060806136643
+753,32820,Interventional Cardiology,16399,2677164.0,TN-MS-AR,Memphis,6.125511922317796
+754,32820,Interventional Pain Management,7015,2677164.0,TN-MS-AR,Memphis,2.620310149098075
+755,32820,Interventional Radiology,7370,2677164.0,TN-MS-AR,Memphis,2.752913157356068
+756,32820,Licensed Clinical Social Worker,13077,2677164.0,TN-MS-AR,Memphis,4.884646588703569
+757,32820,Mass Immunizer Roster Biller,37516,2677164.0,TN-MS-AR,Memphis,14.013336500864348
+758,32820,Medical Oncology,20163,2677164.0,TN-MS-AR,Memphis,7.531477339453242
+759,32820,Nephrology,43035,2677164.0,TN-MS-AR,Memphis,16.07484636727522
+760,32820,Neurology,48512,2677164.0,TN-MS-AR,Memphis,18.120667990455573
+761,32820,Neurosurgery,10407,2677164.0,TN-MS-AR,Memphis,3.8873225547631747
+762,32820,Nuclear Medicine,68,2677164.0,TN-MS-AR,Memphis,0.025400012849418264
+763,32820,Nurse Practitioner,310620,2677164.0,TN-MS-AR,Memphis,116.02576457773972
+764,32820,Obstetrics & Gynecology,38652,2677164.0,TN-MS-AR,Memphis,14.437666127289923
+765,32820,Occupational Therapist in Private Practice,4891,2677164.0,TN-MS-AR,Memphis,1.8269332771544815
+766,32820,Ophthalmology,156483,2677164.0,TN-MS-AR,Memphis,58.451032510522325
+767,32820,Optometry,59901,2677164.0,TN-MS-AR,Memphis,22.374796613132403
+768,32820,Orthopedic Surgery,187847,2677164.0,TN-MS-AR,Memphis,70.16641490771578
+769,32820,Otolaryngology,30723,2677164.0,TN-MS-AR,Memphis,11.475949923127608
+770,32820,Pain Management,16721,2677164.0,TN-MS-AR,Memphis,6.245788453751806
+771,32820,Pathology,189663,2677164.0,TN-MS-AR,Memphis,70.84474466263553
+772,32820,Pediatric Medicine,132,2677164.0,TN-MS-AR,Memphis,0.04930590729592957
+773,32820,Physical Medicine and Rehabilitation,33851,2677164.0,TN-MS-AR,Memphis,12.644350514200848
+774,32820,Physical Therapist in Private Practice,138662,2677164.0,TN-MS-AR,Memphis,51.79436149597111
+775,32820,Physician Assistant,20961,2677164.0,TN-MS-AR,Memphis,7.82955396083318
+776,32820,Plastic and Reconstructive Surgery,1665,2677164.0,TN-MS-AR,Memphis,0.6219267852100208
+777,32820,Podiatry,57581,2677164.0,TN-MS-AR,Memphis,21.50820793944637
+778,32820,Portable X-Ray Supplier,11689,2677164.0,TN-MS-AR,Memphis,4.366187502894855
+779,32820,Psychiatry,23900,2677164.0,TN-MS-AR,Memphis,8.927357457369066
+780,32820,"Psychologist, Clinical",15614,2677164.0,TN-MS-AR,Memphis,5.832291185747305
+781,32820,Pulmonary Disease,31785,2677164.0,TN-MS-AR,Memphis,11.872638359099406
+782,32820,Radiation Oncology,15835,2677164.0,TN-MS-AR,Memphis,5.914841227507915
+783,32820,Radiation Therapy Center,140,2677164.0,TN-MS-AR,Memphis,0.05229414410174349
+784,32820,Registered Dietitian or Nutrition Professional,570,2677164.0,TN-MS-AR,Memphis,0.21291187241424134
+785,32820,Rheumatology,38744,2677164.0,TN-MS-AR,Memphis,14.472030850556783
+786,32820,Speech Language Pathologist,1548,2677164.0,TN-MS-AR,Memphis,0.5782238219249922
+787,32820,Surgical Oncology,2633,2677164.0,TN-MS-AR,Memphis,0.9835034387135043
+788,32820,Thoracic Surgery,1255,2677164.0,TN-MS-AR,Memphis,0.46877964891205764
+789,32820,Urology,197930,2677164.0,TN-MS-AR,Memphis,73.93271387184349
+790,32820,Vascular Surgery,6700,2677164.0,TN-MS-AR,Memphis,2.5026483248691527
+791,34100,All Other Suppliers,136,281796.0,TN,Morristown,0.48261863191812515
+792,34100,Cardiology,14644,281796.0,TN,Morristown,51.96667092506636
+793,34100,Centralized Flu,2779,281796.0,TN,Morristown,9.861743956621101
+794,34100,Certified Registered Nurse Anesthetist (CRNA),1768,281796.0,TN,Morristown,6.274042214935627
+795,34100,Chiropractic,5783,281796.0,TN,Morristown,20.52193785575381
+796,34100,Clinic or Group Practice,878,281796.0,TN,Morristown,3.1157291090008377
+797,34100,Dermatology,7895,281796.0,TN,Morristown,28.0167213161294
+798,34100,Emergency Medicine,837,281796.0,TN,Morristown,2.9702337861431674
+799,34100,Endocrinology,27592,281796.0,TN,Morristown,97.9148036168008
+800,34100,Family Practice,125529,281796.0,TN,Morristown,445.4605459268407
+801,34100,Gastroenterology,1745,281796.0,TN,Morristown,6.192422887478885
+802,34100,General Practice,10760,281796.0,TN,Morristown,38.18365058411049
+803,34100,General Surgery,1593,281796.0,TN,Morristown,5.653025592982157
+804,34100,Hematology-Oncology,15784,281796.0,TN,Morristown,56.01215063379182
+805,34100,Internal Medicine,61314,281796.0,TN,Morristown,217.58293233402887
+806,34100,Interventional Pain Management,2162,281796.0,TN,Morristown,7.6722167809337245
+807,34100,Licensed Clinical Social Worker,866,281796.0,TN,Morristown,3.073145112066885
+808,34100,Mass Immunizer Roster Biller,3857,281796.0,TN,Morristown,13.687206347854476
+809,34100,Medical Oncology,144,281796.0,TN,Morristown,0.5110079632074267
+810,34100,Nephrology,2273,281796.0,TN,Morristown,8.066118752572782
+811,34100,Neurology,2300,281796.0,TN,Morristown,8.161932745674175
+812,34100,Nurse Practitioner,72084,281796.0,TN,Morristown,255.802069582251
+813,34100,Obstetrics & Gynecology,675,281796.0,TN,Morristown,2.3953498275348126
+814,34100,Occupational Therapist in Private Practice,1107,281796.0,TN,Morristown,3.928373717157092
+815,34100,Ophthalmology,4589,281796.0,TN,Morristown,16.28483016082556
+816,34100,Optometry,18251,281796.0,TN,Morristown,64.76671067013017
+817,34100,Oral Surgery (Dentist only),13,281796.0,TN,Morristown,0.046132663345114906
+818,34100,Orthopedic Surgery,10181,281796.0,TN,Morristown,36.1289727320473
+819,34100,Otolaryngology,9863,281796.0,TN,Morristown,35.00049681329756
+820,34100,Pathology,958,281796.0,TN,Morristown,3.3996224218938527
+821,34100,Pediatric Medicine,88,281796.0,TN,Morristown,0.3122826441823163
+822,34100,Physical Medicine and Rehabilitation,938,281796.0,TN,Morristown,3.3286490936705984
+823,34100,Physical Therapist in Private Practice,65725,281796.0,TN,Morristown,233.23609987366748
+824,34100,Physician Assistant,42049,281796.0,TN,Morristown,149.21787392297975
+825,34100,Podiatry,6703,281796.0,TN,Morristown,23.786710954023476
+826,34100,"Psychologist, Clinical",2028,281796.0,TN,Morristown,7.196695481837925
+827,34100,Pulmonary Disease,6182,281796.0,TN,Morristown,21.93785575380772
+828,34100,Rheumatology,6454,281796.0,TN,Morristown,22.903093017643968
+829,34100,Urology,2953,281796.0,TN,Morristown,10.479211912163409
+830,34980,Addiction Medicine,1283,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.34222185471975414
+831,34980,All Other Suppliers,3086,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.8231462538309909
+832,34980,Allergy/ Immunology,28794,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.680386660016057
+833,34980,Anesthesiology,160290,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,42.75505930867451
+834,34980,Audiologist,13325,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.554252700031742
+835,34980,Cardiac Surgery,2186,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.5830841577688095
+836,34980,Cardiology,145083,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,38.698810092210515
+837,34980,Centralized Flu,33530,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,8.943646756627714
+838,34980,Certified Clinical Nurse Specialist,3050,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.8135437699885038
+839,34980,Certified Nurse Midwife,341,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.09095686084133763
+840,34980,Certified Registered Nurse Anesthetist (CRNA),1241,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.331018956903519
+841,34980,Chiropractic,75113,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,20.03531580168737
+842,34980,Clinic or Group Practice,2439,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.6505682803285117
+843,34980,Clinical Cardiac Electrophysiology,38914,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,10.379751562404142
+844,34980,Clinical Laboratory,1917009,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,511.33466523340707
+845,34980,Colorectal Surgery (Proctology),1556,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.41504069052528253
+846,34980,Critical Care (Intensivists),565,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.15070564919459167
+847,34980,Dermatology,195334,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,52.10254385801127
+848,34980,Diagnostic Radiology,159538,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,42.554474090631444
+849,34980,Emergency Medicine,25129,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,6.702800457718396
+850,34980,Endocrinology,51424,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,13.716614697668463
+851,34980,Family Practice,532446,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,142.02233644436026
+852,34980,Gastroenterology,22693,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,6.053032384376759
+853,34980,General Practice,36428,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,9.716646705947937
+854,34980,General Surgery,22695,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,6.053565855701342
+855,34980,Geriatric Medicine,1685,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.4494495909608619
+856,34980,Gynecological Oncology,8566,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,2.2848576831873846
+857,34980,Hand Surgery,11812,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.1506816429849853
+858,34980,Hematology,374,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.09975913769695095
+859,34980,Hematology-Oncology,299293,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,79.83211657415384
+860,34980,Hospice and Palliative Care,2446,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.6524354299645508
+861,34980,Independent Diagnostic Testing Facility (IDTF),28273,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.541417379962284
+862,34980,Infectious Disease,6671,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.779393603145347
+863,34980,Internal Medicine,648501,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,172.97834373157858
+864,34980,Interventional Cardiology,28683,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.650779001501721
+865,34980,Interventional Pain Management,9681,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,2.5822679466421983
+866,34980,Interventional Radiology,6074,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,1.6201524127574332
+867,34980,Licensed Clinical Social Worker,21075,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,5.621454082789414
+868,34980,Mass Immunizer Roster Biller,52569,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,14.022027030992017
+869,34980,Maxillofacial Surgery,264,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.07041821484490654
+870,34980,Medical Oncology,212744,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,56.74641173850303
+871,34980,Nephrology,46428,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,12.384003328861066
+872,34980,Neurology,52373,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,13.96974684118292
+873,34980,Neuropsychiatry,186,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.04961283318618416
+874,34980,Neurosurgery,16787,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,4.4776915628842655
+875,34980,Nuclear Medicine,661,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.1763122727745577
+876,34980,Nurse Practitioner,554919,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,148.01668698303294
+877,34980,Obstetrics & Gynecology,28671,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.647578173554226
+878,34980,Occupational Therapist in Private Practice,7823,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,2.086673086104939
+879,34980,Ophthalmology,242861,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,64.7796896797305
+880,34980,Optometry,63005,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,16.805680402664155
+881,34980,Oral Surgery (Dentist only),71,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.018938232022683202
+882,34980,Orthopedic Surgery,223563,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,59.632224868832736
+883,34980,Otolaryngology,53940,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,14.387721623993407
+884,34980,Pain Management,37522,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,10.008455520494635
+885,34980,Pathology,354407,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,94.53298586567725
+886,34980,Pediatric Medicine,705,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.18804864191537543
+887,34980,Pharmacy,32,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.008535541193322007
+888,34980,Physical Medicine and Rehabilitation,69976,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,18.665094704496894
+889,34980,Physical Therapist in Private Practice,408258,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,108.89696801572674
+890,34980,Physician Assistant,139930,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,37.324321224423386
+891,34980,Plastic and Reconstructive Surgery,3263,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.8703584660565533
+892,34980,Podiatry,82060,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,21.88832844762512
+893,34980,Portable X-Ray Supplier,43842,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,11.694224906175732
+894,34980,Preventive Medicine,439,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.11709695574588627
+895,34980,Psychiatry,29841,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.9596588984350625
+896,34980,"Psychologist, Clinical",21092,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,5.625988589048368
+897,34980,Pulmonary Disease,51269,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,13.67527067001331
+898,34980,Radiation Oncology,14665,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.9116784875021002
+899,34980,Registered Dietitian or Nutrition Professional,433,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.11549654177213839
+900,34980,Rheumatology,54046,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,14.415995604196286
+901,34980,Sleep Medicine,700,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.18671496360391887
+902,34980,Sports Medicine,12337,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,3.2907178656879243
+903,34980,Surgical Oncology,900,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.2400620960621814
+904,34980,Thoracic Surgery,1726,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,0.46038575311480573
+905,34980,Urology,145744,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,38.875122364985074
+906,34980,Vascular Surgery,27074,3749030.0,TN,Nashville-Davidson--Murfreesboro--Franklin,7.221601320874999
+907,35460,Cardiology,32,71056.0,TN,Newport,0.45034902049088044
+908,35460,Centralized Flu,1073,71056.0,TN,Newport,15.100765593334835
+909,35460,Chiropractic,1605,71056.0,TN,Newport,22.58781805899572
+910,35460,Family Practice,37385,71056.0,TN,Newport,526.1343165953614
+911,35460,General Surgery,409,71056.0,TN,Newport,5.7560234181490655
+912,35460,Internal Medicine,5938,71056.0,TN,Newport,83.567890114839
+913,35460,Mass Immunizer Roster Biller,618,71056.0,TN,Newport,8.697365458230127
+914,35460,Nurse Practitioner,9404,71056.0,TN,Newport,132.34631839675748
+915,35460,Optometry,1821,71056.0,TN,Newport,25.627673947309166
+916,35460,Orthopedic Surgery,252,71056.0,TN,Newport,3.5464985363656836
+917,35460,Pharmacy,94,71056.0,TN,Newport,1.3229002476919614
+918,35460,Physical Therapist in Private Practice,22155,71056.0,TN,Newport,311.79632965548296
+919,35460,Physician Assistant,2338,71056.0,TN,Newport,32.90362530961495
+920,35460,Podiatry,334,71056.0,TN,Newport,4.700517901373565
+921,35460,Psychiatry,24,71056.0,TN,Newport,0.3377617653681603
+922,35460,"Psychologist, Clinical",382,71056.0,TN,Newport,5.376041432109885
+923,35460,Sports Medicine,34,71056.0,TN,Newport,0.4784958342715605
+952,42940,All Other Suppliers,136,194614.0,TN,Sevierville,0.6988192010852251
+953,42940,Allergy/ Immunology,1413,194614.0,TN,Sevierville,7.260525964216346
+954,42940,Anesthesiology,1065,194614.0,TN,Sevierville,5.47237094967474
+955,42940,Audiologist,523,194614.0,TN,Sevierville,2.687370898290976
+956,42940,Cardiac Surgery,205,194614.0,TN,Sevierville,1.0533671781064053
+957,42940,Cardiology,41723,194614.0,TN,Sevierville,214.38848181528564
+958,42940,Centralized Flu,3265,194614.0,TN,Sevierville,16.77679920252397
+959,42940,Certified Registered Nurse Anesthetist (CRNA),398,194614.0,TN,Sevierville,2.045073838469997
+960,42940,Chiropractic,8297,194614.0,TN,Sevierville,42.633109642677304
+961,42940,Clinical Laboratory,464923,194614.0,TN,Sevierville,2388.949407545192
+962,42940,Colorectal Surgery (Proctology),365,194614.0,TN,Sevierville,1.8755074146772586
+963,42940,Critical Care (Intensivists),39,194614.0,TN,Sevierville,0.20039668266414543
+964,42940,Diagnostic Radiology,4538,194614.0,TN,Sevierville,23.31795245974082
+965,42940,Emergency Medicine,1410,194614.0,TN,Sevierville,7.245110834780643
+966,42940,Family Practice,133802,194614.0,TN,Sevierville,687.525049585333
+967,42940,Gastroenterology,2955,194614.0,TN,Sevierville,15.183902494167944
+968,42940,General Surgery,2445,194614.0,TN,Sevierville,12.563330490098348
+969,42940,Gynecological Oncology,555,194614.0,TN,Sevierville,2.8517989456051467
+970,42940,Hand Surgery,2276,194614.0,TN,Sevierville,11.694944865220386
+971,42940,Hematology-Oncology,6549,194614.0,TN,Sevierville,33.651227558140725
+972,42940,Infectious Disease,347,194614.0,TN,Sevierville,1.7830166380630377
+973,42940,Internal Medicine,43522,194614.0,TN,Sevierville,223.63242110022918
+974,42940,Interventional Radiology,47,194614.0,TN,Sevierville,0.24150369449268808
+975,42940,Licensed Clinical Social Worker,1375,194614.0,TN,Sevierville,7.065267658030769
+976,42940,Mass Immunizer Roster Biller,3164,194614.0,TN,Sevierville,16.25782317818862
+977,42940,Maxillofacial Surgery,717,194614.0,TN,Sevierville,3.6842159351331354
+978,42940,Medical Oncology,462,194614.0,TN,Sevierville,2.373929933098338
+979,42940,Nephrology,4696,194614.0,TN,Sevierville,24.12981594335454
+980,42940,Neurosurgery,2942,194614.0,TN,Sevierville,15.11710359994656
+981,42940,Nurse Practitioner,54925,194614.0,TN,Sevierville,282.22532808533816
+982,42940,Obstetrics & Gynecology,3674,194614.0,TN,Sevierville,18.878395182258213
+983,42940,Occupational Therapist in Private Practice,623,194614.0,TN,Sevierville,3.201208546147759
+984,42940,Ophthalmology,33955,194614.0,TN,Sevierville,174.47357332977074
+985,42940,Optometry,6519,194614.0,TN,Sevierville,33.4970762637837
+986,42940,Oral Surgery (Dentist only),216,194614.0,TN,Sevierville,1.1098893193706516
+987,42940,Orthopedic Surgery,14261,194614.0,TN,Sevierville,73.27838696085585
+988,42940,Pathology,3641,194614.0,TN,Sevierville,18.708828758465476
+989,42940,Pediatric Medicine,17,194614.0,TN,Sevierville,0.08735240013565314
+990,42940,Physical Medicine and Rehabilitation,389,194614.0,TN,Sevierville,1.9988284501628863
+991,42940,Physical Therapist in Private Practice,58658,194614.0,TN,Sevierville,301.4068874798319
+992,42940,Physician Assistant,27782,194614.0,TN,Sevierville,142.75437532757152
+993,42940,Plastic and Reconstructive Surgery,168,194614.0,TN,Sevierville,0.8632472483993957
+994,42940,Podiatry,7240,194614.0,TN,Sevierville,37.2018457048311
+995,42940,Pulmonary Disease,1703,194614.0,TN,Sevierville,8.750655143001017
+996,42940,Radiation Oncology,2732,194614.0,TN,Sevierville,14.038044539447316
+997,42940,Registered Dietitian or Nutrition Professional,38,194614.0,TN,Sevierville,0.19525830618557763
+998,42940,Rheumatology,515,194614.0,TN,Sevierville,2.646263886462433
+999,42940,Sleep Medicine,80,194614.0,TN,Sevierville,0.4110701182854265
+1000,42940,Surgical Oncology,735,194614.0,TN,Sevierville,3.776706711747356
+1001,42940,Urology,38907,194614.0,TN,Sevierville,199.91881365163863
+1002,42940,Vascular Surgery,3193,194614.0,TN,Sevierville,16.406836096067085
+1003,43180,Anesthesiology,428,96422.0,TN,Shelbyville,4.438821015950716
+1004,43180,Audiologist,861,96422.0,TN,Shelbyville,8.929497417601791
+1005,43180,Cardiology,9693,96422.0,TN,Shelbyville,100.52685071871565
+1006,43180,Centralized Flu,2381,96422.0,TN,Shelbyville,24.69353467051088
+1007,43180,Certified Registered Nurse Anesthetist (CRNA),21,96422.0,TN,Shelbyville,0.21779261994150714
+1008,43180,Chiropractic,7704,96422.0,TN,Shelbyville,79.89877828711289
+1009,43180,Dermatology,6943,96422.0,TN,Shelbyville,72.00638858351827
+1010,43180,Diagnostic Radiology,39,96422.0,TN,Shelbyville,0.40447200846279896
+1011,43180,Emergency Medicine,4972,96422.0,TN,Shelbyville,51.56499554043683
+1012,43180,Family Practice,75752,96422.0,TN,Shelbyville,785.6298355147165
+1013,43180,Gastroenterology,1923,96422.0,TN,Shelbyville,19.943581340358012
+1014,43180,General Surgery,2212,96422.0,TN,Shelbyville,22.940822633838753
+1015,43180,Hematology-Oncology,4538,96422.0,TN,Shelbyville,47.06394806164568
+1016,43180,Independent Diagnostic Testing Facility (IDTF),85,96422.0,TN,Shelbyville,0.8815415569061003
+1017,43180,Infectious Disease,1243,96422.0,TN,Shelbyville,12.891248885109208
+1018,43180,Internal Medicine,44613,96422.0,TN,Shelbyville,462.6848644500218
+1019,43180,Interventional Pain Management,12480,96422.0,TN,Shelbyville,129.43104270809567
+1020,43180,Licensed Clinical Social Worker,2561,96422.0,TN,Shelbyville,26.5603285557238
+1021,43180,Mass Immunizer Roster Biller,6347,96422.0,TN,Shelbyville,65.8252266080355
+1022,43180,Maxillofacial Surgery,49,96422.0,TN,Shelbyville,0.5081827798635166
+1023,43180,Medical Oncology,20826,96422.0,TN,Shelbyville,215.98805251913464
+1024,43180,Nephrology,3951,96422.0,TN,Shelbyville,40.97612578042355
+1025,43180,Neurosurgery,784,96422.0,TN,Shelbyville,8.130924477816265
+1026,43180,Nurse Practitioner,49122,96422.0,TN,Shelbyville,509.44805127460535
+1027,43180,Obstetrics & Gynecology,624,96422.0,TN,Shelbyville,6.471552135404783
+1028,43180,Ophthalmology,12423,96422.0,TN,Shelbyville,128.83989131111156
+1029,43180,Optometry,15256,96422.0,TN,Shelbyville,158.2211528489349
+1030,43180,Orthopedic Surgery,4207,96422.0,TN,Shelbyville,43.63112152828193
+1031,43180,Otolaryngology,5102,96422.0,TN,Shelbyville,52.91323556864616
+1032,43180,Physical Therapist in Private Practice,19613,96422.0,TN,Shelbyville,203.4079359482276
+1033,43180,Physician Assistant,19580,96422.0,TN,Shelbyville,203.0656904026052
+1034,43180,Podiatry,3919,96422.0,TN,Shelbyville,40.644251311941254
+1035,43180,Psychiatry,3515,96422.0,TN,Shelbyville,36.454336147352265
+1036,43180,"Psychologist, Clinical",5692,96422.0,TN,Shelbyville,59.0321710812885
+1037,43180,Pulmonary Disease,712,96422.0,TN,Shelbyville,7.3842069237310985
+1038,43180,Radiation Oncology,5120,96422.0,TN,Shelbyville,53.09991495716746
+1039,43180,Urology,5087,96422.0,TN,Shelbyville,52.75766941154508
+1040,43180,Vascular Surgery,3097,96422.0,TN,Shelbyville,32.11922590280226
+1081,46460,Anesthesiology,2345,60750.0,TN,Union City,38.60082304526749
+1082,46460,Cardiology,4865,60750.0,TN,Union City,80.08230452674897
+1083,46460,Centralized Flu,913,60750.0,TN,Union City,15.02880658436214
+1084,46460,Chiropractic,6603,60750.0,TN,Union City,108.69135802469137
+1085,46460,Clinical Laboratory,8856,60750.0,TN,Union City,145.77777777777777
+1086,46460,Family Practice,33582,60750.0,TN,Union City,552.7901234567902
+1087,46460,Gastroenterology,2794,60750.0,TN,Union City,45.991769547325106
+1088,46460,General Practice,2169,60750.0,TN,Union City,35.7037037037037
+1089,46460,General Surgery,1334,60750.0,TN,Union City,21.958847736625515
+1090,46460,Hematology-Oncology,1375,60750.0,TN,Union City,22.63374485596708
+1091,46460,Internal Medicine,13156,60750.0,TN,Union City,216.559670781893
+1092,46460,Licensed Clinical Social Worker,897,60750.0,TN,Union City,14.765432098765432
+1093,46460,Mass Immunizer Roster Biller,1935,60750.0,TN,Union City,31.851851851851855
+1094,46460,Nephrology,2230,60750.0,TN,Union City,36.70781893004115
+1095,46460,Nurse Practitioner,28879,60750.0,TN,Union City,475.3744855967078
+1096,46460,Obstetrics & Gynecology,2401,60750.0,TN,Union City,39.52263374485597
+1097,46460,Optometry,8311,60750.0,TN,Union City,136.80658436213992
+1098,46460,Orthopedic Surgery,5909,60750.0,TN,Union City,97.26748971193416
+1099,46460,Physical Therapist in Private Practice,13175,60750.0,TN,Union City,216.8724279835391
+1100,46460,Physician Assistant,13746,60750.0,TN,Union City,226.27160493827162
+1101,46460,Radiation Oncology,3247,60750.0,TN,Union City,53.4485596707819
