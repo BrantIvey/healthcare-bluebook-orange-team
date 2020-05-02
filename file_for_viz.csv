@@ -1,0 +1,420 @@
+,cbsa,hcpcs,office_max,office_avg,office_min,descriptor,apc,hosp_max,hosp_avg,hosp_min,region,description,state
+0,16860,0191T,2408.89,2396.15,2370.66,Insert ant segment drain int,5492.0,3148.69,2858.93,2397.92,Chattanooga,Level 2 Intraocular Procedures,TN
+1,16860,29823,601.13,601.13,601.13,Shoulder arthroscopy/surgery,5113.0,2245.72,2158.94,2076.43,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+2,16860,29824,626.68,626.68,626.68,Shoulder arthroscopy/surgery,5113.0,2245.72,2158.94,2076.43,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+3,16860,29827,1891.32,1891.32,1891.32,Arthroscop rotator cuff repr,5114.0,4809.09,4652.22,4569.48,Chattanooga,Level 4 Musculoskeletal Procedures,TN
+4,16860,29880,1069.53,1067.85,1066.18,Knee arthroscopy/surgery,5113.0,2245.72,2158.94,2076.43,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+5,16860,29881,1125.44,1095.81,1066.18,Knee arthroscopy/surgery,5113.0,2245.72,2158.94,2076.43,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+6,16860,63650,4076.92,4076.92,4076.92,Implant neuroelectrodes,5462.0,4934.42,4896.96,4859.51,Chattanooga,Level 2 Neurostimulator and Related Procedures,TN
+7,16860,63685,20696.86,20696.86,20696.86,Insrt/redo spine n generator,5464.0,24460.44,24460.44,24460.44,Chattanooga,Level 4 Neurostimulator and Related Procedures,TN
+8,16860,64633,719.04,719.04,719.04,Destroy cerv/thor facet jnt,5431.0,1395.13,1347.69,1293.19,Chattanooga,Level 1 Nerve Procedures,TN
+9,16860,64635,728.82,645.24,561.66,Destroy lumb/sac facet jnt,5431.0,1395.13,1347.69,1293.19,Chattanooga,Level 1 Nerve Procedures,TN
+10,16860,66982,911.5,886.19,826.69,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1675.52,1647.78,1624.66,Chattanooga,Level 1 Intraocular Procedures,TN
+11,16860,66984,905.54,880.24,842.79,Xcapsl ctrc rmvl w/o ecp,5491.0,1675.52,1647.78,1624.66,Chattanooga,Level 1 Intraocular Procedures,TN
+12,16860,67904,601.18,578.49,563.79,Repair eyelid defect,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+13,16860,26055,542.43,531.04,519.65,Incise finger tendon sheath,5112.0,1121.25,1093.91,1070.75,Chattanooga,Level 2 Musculoskeletal Procedures,TN
+14,16860,64721,711.2,700.64,690.08,Carpal tunnel surgery,5431.0,1395.13,1347.69,1293.19,Chattanooga,Level 1 Nerve Procedures,TN
+15,16860,28285,781.26,781.26,781.26,Repair of hammertoe,5113.0,2245.72,2158.94,2076.43,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+16,16860,29828,2470.29,2470.29,2470.29,Arthroscopy biceps tenodesis,5114.0,4809.09,4652.22,4569.48,Chattanooga,Level 4 Musculoskeletal Procedures,TN
+17,16860,26160,627.5,627.5,627.5,Remove tendon sheath lesion,5112.0,1121.25,1093.91,1070.75,Chattanooga,Level 2 Musculoskeletal Procedures,TN
+18,16860,64718,514.86,514.86,514.86,Revise ulnar nerve at elbow,5431.0,1395.13,1347.69,1293.19,Chattanooga,Level 1 Nerve Procedures,TN
+19,16860,66710,738.29,738.29,738.29,Ciliary transsleral therapy,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+20,16860,65820,1630.66,1630.66,1630.66,Relieve inner eye pressure,5492.0,3148.69,2858.93,2397.92,Chattanooga,Level 2 Intraocular Procedures,TN
+21,16860,67900,527.35,527.35,527.35,Repair brow defect,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+22,16860,67961,707.53,707.53,707.53,Revision of eyelid,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+23,16860,65756,1630.66,1630.66,1630.66,Corneal trnspl endothelial,5492.0,3148.69,2858.93,2397.92,Chattanooga,Level 2 Intraocular Procedures,TN
+24,16860,66986,873.52,873.52,873.52,Exchange lens prosthesis,5491.0,1675.52,1647.78,1624.66,Chattanooga,Level 1 Intraocular Procedures,TN
+25,16860,66183,1630.66,1630.66,1630.66,Insert ant drainage device,5492.0,3148.69,2858.93,2397.92,Chattanooga,Level 2 Intraocular Procedures,TN
+26,16860,65426,738.29,738.29,738.29,Removal of eye lesion,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+27,16860,67917,676.77,676.77,676.77,Repair eyelid defect,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+28,16860,67903,621.72,621.72,621.72,Repair eyelid defect,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+29,16860,68815,507.58,507.58,507.58,Probe nasolacrimal duct,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+31,16860,27570,617.54,617.54,617.54,Fixation of knee joint,5112.0,1121.25,1093.91,1070.75,Chattanooga,Level 2 Musculoskeletal Procedures,TN
+32,16860,67950,664.46,664.46,664.46,Revision of eyelid,5503.0,1543.38,1543.38,1543.38,Chattanooga,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+33,16860,29884,1079.55,1079.55,1079.55,Knee arthroscopy/surgery,5113.0,2245.72,2158.94,2076.43,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+35,18260,29824,730.54,730.54,730.54,Shoulder arthroscopy/surgery,5113.0,2245.75,2214.89,2184.02,Nashville,Level 3 Musculoskeletal Procedures,TN
+36,18260,29881,1051.98,1051.98,1051.98,Knee arthroscopy/surgery,5113.0,2245.75,2214.89,2184.02,Nashville,Level 3 Musculoskeletal Procedures,TN
+37,18260,43249,500.69,500.69,500.69,Esoph egd dilation <30 mm,5302.0,1229.4,1229.39,1229.38,Nashville,Level 2 Upper GI Procedures,TN
+38,18260,43251,508.52,508.52,508.52,Egd remove lesion snare,5302.0,1229.4,1229.39,1229.38,Nashville,Level 2 Upper GI Procedures,TN
+41,18260,26055,490.22,490.22,490.22,Incise finger tendon sheath,5112.0,1121.25,1115.17,1109.09,Nashville,Level 2 Musculoskeletal Procedures,TN
+42,18260,49505,1158.41,1158.41,1158.41,Prp i/hern init reduc >5 yr,5341.0,2636.64,2636.64,2636.64,Nashville,Abdominal/Peritoneal/Biliary and Related Procedures,TN
+43,18260,64721,656.56,656.56,656.56,Carpal tunnel surgery,5431.0,1439.92,1438.99,1438.05,Nashville,Level 1 Nerve Procedures,TN
+44,18260,47562,1759.74,1759.74,1759.74,Laparoscopic cholecystectomy,5361.0,3867.44,3867.43,3867.42,Nashville,Level 1 Laparoscopy and Related Services,TN
+45,18260,23412,1905.69,1905.69,1905.69,Repair rotator cuff chronic,5114.0,4790.52,4768.91,4747.31,Nashville,Level 4 Musculoskeletal Procedures,TN
+46,18260,11643,148.07,148.07,148.07,Exc f/e/e/n/l mal+mrg 2.1-3,5072.0,1138.93,1125.12,1103.34,Nashville,Level 2 Excision/ Biopsy/ Incision and Drainage,TN
+47,18260,51715,1019.19,1019.19,1019.19,Endoscopic injection/implant,5374.0,2329.67,2329.67,2329.67,Nashville,Level 4 Urology and Related Services,TN
+48,18260,23120,621.62,621.62,621.62,Partial removal collar bone,5113.0,2245.75,2214.89,2184.02,Nashville,Level 3 Musculoskeletal Procedures,TN
+49,18260,11624,434.97,434.97,434.97,Exc s/n/h/f/g mal+mrg 3.1-4,5072.0,1138.93,1125.12,1103.34,Nashville,Level 2 Excision/ Biopsy/ Incision and Drainage,TN
+50,18260,11644,431.73,431.73,431.73,Exc f/e/e/n/l mal+mrg 3.1-4,5072.0,1138.93,1125.12,1103.34,Nashville,Level 2 Excision/ Biopsy/ Incision and Drainage,TN
+51,18260,31535,964.69,964.69,964.69,Laryngoscopy w/biopsy,5154.0,2215.59,2215.59,2215.59,Nashville,Level 4 Airway Endoscopy,TN
+52,18260,21555,449.97,449.97,449.97,Exc neck les sc < 3 cm,5072.0,1138.93,1125.12,1103.34,Nashville,Level 2 Excision/ Biopsy/ Incision and Drainage,TN
+53,18260,69110,622.92,622.92,622.92,Remove external ear partial,5073.0,1979.23,1938.76,1857.89,Nashville,Level 3 Excision/ Biopsy/ Incision and Drainage,TN
+55,20540,66982,795.86,795.86,795.86,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1552.0,1552.0,1552.0,Memphis,Level 1 Intraocular Procedures,TN
+56,20540,66984,819.06,819.06,819.06,Xcapsl ctrc rmvl w/o ecp,5491.0,1552.0,1552.0,1552.0,Memphis,Level 1 Intraocular Procedures,TN
+58,27180,0191T,2231.93,2231.93,2231.93,Insert ant segment drain int,5492.0,3037.27,2882.65,2728.03,Jackson,Level 2 Intraocular Procedures,TN
+59,27180,29880,1052.89,1052.89,1052.89,Knee arthroscopy/surgery,5113.0,2115.37,2058.4,2001.44,Jackson,Level 3 Musculoskeletal Procedures,TN
+60,27180,29881,1039.04,1039.04,1039.04,Knee arthroscopy/surgery,5113.0,2115.37,2058.4,2001.44,Jackson,Level 3 Musculoskeletal Procedures,TN
+61,27180,63650,3793.11,3793.11,3793.11,Implant neuroelectrodes,5462.0,5104.04,5104.04,5104.04,Jackson,Level 2 Neurostimulator and Related Procedures,TN
+62,27180,63685,19176.47,19176.47,19176.47,Insrt/redo spine n generator,5464.0,20938.78,20938.78,20938.78,Jackson,Level 4 Neurostimulator and Related Procedures,TN
+63,27180,66982,832.24,832.24,832.24,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1592.21,1520.52,1477.2,Jackson,Level 1 Intraocular Procedures,TN
+64,27180,66984,836.28,836.28,836.28,Xcapsl ctrc rmvl w/o ecp,5491.0,1592.21,1520.52,1477.2,Jackson,Level 1 Intraocular Procedures,TN
+65,27180,67904,523.52,523.52,523.52,Repair eyelid defect,5503.0,1396.67,1396.67,1396.67,Jackson,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+66,27180,26055,458.71,458.71,458.71,Incise finger tendon sheath,5112.0,1045.41,1045.41,1045.41,Jackson,Level 2 Musculoskeletal Procedures,TN
+67,27180,64721,660.83,660.83,660.83,Carpal tunnel surgery,5431.0,1349.8,1349.8,1349.8,Jackson,Level 1 Nerve Procedures,TN
+68,27180,25447,877.41,877.41,877.41,Repair wrist joints,5113.0,2115.37,2058.4,2001.44,Jackson,Level 3 Musculoskeletal Procedures,TN
+69,27180,64718,495.62,495.62,495.62,Revise ulnar nerve at elbow,5431.0,1349.8,1349.8,1349.8,Jackson,Level 1 Nerve Procedures,TN
+70,27180,43270,518.93,518.93,518.93,Egd lesion ablation,5302.0,1141.09,1108.33,1075.57,Jackson,Level 2 Upper GI Procedures,TN
+71,27180,67900,530.74,530.74,530.74,Repair brow defect,5503.0,1396.67,1396.67,1396.67,Jackson,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+72,27180,23412,2074.24,2074.24,2074.24,Repair rotator cuff chronic,5114.0,4469.22,4347.62,4226.02,Jackson,Level 4 Musculoskeletal Procedures,TN
+73,27180,23120,526.45,526.45,526.45,Partial removal collar bone,5113.0,2115.37,2058.4,2001.44,Jackson,Level 3 Musculoskeletal Procedures,TN
+74,27180,23130,566.95,566.95,566.95,Remove shoulder bone part,5113.0,2115.37,2058.4,2001.44,Jackson,Level 3 Musculoskeletal Procedures,TN
+75,27180,0275T,2288.82,2288.82,2288.82,Perq lamot/lam lumbar,5114.0,4469.22,4347.62,4226.02,Jackson,Level 4 Musculoskeletal Procedures,TN
+76,27180,47000,447.05,447.05,447.05,Needle biopsy of liver,5072.0,1079.42,1027.34,975.26,Jackson,Level 2 Excision/ Biopsy/ Incision and Drainage,TN
+96,34980,0191T,2494.2,2494.2,2494.2,Insert ant segment drain int,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+97,34980,29823,766.58,669.85,599.88,Shoulder arthroscopy/surgery,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+98,34980,29824,882.46,722.62,641.79,Shoulder arthroscopy/surgery,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+99,34980,29827,2557.77,2255.65,1619.92,Arthroscop rotator cuff repr,5114.0,4884.31,4705.43,4295.16,Nashville,Level 4 Musculoskeletal Procedures,TN
+100,34980,29880,1176.61,1148.51,1058.62,Knee arthroscopy/surgery,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+101,34980,29881,1176.61,1143.42,997.55,Knee arthroscopy/surgery,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+102,34980,43249,660.99,597.59,565.64,Esoph egd dilation <30 mm,5302.0,1248.62,1208.85,1095.57,Nashville,Level 2 Upper GI Procedures,TN
+103,34980,43251,587.11,562.27,537.43,Egd remove lesion snare,5302.0,1248.62,1208.85,1095.57,Nashville,Level 2 Upper GI Procedures,TN
+104,34980,50590,1679.97,1679.97,1679.97,Fragmenting of kidney stone,5374.0,2378.41,2333.83,2200.54,Nashville,Level 4 Urology and Related Services,TN
+105,34980,63650,4238.83,4238.83,4238.83,Implant neuroelectrodes,5462.0,5374.04,4109.56,2845.08,Nashville,Level 2 Neurostimulator and Related Procedures,TN
+106,34980,63685,19164.34,19164.34,19164.34,Insrt/redo spine n generator,5464.0,25223.61,23877.94,22832.85,Nashville,Level 4 Neurostimulator and Related Procedures,TN
+107,34980,64633,761.56,743.16,702.98,Destroy cerv/thor facet jnt,5431.0,1462.53,1433.45,1376.19,Nashville,Level 1 Nerve Procedures,TN
+108,34980,64635,761.56,683.89,575.22,Destroy lumb/sac facet jnt,5431.0,1462.53,1433.45,1376.19,Nashville,Level 1 Nerve Procedures,TN
+109,34980,66982,943.78,936.16,891.35,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1706.51,1638.22,1468.66,Nashville,Level 1 Intraocular Procedures,TN
+110,34980,66984,943.78,934.59,844.98,Xcapsl ctrc rmvl w/o ecp,5491.0,1706.51,1638.22,1468.66,Nashville,Level 1 Intraocular Procedures,TN
+111,34980,67904,624.35,577.97,519.82,Repair eyelid defect,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+112,34980,C9740,6151.78,6151.78,6151.78,Cysto impl 4 or more,5376.0,6969.28,6969.28,6969.28,Nashville,Level 6 Urology and Related Services,TN
+113,34980,20680,995.7,995.7,995.7,Removal of support implant,5073.0,2010.18,1953.84,1781.33,Nashville,Level 3 Excision/ Biopsy/ Incision and Drainage,TN
+114,34980,23430,2520.16,2293.28,2106.4,Repair biceps tendon,5114.0,4884.31,4705.43,4295.16,Nashville,Level 4 Musculoskeletal Procedures,TN
+115,34980,26055,581.33,525.76,460.99,Incise finger tendon sheath,5112.0,1138.83,1093.31,986.47,Nashville,Level 2 Musculoskeletal Procedures,TN
+116,34980,49505,1380.98,1279.23,1172.67,Prp i/hern init reduc >5 yr,5341.0,2677.97,2619.5,2456.15,Nashville,Abdominal/Peritoneal/Biliary and Related Procedures,TN
+117,34980,64721,725.3,698.85,652.77,Carpal tunnel surgery,5431.0,1462.53,1433.45,1376.19,Nashville,Level 1 Nerve Procedures,TN
+118,34980,28285,792.41,714.11,627.53,Repair of hammertoe,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+119,34980,67108,1688.41,1688.41,1688.41,Repair detached retina,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+120,34980,67113,1688.41,1688.41,1688.41,Repair retinal detach cplx,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+121,34980,55700,764.08,764.08,764.08,Biopsy of prostate,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+122,34980,25447,1138.66,841.07,588.31,Repair wrist joints,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+123,34980,29828,2557.77,2557.77,2557.77,Arthroscopy biceps tenodesis,5114.0,4884.31,4705.43,4295.16,Nashville,Level 4 Musculoskeletal Procedures,TN
+124,34980,26160,671.39,662.07,652.74,Remove tendon sheath lesion,5112.0,1138.83,1093.31,986.47,Nashville,Level 2 Musculoskeletal Procedures,TN
+125,34980,64718,533.09,512.41,482.32,Revise ulnar nerve at elbow,5431.0,1462.53,1433.45,1376.19,Nashville,Level 1 Nerve Procedures,TN
+126,34980,26480,1071.56,1038.09,1013.19,Transplant hand tendon,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+127,34980,67036,1688.41,1688.41,1688.41,Removal of inner eye fluid,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+128,34980,67042,1688.41,1685.91,1683.41,Vit for macular hole,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+129,34980,30520,680.87,632.73,551.18,Repair of nasal septum,5164.0,2033.29,2023.77,2014.24,Nashville,Level 4 ENT Procedures,TN
+130,34980,31255,1081.38,1019.34,957.3,Nsl/sins ndsc w/tot ethmdct,5155.0,4048.63,3892.36,3580.9,Nashville,Level 5 Airway Endoscopy,TN
+131,34980,31256,659.38,617.99,593.44,Exploration maxillary sinus,5154.0,2274.26,2248.27,2109.48,Nashville,Level 4 Airway Endoscopy,TN
+132,34980,31276,1283.74,1137.02,990.31,Nsl/sins ndsc frnt tiss rmvl,5155.0,4048.63,3892.36,3580.9,Nashville,Level 5 Airway Endoscopy,TN
+133,34980,52234,1092.44,1092.44,1092.44,Cystoscopy and treatment,5374.0,2378.41,2333.83,2200.54,Nashville,Level 4 Urology and Related Services,TN
+134,34980,52356,1651.97,1651.97,1651.97,Cysto/uretero w/lithotripsy,5375.0,3258.98,3168.21,3087.81,Nashville,Level 5 Urology and Related Services,TN
+135,34980,67924,709.84,684.3,658.76,Repair eyelid defect,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+136,34980,29848,644.17,621.99,581.87,Wrist endoscopy/surgery,5112.0,1138.83,1093.31,986.47,Nashville,Level 2 Musculoskeletal Procedures,TN
+137,34980,19301,954.25,954.25,954.25,Partial mastectomy,5091.0,2338.09,2299.05,2209.91,Nashville,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+138,34980,28308,844.09,814.25,784.41,Incision of metatarsal,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+139,34980,28750,3486.43,3486.43,3486.43,Fusion of big toe joint,5114.0,4884.31,4705.43,4295.16,Nashville,Level 4 Musculoskeletal Procedures,TN
+140,34980,30140,497.84,468.55,453.91,Resect inferior turbinate,5164.0,2033.29,2023.77,2014.24,Nashville,Level 4 ENT Procedures,TN
+141,34980,38525,388.23,388.23,388.23,Biopsy/removal lymph nodes,5091.0,2338.09,2299.05,2209.91,Nashville,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+142,34980,52235,1111.44,1111.44,1111.44,Cystoscopy and treatment,5374.0,2378.41,2333.83,2200.54,Nashville,Level 4 Urology and Related Services,TN
+143,34980,52332,821.03,821.03,821.03,Cystoscopy and treatment,5374.0,2378.41,2333.83,2200.54,Nashville,Level 4 Urology and Related Services,TN
+144,34980,52352,1679.97,1679.97,1679.97,Cystouretero w/stone remove,5374.0,2378.41,2333.83,2200.54,Nashville,Level 4 Urology and Related Services,TN
+145,34980,57288,1734.32,1734.32,1734.32,Repair bladder defect,5415.0,3567.38,3434.05,3206.16,Nashville,Level 5 Gynecologic Procedures,TN
+146,34980,64581,4515.98,4515.98,4515.98,Implant neuroelectrodes,5462.0,5374.04,4109.56,2845.08,Nashville,Level 2 Neurostimulator and Related Procedures,TN
+147,34980,47562,1968.23,1968.23,1968.23,Laparoscopic cholecystectomy,5361.0,3927.91,3791.54,3394.11,Nashville,Level 1 Laparoscopy and Related Services,TN
+148,34980,66180,1688.41,1688.41,1688.41,Aqueous shunt eye w/graft,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+149,34980,66711,471.89,471.89,471.89,Ecp ciliary body destruction,5491.0,1706.51,1638.22,1468.66,Nashville,Level 1 Intraocular Procedures,TN
+150,34980,67900,622.22,565.06,525.55,Repair brow defect,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+151,34980,23412,1918.33,1874.63,1805.49,Repair rotator cuff chronic,5114.0,4884.31,4705.43,4295.16,Nashville,Level 4 Musculoskeletal Procedures,TN
+152,34980,29822,602.66,595.48,588.31,Shoulder arthroscopy/surgery,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+153,34980,52204,695.92,695.92,695.92,Cystoscopy w/biopsy(s),5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+154,34980,58558,1029.32,1029.32,1029.32,Hysteroscopy biopsy,5414.0,1950.77,1919.18,1868.97,Nashville,Level 4 Gynecologic Procedures,TN
+155,34980,67961,737.14,737.14,737.14,Revision of eyelid,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+156,34980,25609,3413.56,3413.56,3413.56,Treat fx radial 3+ frag,5114.0,4884.31,4705.43,4295.16,Nashville,Level 4 Musculoskeletal Procedures,TN
+157,34980,65756,1688.41,1688.41,1688.41,Corneal trnspl endothelial,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+158,34980,66170,904.46,904.46,904.46,Glaucoma surgery,5491.0,1706.51,1638.22,1468.66,Nashville,Level 1 Intraocular Procedures,TN
+159,34980,66986,786.48,786.48,786.48,Exchange lens prosthesis,5491.0,1706.51,1638.22,1468.66,Nashville,Level 1 Intraocular Procedures,TN
+160,34980,67311,556.95,556.95,556.95,Revise eye muscle,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+161,34980,67312,1189.37,1189.37,1189.37,Revise two eye muscles,5504.0,2595.6,2546.12,2496.64,Nashville,"Level 4 Extraocular, Repair, and Plastic Eye Procedures",TN
+162,34980,67314,679.5,679.5,679.5,Revise eye muscle,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+163,34980,52005,616.15,616.15,616.15,Cystoscopy & ureter catheter,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+164,34980,29879,588.31,588.31,588.31,Knee arthroscopy/surgery,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+165,34980,64590,15440.61,15440.61,15440.61,Insrt/redo pn/gastr stimul,5463.0,16612.08,16538.54,16317.92,Nashville,Level 3 Neurostimulator and Related Procedures,TN
+166,34980,67966,668.88,668.88,668.88,Revision of eyelid,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+167,34980,25000,610.36,610.36,610.36,Incision of tendon sheath,5112.0,1138.83,1093.31,986.47,Nashville,Level 2 Musculoskeletal Procedures,TN
+168,34980,67917,620.01,620.01,620.01,Repair eyelid defect,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+169,34980,68720,1229.35,1172.79,1116.23,Create tear sac drain,5504.0,2595.6,2546.12,2496.64,Nashville,"Level 4 Extraocular, Repair, and Plastic Eye Procedures",TN
+170,34980,68815,412.8,397.51,382.22,Probe nasolacrimal duct,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+171,34980,52281,739.94,739.94,739.94,Cystoscopy and treatment,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+172,34980,52287,764.88,755.32,745.76,Cystoscopy chemodenervation,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+173,34980,52351,517.42,517.42,517.42,Cystouretero & or pyeloscope,5374.0,2378.41,2333.83,2200.54,Nashville,Level 4 Urology and Related Services,TN
+174,34980,54161,764.88,764.88,764.88,Circum 28 days or older,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+175,34980,52310,676.62,676.62,676.62,Cystoscopy and treatment,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+176,34980,52317,1063.94,1063.94,1063.94,Remove bladder stone,5374.0,2378.41,2333.83,2200.54,Nashville,Level 4 Urology and Related Services,TN
+177,34980,52648,1679.97,1679.97,1679.97,Laser surgery of prostate,5375.0,3258.98,3168.21,3087.81,Nashville,Level 5 Urology and Related Services,TN
+178,34980,26123,1176.61,1176.61,1176.61,Release palm contracture,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+179,34980,28270,625.08,606.69,588.31,Release of foot contracture,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+180,34980,52276,726.64,726.64,726.64,Cystoscopy and treatment,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+181,34980,52260,718.99,718.99,718.99,Cystoscopy and treatment,5373.0,1538.43,1502.82,1411.63,Nashville,Level 3 Urology and Related Services,TN
+182,34980,55875,1139.94,1139.94,1139.94,Transperi needle place pros,5375.0,3258.98,3168.21,3087.81,Nashville,Level 5 Urology and Related Services,TN
+183,34980,43246,550.54,550.54,550.54,Egd place gastrostomy tube,5302.0,1248.62,1208.85,1095.57,Nashville,Level 2 Upper GI Procedures,TN
+184,34980,25310,588.31,588.31,588.31,Transplant forearm tendon,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+185,34980,29876,962.68,837.42,712.16,Knee arthroscopy/surgery,5113.0,2280.92,2202.85,1964.63,Nashville,Level 3 Musculoskeletal Procedures,TN
+186,34980,64561,4294.36,4294.36,4294.36,Implant neuroelectrodes,5462.0,5374.04,4109.56,2845.08,Nashville,Level 2 Neurostimulator and Related Procedures,TN
+187,34980,67921,382.22,382.22,382.22,Repair eyelid defect,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+188,34980,66179,1688.41,1688.41,1688.41,Aqueous shunt eye w/o graft,5492.0,3197.95,3168.32,3148.69,Nashville,Level 2 Intraocular Procedures,TN
+189,34980,46260,1075.45,1075.45,1075.45,Remove in/ex hem groups 2+,5313.0,2027.53,2010.67,1960.11,Nashville,Level 3 Lower GI Procedures,TN
+190,34980,21235,1059.54,1059.54,1059.54,Ear cartilage graft,5165.0,3864.12,3854.86,3837.54,Nashville,Level 5 ENT Procedures,TN
+191,34980,67950,658.27,576.44,465.01,Revision of eyelid,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+192,34980,63661,698.1,698.1,698.1,Remove spine eltrd perq aray,5431.0,1462.53,1433.45,1376.19,Nashville,Level 1 Nerve Procedures,TN
+193,34980,67914,392.55,387.39,382.22,Repair eyelid defect,5503.0,1591.59,1524.84,1458.1,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+194,34980,19120,890.63,890.63,890.63,Removal of breast lesion,5091.0,2338.09,2299.05,2209.91,Nashville,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+195,34980,25607,3348.65,3348.65,3348.65,Treat fx rad extra-articul,5114.0,4884.31,4705.43,4295.16,Nashville,Level 4 Musculoskeletal Procedures,TN
+196,34980,47000,503.28,503.28,503.28,Needle biopsy of liver,5072.0,1156.83,1130.5,1001.83,Nashville,Level 2 Excision/ Biopsy/ Incision and Drainage,TN
+207,28700,29824,725.12,725.12,725.12,Shoulder arthroscopy/surgery,5113.0,2035.66,1944.47,1761.45,Kingsport,Level 3 Musculoskeletal Procedures,TN
+208,28700,29827,2251.84,2111.1,1970.36,Arthroscop rotator cuff repr,5114.0,4478.06,4220.71,3996.97,Kingsport,Level 4 Musculoskeletal Procedures,TN
+209,28700,29880,1035.88,1035.88,1035.88,Knee arthroscopy/surgery,5113.0,2035.66,1944.47,1761.45,Kingsport,Level 3 Musculoskeletal Procedures,TN
+210,28700,29881,1035.88,1035.88,1035.88,Knee arthroscopy/surgery,5113.0,2035.66,1944.47,1761.45,Kingsport,Level 3 Musculoskeletal Procedures,TN
+211,28700,43249,516.89,516.89,516.89,Esoph egd dilation <30 mm,5302.0,1167.0,1107.96,1066.88,Kingsport,Level 2 Upper GI Procedures,TN
+212,28700,64633,603.42,603.42,603.42,Destroy cerv/thor facet jnt,5431.0,1299.68,1269.41,1233.4,Kingsport,Level 1 Nerve Procedures,TN
+213,28700,64635,582.54,582.54,582.54,Destroy lumb/sac facet jnt,5431.0,1299.68,1269.41,1233.4,Kingsport,Level 1 Nerve Procedures,TN
+214,28700,66982,830.89,830.89,830.89,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1602.72,1570.06,1537.41,Kingsport,Level 1 Intraocular Procedures,TN
+215,28700,66984,830.66,826.47,822.28,Xcapsl ctrc rmvl w/o ecp,5491.0,1602.72,1570.06,1537.41,Kingsport,Level 1 Intraocular Procedures,TN
+216,28700,26055,475.75,469.0,462.25,Incise finger tendon sheath,5112.0,1092.43,1025.12,968.65,Kingsport,Level 2 Musculoskeletal Procedures,TN
+217,28700,64721,670.47,660.98,652.83,Carpal tunnel surgery,5431.0,1299.68,1269.41,1233.4,Kingsport,Level 1 Nerve Procedures,TN
+218,28700,28285,712.17,712.17,712.17,Repair of hammertoe,5113.0,2035.66,1944.47,1761.45,Kingsport,Level 3 Musculoskeletal Procedures,TN
+219,28700,25447,565.03,565.03,565.03,Repair wrist joints,5113.0,2035.66,1944.47,1761.45,Kingsport,Level 3 Musculoskeletal Procedures,TN
+221,28700,29848,547.3,547.3,547.3,Wrist endoscopy/surgery,5112.0,1092.43,1025.12,968.65,Kingsport,Level 2 Musculoskeletal Procedures,TN
+222,28700,43270,516.89,516.89,516.89,Egd lesion ablation,5302.0,1167.0,1107.96,1066.88,Kingsport,Level 2 Upper GI Procedures,TN
+224,28700,31624,483.77,483.77,483.77,Dx bronchoscope/lavage,5153.0,1079.82,1041.76,1000.74,Kingsport,Level 3 Airway Endoscopy,TN
+226,27740,29823,597.59,597.59,597.59,Shoulder arthroscopy/surgery,5113.0,1906.12,1906.12,1906.12,Johnson City,Level 3 Musculoskeletal Procedures,TN
+227,27740,29824,646.73,646.73,646.73,Shoulder arthroscopy/surgery,5113.0,1906.12,1906.12,1906.12,Johnson City,Level 3 Musculoskeletal Procedures,TN
+228,27740,29827,2211.67,2211.67,2211.67,Arthroscop rotator cuff repr,5114.0,4285.93,4207.59,4129.25,Johnson City,Level 4 Musculoskeletal Procedures,TN
+229,27740,29880,1050.94,1050.94,1050.94,Knee arthroscopy/surgery,5113.0,1906.12,1906.12,1906.12,Johnson City,Level 3 Musculoskeletal Procedures,TN
+230,27740,29881,1049.06,1049.06,1049.06,Knee arthroscopy/surgery,5113.0,1906.12,1906.12,1906.12,Johnson City,Level 3 Musculoskeletal Procedures,TN
+232,27740,63685,19140.93,19140.93,19140.93,Insrt/redo spine n generator,5464.0,21335.92,21335.92,21335.92,Johnson City,Level 4 Neurostimulator and Related Procedures,TN
+235,27740,66982,827.11,827.11,827.11,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1497.46,1497.46,1497.46,Johnson City,Level 1 Intraocular Procedures,TN
+236,27740,66984,837.8,824.9,812.0,Xcapsl ctrc rmvl w/o ecp,5491.0,1497.46,1497.46,1497.46,Johnson City,Level 1 Intraocular Procedures,TN
+238,27740,20680,889.35,889.35,889.35,Removal of support implant,5073.0,1764.02,1764.02,1764.02,Johnson City,Level 3 Excision/ Biopsy/ Incision and Drainage,TN
+239,27740,26055,491.18,491.18,491.18,Incise finger tendon sheath,5112.0,961.36,961.36,961.36,Johnson City,Level 2 Musculoskeletal Procedures,TN
+241,27740,28285,683.11,683.11,683.11,Repair of hammertoe,5113.0,1906.12,1906.12,1906.12,Johnson City,Level 3 Musculoskeletal Procedures,TN
+245,27740,26160,524.71,524.71,524.71,Remove tendon sheath lesion,5112.0,961.36,961.36,961.36,Johnson City,Level 2 Musculoskeletal Procedures,TN
+249,27740,29848,589.9,589.9,589.9,Wrist endoscopy/surgery,5112.0,961.36,961.36,961.36,Johnson City,Level 2 Musculoskeletal Procedures,TN
+250,27740,19301,650.88,650.88,650.88,Partial mastectomy,5091.0,1903.01,1903.01,1903.01,Johnson City,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+251,27740,38525,801.07,801.07,801.07,Biopsy/removal lymph nodes,5091.0,1903.01,1903.01,1903.01,Johnson City,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+255,27740,23120,606.31,606.31,606.31,Partial removal collar bone,5113.0,1906.12,1906.12,1906.12,Johnson City,Level 3 Musculoskeletal Procedures,TN
+256,27740,25111,572.41,572.41,572.41,Remove wrist tendon lesion,5112.0,961.36,961.36,961.36,Johnson City,Level 2 Musculoskeletal Procedures,TN
+258,32280,66982,823.71,823.71,823.71,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1477.57,1470.46,1463.36,Jackson,Level 1 Intraocular Procedures,TN
+259,32280,66984,829.66,829.66,829.66,Xcapsl ctrc rmvl w/o ecp,5491.0,1477.57,1470.46,1463.36,Jackson,Level 1 Intraocular Procedures,TN
+260,32280,43453,524.92,524.92,524.92,Dilate esophagus,5302.0,1146.71,1101.61,1060.05,Jackson,Level 2 Upper GI Procedures,TN
+262,37540,66982,823.71,823.71,823.71,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1477.57,1470.46,1463.36,Jackson,Level 1 Intraocular Procedures,TN
+263,37540,66984,829.66,829.66,829.66,Xcapsl ctrc rmvl w/o ecp,5491.0,1477.57,1470.46,1463.36,Jackson,Level 1 Intraocular Procedures,TN
+264,32820,0191T,2416.97,2416.97,2416.97,Insert ant segment drain int,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+265,32820,29823,783.98,719.37,654.75,Shoulder arthroscopy/surgery,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+266,32820,29824,729.16,703.12,677.08,Shoulder arthroscopy/surgery,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+267,32820,29827,2490.83,2441.01,2391.2,Arthroscop rotator cuff repr,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+268,32820,29880,1145.82,1145.82,1145.82,Knee arthroscopy/surgery,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+269,32820,29881,1145.82,1145.82,1145.82,Knee arthroscopy/surgery,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+270,32820,43249,571.74,571.74,571.74,Esoph egd dilation <30 mm,5302.0,1209.92,1193.86,1182.47,Memphis,Level 2 Upper GI Procedures,TN
+271,32820,43251,571.74,571.74,571.74,Egd remove lesion snare,5302.0,1209.92,1193.86,1182.47,Memphis,Level 2 Upper GI Procedures,TN
+272,32820,50590,1600.74,1600.74,1600.74,Fragmenting of kidney stone,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+274,32820,63685,20763.71,20763.71,20763.71,Insrt/redo spine n generator,5464.0,24442.75,23705.56,23087.74,Memphis,Level 4 Neurostimulator and Related Procedures,TN
+275,32820,64633,731.86,668.43,605.01,Destroy cerv/thor facet jnt,5431.0,1417.31,1402.76,1373.75,Memphis,Level 1 Nerve Procedures,TN
+276,32820,64635,741.62,670.59,577.54,Destroy lumb/sac facet jnt,5431.0,1417.31,1402.76,1373.75,Memphis,Level 1 Nerve Procedures,TN
+277,32820,66982,919.08,912.33,889.29,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1643.0,1594.18,1525.7,Memphis,Level 1 Intraocular Procedures,TN
+278,32820,66984,919.08,907.17,883.88,Xcapsl ctrc rmvl w/o ecp,5491.0,1643.0,1594.18,1525.7,Memphis,Level 1 Intraocular Procedures,TN
+279,32820,67904,602.31,591.2,580.12,Repair eyelid defect,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+280,32820,C9740,5990.78,5937.03,5883.28,Cysto impl 4 or more,5376.0,6754.11,6499.38,6244.65,Memphis,Level 6 Urology and Related Services,TN
+281,32820,20680,969.64,969.64,969.64,Removal of support implant,5073.0,1947.83,1893.65,1770.13,Memphis,Level 3 Excision/ Biopsy/ Incision and Drainage,TN
+282,32820,23430,1729.75,1729.75,1729.75,Repair biceps tendon,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+283,32820,26055,532.74,475.35,426.8,Incise finger tendon sheath,5112.0,1103.51,1075.55,1057.23,Memphis,Level 2 Musculoskeletal Procedures,TN
+284,32820,64721,741.62,699.91,678.44,Carpal tunnel surgery,5431.0,1417.31,1402.76,1373.75,Memphis,Level 1 Nerve Procedures,TN
+285,32820,28285,857.3,755.08,656.07,Repair of hammertoe,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+286,32820,67040,1581.53,1581.53,1581.53,Laser treatment of retina,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+287,32820,67041,1644.22,1644.22,1644.22,Vit for macular pucker,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+288,32820,67108,1644.22,1644.22,1644.22,Repair detached retina,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+289,32820,67113,1644.22,1644.22,1644.22,Repair retinal detach cplx,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+290,32820,55700,739.03,738.78,738.53,Biopsy of prostate,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+291,32820,25447,1107.63,1096.57,1085.51,Repair wrist joints,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+292,32820,63047,1970.05,1970.05,1970.05,Remove spine lamina 1 lmbr,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+293,32820,26160,586.18,586.18,586.18,Remove tendon sheath lesion,5112.0,1103.51,1075.55,1057.23,Memphis,Level 2 Musculoskeletal Procedures,TN
+294,32820,64718,571.67,571.67,571.67,Revise ulnar nerve at elbow,5431.0,1417.31,1402.76,1373.75,Memphis,Level 1 Nerve Procedures,TN
+295,32820,67036,1644.22,1638.21,1632.19,Removal of inner eye fluid,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+296,32820,67042,1644.22,1644.22,1644.22,Vit for macular hole,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+297,32820,30520,694.62,684.65,674.68,Repair of nasal septum,5164.0,1970.28,1970.28,1970.28,Memphis,Level 4 ENT Procedures,TN
+298,32820,31255,903.14,853.4,803.67,Nsl/sins ndsc w/tot ethmdct,5155.0,3954.68,3954.68,3954.68,Memphis,Level 5 Airway Endoscopy,TN
+299,32820,31256,525.38,525.38,525.38,Exploration maxillary sinus,5154.0,2203.72,2139.42,2013.64,Memphis,Level 4 Airway Endoscopy,TN
+300,32820,31267,770.88,770.88,770.88,Endoscopy maxillary sinus,5155.0,3954.68,3954.68,3954.68,Memphis,Level 5 Airway Endoscopy,TN
+301,32820,52234,1087.91,1000.53,913.16,Cystoscopy and treatment,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+302,32820,52356,1636.0,1602.22,1584.23,Cysto/uretero w/lithotripsy,5375.0,3157.98,3119.05,3060.72,Memphis,Level 5 Urology and Related Services,TN
+303,32820,66710,744.43,737.54,723.75,Ciliary transsleral therapy,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+304,32820,67924,563.96,563.96,563.96,Repair eyelid defect,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+305,32820,29848,528.08,516.65,505.22,Wrist endoscopy/surgery,5112.0,1103.51,1075.55,1057.23,Memphis,Level 2 Musculoskeletal Procedures,TN
+306,32820,19301,716.39,708.93,701.47,Partial mastectomy,5091.0,2265.58,2244.31,2227.97,Memphis,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+307,32820,28308,1098.08,1010.55,923.02,Incision of metatarsal,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+308,32820,28750,3395.19,3395.19,3395.19,Fusion of big toe joint,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+309,32820,30140,442.03,442.03,442.03,Resect inferior turbinate,5164.0,1970.28,1970.28,1970.28,Memphis,Level 4 ENT Procedures,TN
+310,32820,38525,926.46,904.35,882.24,Biopsy/removal lymph nodes,5091.0,2265.58,2244.31,2227.97,Memphis,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+311,32820,52235,1079.27,1057.19,1035.1,Cystoscopy and treatment,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+312,32820,52332,941.91,896.48,859.44,Cystoscopy and treatment,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+313,32820,52352,1539.76,1448.22,1356.68,Cystouretero w/stone remove,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+314,32820,57288,1688.94,1688.94,1688.94,Repair bladder defect,5415.0,3407.72,3319.1,3230.48,Memphis,Level 5 Gynecologic Procedures,TN
+316,32820,43245,553.3,553.3,553.3,Egd dilate stricture,5302.0,1209.92,1193.86,1182.47,Memphis,Level 2 Upper GI Procedures,TN
+317,32820,43270,571.74,571.74,571.74,Egd lesion ablation,5302.0,1209.92,1193.86,1182.47,Memphis,Level 2 Upper GI Procedures,TN
+318,32820,66180,1644.22,1629.0,1598.55,Aqueous shunt eye w/graft,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+319,32820,67900,558.33,541.09,523.86,Repair brow defect,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+320,32820,23412,2075.69,2075.69,2075.69,Repair rotator cuff chronic,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+321,32820,52204,595.9,572.56,549.23,Cystoscopy w/biopsy(s),5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+322,32820,52240,1595.1,1581.47,1567.83,Cystoscopy and treatment,5375.0,3157.98,3119.05,3060.72,Memphis,Level 5 Urology and Related Services,TN
+323,32820,58558,966.58,966.58,966.58,Hysteroscopy biopsy,5414.0,1890.31,1825.67,1740.61,Memphis,Level 4 Gynecologic Procedures,TN
+324,32820,28296,1063.98,970.76,845.72,Correction hallux valgus,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+325,32820,65755,1644.22,1644.22,1644.22,Corneal transplant,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+326,32820,65756,1644.22,1644.22,1644.22,Corneal trnspl endothelial,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+327,32820,66170,919.08,919.08,919.08,Glaucoma surgery,5491.0,1643.0,1594.18,1525.7,Memphis,Level 1 Intraocular Procedures,TN
+328,32820,66250,744.43,694.8,645.17,Follow-up surgery of eye,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+329,32820,63030,2306.32,2306.32,2306.32,Low back disk surgery,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+330,32820,52005,715.47,602.15,488.82,Cystoscopy & ureter catheter,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+331,32820,52601,1636.0,1628.56,1621.13,Prostatectomy (turp),5375.0,3157.98,3119.05,3060.72,Memphis,Level 5 Urology and Related Services,TN
+333,32820,66183,1644.22,1644.22,1644.22,Insert ant drainage device,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+334,32820,67966,602.64,602.64,602.64,Revision of eyelid,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+335,32820,67917,589.34,559.0,528.66,Repair eyelid defect,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+336,32820,67903,744.43,744.43,744.43,Repair eyelid defect,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+337,32820,68720,1226.38,1190.31,1154.24,Create tear sac drain,5504.0,2456.22,2456.22,2456.22,Memphis,"Level 4 Extraocular, Repair, and Plastic Eye Procedures",TN
+338,32820,68815,620.36,530.79,422.98,Probe nasolacrimal duct,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+339,32820,19125,925.6,861.19,796.78,Excision breast lesion,5091.0,2265.58,2244.31,2227.97,Memphis,Level 1 Breast/Lymphatic Surgery and Related Procedures,TN
+340,32820,52281,723.59,723.28,722.96,Cystoscopy and treatment,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+341,32820,52287,744.87,722.96,701.05,Cystoscopy chemodenervation,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+342,32820,52351,654.97,619.34,594.31,Cystouretero & or pyeloscope,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+343,32820,54161,679.15,679.15,679.15,Circum 28 days or older,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+344,32820,68326,1226.38,1226.38,1226.38,Revise/graft eyelid lining,5504.0,2456.22,2456.22,2456.22,Memphis,"Level 4 Extraocular, Repair, and Plastic Eye Procedures",TN
+345,32820,52224,680.41,664.76,649.1,Cystoscopy and treatment,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+346,32820,52310,719.31,701.05,682.8,Cystoscopy and treatment,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+347,32820,52317,917.05,894.64,872.23,Remove bladder stone,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+348,32820,0449T,2216.9,2216.9,2216.9,Insj aqueous drain dev 1st,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+349,32820,66985,648.76,648.76,648.76,Insert lens prosthesis,5491.0,1643.0,1594.18,1525.7,Memphis,Level 1 Intraocular Procedures,TN
+350,32820,67039,1638.2,1638.2,1638.2,Laser treatment of retina,5492.0,3098.89,3039.28,2961.69,Memphis,Level 2 Intraocular Procedures,TN
+351,32820,26123,1069.43,1069.43,1069.43,Release palm contracture,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+352,32820,51102,525.79,525.79,525.79,Drain bl w/cath insertion,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+353,32820,52214,613.42,613.42,613.42,Cystoscopy and treatment,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+354,32820,52276,713.83,681.3,648.76,Cystoscopy and treatment,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+355,32820,52315,687.57,687.57,687.57,Cystoscopy and treatment,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+356,32820,52318,1431.5,1431.5,1431.5,Remove bladder stone,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+357,32820,52354,1597.05,1597.05,1597.05,Cystouretero w/biopsy,5375.0,3157.98,3119.05,3060.72,Memphis,Level 5 Urology and Related Services,TN
+358,32820,52260,744.87,703.18,661.49,Cystoscopy and treatment,5373.0,1490.98,1473.49,1451.17,Memphis,Level 3 Urology and Related Services,TN
+359,32820,52353,1569.68,1516.23,1462.78,Cystouretero w/lithotripsy,5375.0,3157.98,3119.05,3060.72,Memphis,Level 5 Urology and Related Services,TN
+360,32820,26040,592.52,592.52,592.52,Release palm contracture,5112.0,1103.51,1075.55,1057.23,Memphis,Level 2 Musculoskeletal Procedures,TN
+361,32820,67121,861.64,861.64,861.64,Remove eye implant material,5491.0,1643.0,1594.18,1525.7,Memphis,Level 1 Intraocular Procedures,TN
+362,32820,23120,572.91,572.91,572.91,Partial removal collar bone,5113.0,2210.16,2185.74,2104.63,Memphis,Level 3 Musculoskeletal Procedures,TN
+364,32820,21235,1916.22,1467.11,1017.99,Ear cartilage graft,5165.0,3744.38,3687.0,3637.57,Memphis,Level 5 ENT Procedures,TN
+365,32820,67950,601.27,601.27,601.27,Revision of eyelid,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+366,32820,69631,1836.38,1836.38,1836.38,Repair eardrum structures,5165.0,3744.38,3687.0,3637.57,Memphis,Level 5 ENT Procedures,TN
+367,32820,43255,560.31,560.31,560.31,Egd control bleeding any,5302.0,1209.92,1193.86,1182.47,Memphis,Level 2 Upper GI Procedures,TN
+368,32820,25607,3432.64,3432.64,3432.64,Treat fx rad extra-articul,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+369,32820,63056,2387.05,2387.05,2387.05,Decompress spinal cord lmbr,5114.0,4666.94,4610.94,4568.99,Memphis,Level 4 Musculoskeletal Procedures,TN
+370,32820,52500,896.63,896.63,896.63,Revision of bladder neck,5374.0,2304.63,2248.02,2189.93,Memphis,Level 4 Urology and Related Services,TN
+371,32820,52630,1600.19,1600.19,1600.19,Remove prostate regrowth,5375.0,3157.98,3119.05,3060.72,Memphis,Level 5 Urology and Related Services,TN
+373,32820,69714,7369.18,7369.18,7369.18,Implant temple bone w/stimul,5115.0,8528.15,8329.87,8103.51,Memphis,Level 5 Musculoskeletal Procedures,TN
+374,32820,52647,1636.0,1636.0,1636.0,Laser surgery of prostate,5375.0,3157.98,3119.05,3060.72,Memphis,Level 5 Urology and Related Services,TN
+375,32820,67901,687.17,687.17,687.17,Repair eyelid defect,5503.0,1483.75,1483.75,1483.75,Memphis,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+376,28940,29823,653.35,608.39,563.43,Shoulder arthroscopy/surgery,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+377,28940,29824,690.2,666.35,648.57,Shoulder arthroscopy/surgery,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+378,28940,29827,2095.78,2018.92,1935.98,Arthroscop rotator cuff repr,5114.0,4286.06,4207.26,4096.61,Knoxville,Level 4 Musculoskeletal Procedures,TN
+379,28940,29880,1051.73,1047.12,1033.28,Knee arthroscopy/surgery,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+380,28940,29881,1051.73,1046.64,1040.77,Knee arthroscopy/surgery,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+381,28940,43249,524.8,518.4,512.0,Esoph egd dilation <30 mm,5302.0,1123.1,1080.77,1044.29,Knoxville,Level 2 Upper GI Procedures,TN
+382,28940,63650,3788.94,3781.13,3765.52,Implant neuroelectrodes,5462.0,4715.66,4672.47,4586.1,Knoxville,Level 2 Neurostimulator and Related Procedures,TN
+383,28940,64633,658.77,621.33,571.33,Destroy cerv/thor facet jnt,5431.0,1283.27,1258.62,1206.09,Knoxville,Level 1 Nerve Procedures,TN
+384,28940,64635,678.56,599.98,524.41,Destroy lumb/sac facet jnt,5431.0,1283.27,1258.62,1206.09,Knoxville,Level 1 Nerve Procedures,TN
+385,28940,66982,843.61,839.97,825.4,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1497.68,1475.57,1438.82,Knoxville,Level 1 Intraocular Procedures,TN
+386,28940,66984,843.61,836.65,833.27,Xcapsl ctrc rmvl w/o ecp,5491.0,1497.68,1475.57,1438.82,Knoxville,Level 1 Intraocular Procedures,TN
+387,28940,67904,549.33,534.77,526.34,Repair eyelid defect,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+388,28940,20680,890.02,849.23,808.45,Removal of support implant,5073.0,1763.88,1740.33,1698.76,Knoxville,Level 3 Excision/ Biopsy/ Incision and Drainage,TN
+389,28940,26055,511.22,475.85,429.83,Incise finger tendon sheath,5112.0,999.43,992.67,960.43,Knoxville,Level 2 Musculoskeletal Procedures,TN
+390,28940,64721,673.44,661.14,647.79,Carpal tunnel surgery,5431.0,1283.27,1258.62,1206.09,Knoxville,Level 1 Nerve Procedures,TN
+391,28940,43259,524.8,524.8,524.8,Egd us exam duodenum/jejunum,5302.0,1123.1,1080.77,1044.29,Knoxville,Level 2 Upper GI Procedures,TN
+392,28940,28285,800.23,691.37,582.5,Repair of hammertoe,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+393,28940,67040,1509.21,1509.21,1509.21,Laser treatment of retina,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+394,28940,67041,1509.21,1509.21,1509.21,Vit for macular pucker,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+395,28940,67108,1509.21,1509.21,1509.21,Repair detached retina,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+396,28940,67113,1509.21,1509.21,1509.21,Repair retinal detach cplx,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+397,28940,25447,991.63,991.63,991.63,Repair wrist joints,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+398,28940,29828,2286.3,2286.3,2286.3,Arthroscopy biceps tenodesis,5114.0,4286.06,4207.26,4096.61,Knoxville,Level 4 Musculoskeletal Procedures,TN
+399,28940,26160,562.62,546.36,530.89,Remove tendon sheath lesion,5112.0,999.43,992.67,960.43,Knoxville,Level 2 Musculoskeletal Procedures,TN
+400,28940,64718,491.64,457.65,413.3,Revise ulnar nerve at elbow,5431.0,1283.27,1258.62,1206.09,Knoxville,Level 1 Nerve Procedures,TN
+401,28940,67036,1509.21,1509.21,1509.21,Removal of inner eye fluid,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+402,28940,67042,1509.21,1509.21,1509.21,Vit for macular hole,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+403,28940,30520,637.59,628.73,619.88,Repair of nasal septum,5164.0,1784.23,1767.06,1732.76,Knoxville,Level 4 ENT Procedures,TN
+404,28940,31255,763.11,763.11,763.11,Nsl/sins ndsc w/tot ethmdct,5155.0,3581.17,3452.61,3191.0,Knoxville,Level 5 Airway Endoscopy,TN
+405,28940,31267,1010.88,1010.88,1010.88,Endoscopy maxillary sinus,5155.0,3581.17,3452.61,3191.0,Knoxville,Level 5 Airway Endoscopy,TN
+406,28940,66710,683.31,675.55,667.78,Ciliary transsleral therapy,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+407,28940,67924,683.31,683.31,683.31,Repair eyelid defect,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+408,28940,29848,566.79,566.79,566.79,Wrist endoscopy/surgery,5112.0,999.43,992.67,960.43,Knoxville,Level 2 Musculoskeletal Procedures,TN
+409,28940,28308,664.78,664.78,664.78,Incision of metatarsal,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+410,28940,28750,2870.36,2870.36,2870.36,Fusion of big toe joint,5114.0,4286.06,4207.26,4096.61,Knoxville,Level 4 Musculoskeletal Procedures,TN
+411,28940,30140,437.36,421.55,405.74,Resect inferior turbinate,5164.0,1784.23,1767.06,1732.76,Knoxville,Level 4 ENT Procedures,TN
+412,28940,43245,299.89,299.89,299.89,Egd dilate stricture,5302.0,1123.1,1080.77,1044.29,Knoxville,Level 2 Upper GI Procedures,TN
+413,28940,66180,1509.21,1509.21,1509.21,Aqueous shunt eye w/graft,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+414,28940,67900,534.39,534.39,534.39,Repair brow defect,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+415,28940,58558,920.07,920.07,920.07,Hysteroscopy biopsy,5414.0,1711.79,1683.38,1645.39,Knoxville,Level 4 Gynecologic Procedures,TN
+416,28940,25609,3173.3,3173.3,3173.3,Treat fx radial 3+ frag,5114.0,4286.06,4207.26,4096.61,Knoxville,Level 4 Musculoskeletal Procedures,TN
+417,28940,65730,1509.21,1509.21,1509.21,Corneal transplant,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+418,28940,65755,1390.06,1390.06,1390.06,Corneal transplant,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+419,28940,65756,1499.28,1499.28,1499.28,Corneal trnspl endothelial,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+420,28940,66170,719.55,632.71,545.87,Glaucoma surgery,5491.0,1497.68,1475.57,1438.82,Knoxville,Level 1 Intraocular Procedures,TN
+421,28940,66250,683.31,655.98,628.65,Follow-up surgery of eye,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+422,28940,66986,614.37,614.37,614.37,Exchange lens prosthesis,5491.0,1497.68,1475.57,1438.82,Knoxville,Level 1 Intraocular Procedures,TN
+423,28940,67010,843.61,843.61,843.61,Partial removal of eye fluid,5491.0,1497.68,1475.57,1438.82,Knoxville,Level 1 Intraocular Procedures,TN
+424,28940,66183,1509.21,1509.21,1509.21,Insert ant drainage device,5492.0,2806.16,2806.16,2806.16,Knoxville,Level 2 Intraocular Procedures,TN
+425,28940,25000,525.12,525.12,525.12,Incision of tendon sheath,5112.0,999.43,992.67,960.43,Knoxville,Level 2 Musculoskeletal Procedures,TN
+426,28940,65426,683.31,683.31,683.31,Removal of eye lesion,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+427,28940,67917,626.37,626.37,626.37,Repair eyelid defect,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+428,28940,67903,525.63,525.63,525.63,Repair eyelid defect,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+429,28940,65436,162.68,162.68,162.68,Curette/treat cornea,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+430,28940,66985,602.58,602.58,602.58,Insert lens prosthesis,5491.0,1497.68,1475.57,1438.82,Knoxville,Level 1 Intraocular Procedures,TN
+431,28940,26123,1051.73,1043.51,1035.3,Release palm contracture,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+432,28940,25310,542.3,542.3,542.3,Transplant forearm tendon,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+433,28940,67121,761.97,761.97,761.97,Remove eye implant material,5491.0,1497.68,1475.57,1438.82,Knoxville,Level 1 Intraocular Procedures,TN
+434,28940,67880,409.99,409.99,409.99,Revision of eyelid,5503.0,1396.6,1396.6,1396.6,Knoxville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+435,28940,25111,492.97,492.97,492.97,Remove wrist tendon lesion,5112.0,999.43,992.67,960.43,Knoxville,Level 2 Musculoskeletal Procedures,TN
+436,28940,25607,3150.77,3150.77,3150.77,Treat fx rad extra-articul,5114.0,4286.06,4207.26,4096.61,Knoxville,Level 4 Musculoskeletal Procedures,TN
+437,28940,43238,524.8,524.8,524.8,Egd us fine needle bx/aspir,5302.0,1123.1,1080.77,1044.29,Knoxville,Level 2 Upper GI Procedures,TN
+438,28940,43202,475.6,475.6,475.6,Esophagoscopy flex biopsy,5302.0,1123.1,1080.77,1044.29,Knoxville,Level 2 Upper GI Procedures,TN
+439,28940,28113,525.87,525.87,525.87,Part removal of metatarsal,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+440,28940,28112,535.26,535.26,535.26,Part removal of metatarsal,5113.0,2014.81,1964.8,1912.58,Knoxville,Level 3 Musculoskeletal Procedures,TN
+441,17300,29823,599.88,599.88,599.88,Shoulder arthroscopy/surgery,5113.0,2212.59,2173.55,2134.51,Nashville,Level 3 Musculoskeletal Procedures,TN
+442,17300,29827,2301.28,2301.28,2301.28,Arthroscop rotator cuff repr,5114.0,4745.36,4668.23,4591.1,Nashville,Level 4 Musculoskeletal Procedures,TN
+443,17300,29880,1058.62,1058.62,1058.62,Knee arthroscopy/surgery,5113.0,2212.59,2173.55,2134.51,Nashville,Level 3 Musculoskeletal Procedures,TN
+444,17300,29881,1058.62,1028.08,997.55,Knee arthroscopy/surgery,5113.0,2212.59,2173.55,2134.51,Nashville,Level 3 Musculoskeletal Procedures,TN
+445,17300,64635,685.19,685.19,685.19,Destroy lumb/sac facet jnt,5431.0,1410.78,1410.78,1410.78,Nashville,Level 1 Nerve Procedures,TN
+446,17300,66982,849.14,849.14,849.14,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1656.83,1656.83,1656.83,Nashville,Level 1 Intraocular Procedures,TN
+447,17300,66984,848.51,846.74,844.98,Xcapsl ctrc rmvl w/o ecp,5491.0,1656.83,1656.83,1656.83,Nashville,Level 1 Intraocular Procedures,TN
+448,17300,26055,460.99,460.99,460.99,Incise finger tendon sheath,5112.0,1121.27,1104.81,1088.34,Nashville,Level 2 Musculoskeletal Procedures,TN
+449,17300,49505,1172.67,1172.67,1172.67,Prp i/hern init reduc >5 yr,5341.0,2636.6,2635.25,2633.9,Nashville,Abdominal/Peritoneal/Biliary and Related Procedures,TN
+450,17300,64721,685.19,685.19,685.19,Carpal tunnel surgery,5431.0,1410.78,1410.78,1410.78,Nashville,Level 1 Nerve Procedures,TN
+453,30280,29824,729.5,729.5,729.5,Shoulder arthroscopy/surgery,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+454,30280,29827,2164.27,2164.27,2164.27,Arthroscop rotator cuff repr,5114.0,4770.5,4770.5,4770.5,Nashville,Level 4 Musculoskeletal Procedures,TN
+455,30280,29880,1176.61,1176.61,1176.61,Knee arthroscopy/surgery,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+456,30280,29881,1176.61,1176.61,1176.61,Knee arthroscopy/surgery,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+457,30280,43249,587.11,587.11,587.11,Esoph egd dilation <30 mm,5302.0,1229.64,1229.64,1229.64,Nashville,Level 2 Upper GI Procedures,TN
+459,30280,66982,943.78,943.78,943.78,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1660.34,1660.34,1660.34,Nashville,Level 1 Intraocular Procedures,TN
+460,30280,66984,943.78,943.78,943.78,Xcapsl ctrc rmvl w/o ecp,5491.0,1660.34,1660.34,1660.34,Nashville,Level 1 Intraocular Procedures,TN
+461,30280,20680,995.7,995.7,995.7,Removal of support implant,5073.0,2010.18,2010.18,2010.18,Nashville,Level 3 Excision/ Biopsy/ Incision and Drainage,TN
+462,30280,23430,2520.16,2520.16,2520.16,Repair biceps tendon,5114.0,4770.5,4770.5,4770.5,Nashville,Level 4 Musculoskeletal Procedures,TN
+463,30280,26055,524.53,524.53,524.53,Incise finger tendon sheath,5112.0,1109.58,1109.58,1109.58,Nashville,Level 2 Musculoskeletal Procedures,TN
+465,30280,28285,735.38,735.38,735.38,Repair of hammertoe,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+466,30280,25447,1138.66,1138.66,1138.66,Repair wrist joints,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+468,30280,23412,1805.49,1805.49,1805.49,Repair rotator cuff chronic,5114.0,4770.5,4770.5,4770.5,Nashville,Level 4 Musculoskeletal Procedures,TN
+469,30280,29822,602.66,602.66,602.66,Shoulder arthroscopy/surgery,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+470,30280,28270,625.08,625.08,625.08,Release of foot contracture,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+471,30280,25310,588.31,588.31,588.31,Transplant forearm tendon,5113.0,2280.84,2280.84,2280.84,Nashville,Level 3 Musculoskeletal Procedures,TN
+472,17420,29880,1066.18,1066.18,1066.18,Knee arthroscopy/surgery,5113.0,2157.34,2157.34,2157.34,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+473,17420,29881,1066.18,1066.18,1066.18,Knee arthroscopy/surgery,5113.0,2157.34,2157.34,2157.34,Chattanooga,Level 3 Musculoskeletal Procedures,TN
+476,17420,26055,519.65,519.65,519.65,Incise finger tendon sheath,5112.0,1090.92,1090.92,1090.92,Chattanooga,Level 2 Musculoskeletal Procedures,TN
+477,17420,64721,690.08,690.08,690.08,Carpal tunnel surgery,5431.0,1293.19,1293.19,1293.19,Chattanooga,Level 1 Nerve Procedures,TN
+486,46100,66982,835.99,823.67,811.35,Xcapsl ctrc rmvl cplx wo ecp,5491.0,1674.79,1636.6,1598.4,Nashville,Level 1 Intraocular Procedures,TN
+487,46100,66984,834.88,833.76,832.64,Xcapsl ctrc rmvl w/o ecp,5491.0,1674.79,1636.6,1598.4,Nashville,Level 1 Intraocular Procedures,TN
+488,46100,67904,562.85,562.85,562.85,Repair eyelid defect,5503.0,1567.07,1567.07,1567.07,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+489,46100,49505,1254.94,1254.94,1254.94,Prp i/hern init reduc >5 yr,5341.0,2565.27,2500.27,2384.42,Nashville,Abdominal/Peritoneal/Biliary and Related Procedures,TN
+490,46100,47563,1759.74,1759.74,1759.74,Laparo cholecystectomy/graph,5361.0,3867.42,3553.21,3244.2,Nashville,Level 1 Laparoscopy and Related Services,TN
+491,46100,67950,544.24,544.24,544.24,Revision of eyelid,5503.0,1567.07,1567.07,1567.07,Nashville,"Level 3 Extraocular, Repair, and Plastic Eye Procedures",TN
+492,46460,43453,524.92,524.92,524.92,Dilate esophagus,5302.0,1146.71,1122.39,1098.08,Jackson,Level 2 Upper GI Procedures,TN
